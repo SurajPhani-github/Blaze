@@ -1,0 +1,1397 @@
+{
+  "python": {
+    "name": "python",
+    "category": "programming",
+    "aliases": [
+      "python",
+      "python"
+    ],
+    "difficulty": "intermediate"
+  },
+  "java": {
+    "name": "java",
+    "category": "programming",
+    "aliases": [
+      "java",
+      "java"
+    ],
+    "difficulty": "intermediate"
+  },
+  "javascript": {
+    "name": "javascript",
+    "category": "programming",
+    "aliases": [
+      "javascript",
+      "javascript"
+    ],
+    "difficulty": "intermediate"
+  },
+  "c++": {
+    "name": "c++",
+    "category": "programming",
+    "aliases": [
+      "c++",
+      "c++"
+    ],
+    "difficulty": "intermediate"
+  },
+  "c#": {
+    "name": "c#",
+    "category": "programming",
+    "aliases": [
+      "c#",
+      "c#"
+    ],
+    "difficulty": "intermediate"
+  },
+  "ruby": {
+    "name": "ruby",
+    "category": "programming",
+    "aliases": [
+      "ruby",
+      "ruby"
+    ],
+    "difficulty": "intermediate"
+  },
+  "go": {
+    "name": "go",
+    "category": "programming",
+    "aliases": [
+      "go",
+      "go"
+    ],
+    "difficulty": "intermediate"
+  },
+  "rust": {
+    "name": "rust",
+    "category": "programming",
+    "aliases": [
+      "rust",
+      "rust"
+    ],
+    "difficulty": "intermediate"
+  },
+  "sql": {
+    "name": "sql",
+    "category": "programming",
+    "aliases": [
+      "sql",
+      "sql"
+    ],
+    "difficulty": "intermediate"
+  },
+  "r": {
+    "name": "r",
+    "category": "programming",
+    "aliases": [
+      "r",
+      "r"
+    ],
+    "difficulty": "intermediate"
+  },
+  "matlab": {
+    "name": "matlab",
+    "category": "programming",
+    "aliases": [
+      "matlab",
+      "matlab"
+    ],
+    "difficulty": "intermediate"
+  },
+  "scala": {
+    "name": "scala",
+    "category": "programming",
+    "aliases": [
+      "scala",
+      "scala"
+    ],
+    "difficulty": "intermediate"
+  },
+  "kotlin": {
+    "name": "kotlin",
+    "category": "programming",
+    "aliases": [
+      "kotlin",
+      "kotlin"
+    ],
+    "difficulty": "intermediate"
+  },
+  "swift": {
+    "name": "swift",
+    "category": "programming",
+    "aliases": [
+      "swift",
+      "swift"
+    ],
+    "difficulty": "intermediate"
+  },
+  "php": {
+    "name": "php",
+    "category": "programming",
+    "aliases": [
+      "php",
+      "php"
+    ],
+    "difficulty": "intermediate"
+  },
+  "typescript": {
+    "name": "typescript",
+    "category": "programming",
+    "aliases": [
+      "typescript",
+      "typescript"
+    ],
+    "difficulty": "intermediate"
+  },
+  "html": {
+    "name": "html",
+    "category": "programming",
+    "aliases": [
+      "html",
+      "html"
+    ],
+    "difficulty": "intermediate"
+  },
+  "css": {
+    "name": "css",
+    "category": "programming",
+    "aliases": [
+      "css",
+      "css"
+    ],
+    "difficulty": "intermediate"
+  },
+  "react": {
+    "name": "react",
+    "category": "programming",
+    "aliases": [
+      "react",
+      "react"
+    ],
+    "difficulty": "intermediate"
+  },
+  "angular": {
+    "name": "angular",
+    "category": "programming",
+    "aliases": [
+      "angular",
+      "angular"
+    ],
+    "difficulty": "intermediate"
+  },
+  "vue": {
+    "name": "vue",
+    "category": "programming",
+    "aliases": [
+      "vue",
+      "vue"
+    ],
+    "difficulty": "intermediate"
+  },
+  "node.js": {
+    "name": "node.js",
+    "category": "programming",
+    "aliases": [
+      "node.js",
+      "node.js"
+    ],
+    "difficulty": "intermediate"
+  },
+  "django": {
+    "name": "django",
+    "category": "programming",
+    "aliases": [
+      "django",
+      "django"
+    ],
+    "difficulty": "intermediate"
+  },
+  "flask": {
+    "name": "flask",
+    "category": "programming",
+    "aliases": [
+      "flask",
+      "flask"
+    ],
+    "difficulty": "intermediate"
+  },
+  "machine learning": {
+    "name": "machine learning",
+    "category": "data_science",
+    "aliases": [
+      "machine learning",
+      "machine-learning"
+    ],
+    "difficulty": "intermediate"
+  },
+  "deep learning": {
+    "name": "deep learning",
+    "category": "data_science",
+    "aliases": [
+      "deep learning",
+      "deep-learning"
+    ],
+    "difficulty": "advanced"
+  },
+  "data analysis": {
+    "name": "data analysis",
+    "category": "data_science",
+    "aliases": [
+      "data analysis",
+      "data-analysis"
+    ],
+    "difficulty": "intermediate"
+  },
+  "statistics": {
+    "name": "statistics",
+    "category": "data_science",
+    "aliases": [
+      "statistics",
+      "statistics"
+    ],
+    "difficulty": "intermediate"
+  },
+  "data visualization": {
+    "name": "data visualization",
+    "category": "data_science",
+    "aliases": [
+      "data visualization",
+      "data-visualization"
+    ],
+    "difficulty": "intermediate"
+  },
+  "big data": {
+    "name": "big data",
+    "category": "data_science",
+    "aliases": [
+      "big data",
+      "big-data"
+    ],
+    "difficulty": "intermediate"
+  },
+  "predictive modeling": {
+    "name": "predictive modeling",
+    "category": "data_science",
+    "aliases": [
+      "predictive modeling",
+      "predictive-modeling"
+    ],
+    "difficulty": "intermediate"
+  },
+  "regression": {
+    "name": "regression",
+    "category": "data_science",
+    "aliases": [
+      "regression",
+      "regression"
+    ],
+    "difficulty": "intermediate"
+  },
+  "classification": {
+    "name": "classification",
+    "category": "data_science",
+    "aliases": [
+      "classification",
+      "classification"
+    ],
+    "difficulty": "intermediate"
+  },
+  "clustering": {
+    "name": "clustering",
+    "category": "data_science",
+    "aliases": [
+      "clustering",
+      "clustering"
+    ],
+    "difficulty": "intermediate"
+  },
+  "neural networks": {
+    "name": "neural networks",
+    "category": "data_science",
+    "aliases": [
+      "neural networks",
+      "neural-networks"
+    ],
+    "difficulty": "advanced"
+  },
+  "natural language processing": {
+    "name": "natural language processing",
+    "category": "data_science",
+    "aliases": [
+      "natural language processing",
+      "natural-language-processing"
+    ],
+    "difficulty": "intermediate"
+  },
+  "computer vision": {
+    "name": "computer vision",
+    "category": "data_science",
+    "aliases": [
+      "computer vision",
+      "computer-vision"
+    ],
+    "difficulty": "intermediate"
+  },
+  "time series": {
+    "name": "time series",
+    "category": "data_science",
+    "aliases": [
+      "time series",
+      "time-series"
+    ],
+    "difficulty": "intermediate"
+  },
+  "feature engineering": {
+    "name": "feature engineering",
+    "category": "data_science",
+    "aliases": [
+      "feature engineering",
+      "feature-engineering"
+    ],
+    "difficulty": "intermediate"
+  },
+  "model evaluation": {
+    "name": "model evaluation",
+    "category": "data_science",
+    "aliases": [
+      "model evaluation",
+      "model-evaluation"
+    ],
+    "difficulty": "intermediate"
+  },
+  "software development": {
+    "name": "software development",
+    "category": "software_engineering",
+    "aliases": [
+      "software development",
+      "software-development"
+    ],
+    "difficulty": "intermediate"
+  },
+  "web development": {
+    "name": "web development",
+    "category": "software_engineering",
+    "aliases": [
+      "web development",
+      "web-development"
+    ],
+    "difficulty": "intermediate"
+  },
+  "mobile development": {
+    "name": "mobile development",
+    "category": "software_engineering",
+    "aliases": [
+      "mobile development",
+      "mobile-development"
+    ],
+    "difficulty": "intermediate"
+  },
+  "api development": {
+    "name": "api development",
+    "category": "software_engineering",
+    "aliases": [
+      "api development",
+      "api-development"
+    ],
+    "difficulty": "intermediate"
+  },
+  "microservices": {
+    "name": "microservices",
+    "category": "software_engineering",
+    "aliases": [
+      "microservices",
+      "microservices"
+    ],
+    "difficulty": "advanced"
+  },
+  "devops": {
+    "name": "devops",
+    "category": "software_engineering",
+    "aliases": [
+      "devops",
+      "devops"
+    ],
+    "difficulty": "intermediate"
+  },
+  "ci/cd": {
+    "name": "ci/cd",
+    "category": "software_engineering",
+    "aliases": [
+      "ci/cd",
+      "ci/cd"
+    ],
+    "difficulty": "intermediate"
+  },
+  "testing": {
+    "name": "testing",
+    "category": "software_engineering",
+    "aliases": [
+      "testing",
+      "testing"
+    ],
+    "difficulty": "intermediate"
+  },
+  "debugging": {
+    "name": "debugging",
+    "category": "software_engineering",
+    "aliases": [
+      "debugging",
+      "debugging"
+    ],
+    "difficulty": "intermediate"
+  },
+  "version control": {
+    "name": "version control",
+    "category": "software_engineering",
+    "aliases": [
+      "version control",
+      "version-control"
+    ],
+    "difficulty": "intermediate"
+  },
+  "git": {
+    "name": "git",
+    "category": "software_engineering",
+    "aliases": [
+      "git",
+      "git"
+    ],
+    "difficulty": "intermediate"
+  },
+  "agile": {
+    "name": "agile",
+    "category": "software_engineering",
+    "aliases": [
+      "agile",
+      "agile"
+    ],
+    "difficulty": "intermediate"
+  },
+  "scrum": {
+    "name": "scrum",
+    "category": "software_engineering",
+    "aliases": [
+      "scrum",
+      "scrum"
+    ],
+    "difficulty": "intermediate"
+  },
+  "software architecture": {
+    "name": "software architecture",
+    "category": "software_engineering",
+    "aliases": [
+      "software architecture",
+      "software-architecture"
+    ],
+    "difficulty": "advanced"
+  },
+  "design patterns": {
+    "name": "design patterns",
+    "category": "software_engineering",
+    "aliases": [
+      "design patterns",
+      "design-patterns"
+    ],
+    "difficulty": "intermediate"
+  },
+  "object-oriented programming": {
+    "name": "object-oriented programming",
+    "category": "software_engineering",
+    "aliases": [
+      "object oriented programming",
+      "object-oriented-programming"
+    ],
+    "difficulty": "intermediate"
+  },
+  "functional programming": {
+    "name": "functional programming",
+    "category": "software_engineering",
+    "aliases": [
+      "functional programming",
+      "functional-programming"
+    ],
+    "difficulty": "intermediate"
+  },
+  "aws": {
+    "name": "aws",
+    "category": "cloud_computing",
+    "aliases": [
+      "aws",
+      "aws"
+    ],
+    "difficulty": "intermediate"
+  },
+  "azure": {
+    "name": "azure",
+    "category": "cloud_computing",
+    "aliases": [
+      "azure",
+      "azure"
+    ],
+    "difficulty": "intermediate"
+  },
+  "google cloud": {
+    "name": "google cloud",
+    "category": "cloud_computing",
+    "aliases": [
+      "google cloud",
+      "google-cloud"
+    ],
+    "difficulty": "intermediate"
+  },
+  "cloud architecture": {
+    "name": "cloud architecture",
+    "category": "cloud_computing",
+    "aliases": [
+      "cloud architecture",
+      "cloud-architecture"
+    ],
+    "difficulty": "advanced"
+  },
+  "kubernetes": {
+    "name": "kubernetes",
+    "category": "cloud_computing",
+    "aliases": [
+      "kubernetes",
+      "kubernetes"
+    ],
+    "difficulty": "advanced"
+  },
+  "docker": {
+    "name": "docker",
+    "category": "cloud_computing",
+    "aliases": [
+      "docker",
+      "docker"
+    ],
+    "difficulty": "intermediate"
+  },
+  "containerization": {
+    "name": "containerization",
+    "category": "cloud_computing",
+    "aliases": [
+      "containerization",
+      "containerization"
+    ],
+    "difficulty": "intermediate"
+  },
+  "serverless": {
+    "name": "serverless",
+    "category": "cloud_computing",
+    "aliases": [
+      "serverless",
+      "serverless"
+    ],
+    "difficulty": "intermediate"
+  },
+  "cloud security": {
+    "name": "cloud security",
+    "category": "cloud_computing",
+    "aliases": [
+      "cloud security",
+      "cloud-security"
+    ],
+    "difficulty": "intermediate"
+  },
+  "cloud migration": {
+    "name": "cloud migration",
+    "category": "cloud_computing",
+    "aliases": [
+      "cloud migration",
+      "cloud-migration"
+    ],
+    "difficulty": "intermediate"
+  },
+  "infrastructure as code": {
+    "name": "infrastructure as code",
+    "category": "cloud_computing",
+    "aliases": [
+      "infrastructure as code",
+      "infrastructure-as-code"
+    ],
+    "difficulty": "intermediate"
+  },
+  "terraform": {
+    "name": "terraform",
+    "category": "cloud_computing",
+    "aliases": [
+      "terraform",
+      "terraform"
+    ],
+    "difficulty": "intermediate"
+  },
+  "network security": {
+    "name": "network security",
+    "category": "cybersecurity",
+    "aliases": [
+      "network security",
+      "network-security"
+    ],
+    "difficulty": "intermediate"
+  },
+  "cryptography": {
+    "name": "cryptography",
+    "category": "cybersecurity",
+    "aliases": [
+      "cryptography",
+      "cryptography"
+    ],
+    "difficulty": "advanced"
+  },
+  "ethical hacking": {
+    "name": "ethical hacking",
+    "category": "cybersecurity",
+    "aliases": [
+      "ethical hacking",
+      "ethical-hacking"
+    ],
+    "difficulty": "intermediate"
+  },
+  "penetration testing": {
+    "name": "penetration testing",
+    "category": "cybersecurity",
+    "aliases": [
+      "penetration testing",
+      "penetration-testing"
+    ],
+    "difficulty": "intermediate"
+  },
+  "security analysis": {
+    "name": "security analysis",
+    "category": "cybersecurity",
+    "aliases": [
+      "security analysis",
+      "security-analysis"
+    ],
+    "difficulty": "intermediate"
+  },
+  "risk assessment": {
+    "name": "risk assessment",
+    "category": "cybersecurity",
+    "aliases": [
+      "risk assessment",
+      "risk-assessment"
+    ],
+    "difficulty": "intermediate"
+  },
+  "compliance": {
+    "name": "compliance",
+    "category": "cybersecurity",
+    "aliases": [
+      "compliance",
+      "compliance"
+    ],
+    "difficulty": "intermediate"
+  },
+  "incident response": {
+    "name": "incident response",
+    "category": "cybersecurity",
+    "aliases": [
+      "incident response",
+      "incident-response"
+    ],
+    "difficulty": "intermediate"
+  },
+  "security architecture": {
+    "name": "security architecture",
+    "category": "cybersecurity",
+    "aliases": [
+      "security architecture",
+      "security-architecture"
+    ],
+    "difficulty": "advanced"
+  },
+  "vulnerability assessment": {
+    "name": "vulnerability assessment",
+    "category": "cybersecurity",
+    "aliases": [
+      "vulnerability assessment",
+      "vulnerability-assessment"
+    ],
+    "difficulty": "intermediate"
+  },
+  "business intelligence": {
+    "name": "business intelligence",
+    "category": "business_analysis",
+    "aliases": [
+      "business intelligence",
+      "business-intelligence"
+    ],
+    "difficulty": "intermediate"
+  },
+  "data-driven decision making": {
+    "name": "data-driven decision making",
+    "category": "business_analysis",
+    "aliases": [
+      "data driven decision making",
+      "data-driven-decision-making"
+    ],
+    "difficulty": "intermediate"
+  },
+  "strategic planning": {
+    "name": "strategic planning",
+    "category": "business_analysis",
+    "aliases": [
+      "strategic planning",
+      "strategic-planning"
+    ],
+    "difficulty": "intermediate"
+  },
+  "market analysis": {
+    "name": "market analysis",
+    "category": "business_analysis",
+    "aliases": [
+      "market analysis",
+      "market-analysis"
+    ],
+    "difficulty": "intermediate"
+  },
+  "competitive analysis": {
+    "name": "competitive analysis",
+    "category": "business_analysis",
+    "aliases": [
+      "competitive analysis",
+      "competitive-analysis"
+    ],
+    "difficulty": "intermediate"
+  },
+  "requirements gathering": {
+    "name": "requirements gathering",
+    "category": "business_analysis",
+    "aliases": [
+      "requirements gathering",
+      "requirements-gathering"
+    ],
+    "difficulty": "intermediate"
+  },
+  "process improvement": {
+    "name": "process improvement",
+    "category": "business_analysis",
+    "aliases": [
+      "process improvement",
+      "process-improvement"
+    ],
+    "difficulty": "intermediate"
+  },
+  "stakeholder management": {
+    "name": "stakeholder management",
+    "category": "business_analysis",
+    "aliases": [
+      "stakeholder management",
+      "stakeholder-management"
+    ],
+    "difficulty": "intermediate"
+  },
+  "project planning": {
+    "name": "project planning",
+    "category": "project_management",
+    "aliases": [
+      "project planning",
+      "project-planning"
+    ],
+    "difficulty": "intermediate"
+  },
+  "risk management": {
+    "name": "risk management",
+    "category": "finance",
+    "aliases": [
+      "risk management",
+      "risk-management"
+    ],
+    "difficulty": "intermediate"
+  },
+  "resource allocation": {
+    "name": "resource allocation",
+    "category": "project_management",
+    "aliases": [
+      "resource allocation",
+      "resource-allocation"
+    ],
+    "difficulty": "intermediate"
+  },
+  "budgeting": {
+    "name": "budgeting",
+    "category": "project_management",
+    "aliases": [
+      "budgeting",
+      "budgeting"
+    ],
+    "difficulty": "intermediate"
+  },
+  "scheduling": {
+    "name": "scheduling",
+    "category": "project_management",
+    "aliases": [
+      "scheduling",
+      "scheduling"
+    ],
+    "difficulty": "intermediate"
+  },
+  "leadership": {
+    "name": "leadership",
+    "category": "project_management",
+    "aliases": [
+      "leadership",
+      "leadership"
+    ],
+    "difficulty": "intermediate"
+  },
+  "team management": {
+    "name": "team management",
+    "category": "project_management",
+    "aliases": [
+      "team management",
+      "team-management"
+    ],
+    "difficulty": "intermediate"
+  },
+  "communication": {
+    "name": "communication",
+    "category": "project_management",
+    "aliases": [
+      "communication",
+      "communication"
+    ],
+    "difficulty": "intermediate"
+  },
+  "negotiation": {
+    "name": "negotiation",
+    "category": "project_management",
+    "aliases": [
+      "negotiation",
+      "negotiation"
+    ],
+    "difficulty": "intermediate"
+  },
+  "conflict resolution": {
+    "name": "conflict resolution",
+    "category": "project_management",
+    "aliases": [
+      "conflict resolution",
+      "conflict-resolution"
+    ],
+    "difficulty": "intermediate"
+  },
+  "digital marketing": {
+    "name": "digital marketing",
+    "category": "marketing",
+    "aliases": [
+      "digital marketing",
+      "digital-marketing"
+    ],
+    "difficulty": "intermediate"
+  },
+  "content marketing": {
+    "name": "content marketing",
+    "category": "marketing",
+    "aliases": [
+      "content marketing",
+      "content-marketing"
+    ],
+    "difficulty": "intermediate"
+  },
+  "social media marketing": {
+    "name": "social media marketing",
+    "category": "marketing",
+    "aliases": [
+      "social media marketing",
+      "social-media-marketing"
+    ],
+    "difficulty": "intermediate"
+  },
+  "seo": {
+    "name": "seo",
+    "category": "marketing",
+    "aliases": [
+      "seo",
+      "seo"
+    ],
+    "difficulty": "intermediate"
+  },
+  "sem": {
+    "name": "sem",
+    "category": "marketing",
+    "aliases": [
+      "sem",
+      "sem"
+    ],
+    "difficulty": "intermediate"
+  },
+  "email marketing": {
+    "name": "email marketing",
+    "category": "marketing",
+    "aliases": [
+      "email marketing",
+      "email-marketing"
+    ],
+    "difficulty": "intermediate"
+  },
+  "marketing analytics": {
+    "name": "marketing analytics",
+    "category": "marketing",
+    "aliases": [
+      "marketing analytics",
+      "marketing-analytics"
+    ],
+    "difficulty": "intermediate"
+  },
+  "brand management": {
+    "name": "brand management",
+    "category": "marketing",
+    "aliases": [
+      "brand management",
+      "brand-management"
+    ],
+    "difficulty": "intermediate"
+  },
+  "customer acquisition": {
+    "name": "customer acquisition",
+    "category": "marketing",
+    "aliases": [
+      "customer acquisition",
+      "customer-acquisition"
+    ],
+    "difficulty": "intermediate"
+  },
+  "conversion optimization": {
+    "name": "conversion optimization",
+    "category": "marketing",
+    "aliases": [
+      "conversion optimization",
+      "conversion-optimization"
+    ],
+    "difficulty": "advanced"
+  },
+  "financial analysis": {
+    "name": "financial analysis",
+    "category": "finance",
+    "aliases": [
+      "financial analysis",
+      "financial-analysis"
+    ],
+    "difficulty": "intermediate"
+  },
+  "accounting": {
+    "name": "accounting",
+    "category": "finance",
+    "aliases": [
+      "accounting",
+      "accounting"
+    ],
+    "difficulty": "intermediate"
+  },
+  "financial modeling": {
+    "name": "financial modeling",
+    "category": "finance",
+    "aliases": [
+      "financial modeling",
+      "financial-modeling"
+    ],
+    "difficulty": "intermediate"
+  },
+  "investment analysis": {
+    "name": "investment analysis",
+    "category": "finance",
+    "aliases": [
+      "investment analysis",
+      "investment-analysis"
+    ],
+    "difficulty": "intermediate"
+  },
+  "portfolio management": {
+    "name": "portfolio management",
+    "category": "finance",
+    "aliases": [
+      "portfolio management",
+      "portfolio-management"
+    ],
+    "difficulty": "intermediate"
+  },
+  "corporate finance": {
+    "name": "corporate finance",
+    "category": "finance",
+    "aliases": [
+      "corporate finance",
+      "corporate-finance"
+    ],
+    "difficulty": "intermediate"
+  },
+  "valuation": {
+    "name": "valuation",
+    "category": "finance",
+    "aliases": [
+      "valuation",
+      "valuation"
+    ],
+    "difficulty": "intermediate"
+  },
+  "financial reporting": {
+    "name": "financial reporting",
+    "category": "finance",
+    "aliases": [
+      "financial reporting",
+      "financial-reporting"
+    ],
+    "difficulty": "intermediate"
+  },
+  "ui design": {
+    "name": "ui design",
+    "category": "design",
+    "aliases": [
+      "ui design",
+      "ui-design"
+    ],
+    "difficulty": "intermediate"
+  },
+  "ux design": {
+    "name": "ux design",
+    "category": "design",
+    "aliases": [
+      "ux design",
+      "ux-design"
+    ],
+    "difficulty": "intermediate"
+  },
+  "graphic design": {
+    "name": "graphic design",
+    "category": "design",
+    "aliases": [
+      "graphic design",
+      "graphic-design"
+    ],
+    "difficulty": "intermediate"
+  },
+  "web design": {
+    "name": "web design",
+    "category": "design",
+    "aliases": [
+      "web design",
+      "web-design"
+    ],
+    "difficulty": "intermediate"
+  },
+  "user research": {
+    "name": "user research",
+    "category": "design",
+    "aliases": [
+      "user research",
+      "user-research"
+    ],
+    "difficulty": "intermediate"
+  },
+  "prototyping": {
+    "name": "prototyping",
+    "category": "design",
+    "aliases": [
+      "prototyping",
+      "prototyping"
+    ],
+    "difficulty": "intermediate"
+  },
+  "wireframing": {
+    "name": "wireframing",
+    "category": "design",
+    "aliases": [
+      "wireframing",
+      "wireframing"
+    ],
+    "difficulty": "intermediate"
+  },
+  "design thinking": {
+    "name": "design thinking",
+    "category": "design",
+    "aliases": [
+      "design thinking",
+      "design-thinking"
+    ],
+    "difficulty": "intermediate"
+  },
+  "visual design": {
+    "name": "visual design",
+    "category": "design",
+    "aliases": [
+      "visual design",
+      "visual-design"
+    ],
+    "difficulty": "intermediate"
+  },
+  "interaction design": {
+    "name": "interaction design",
+    "category": "design",
+    "aliases": [
+      "interaction design",
+      "interaction-design"
+    ],
+    "difficulty": "intermediate"
+  },
+  "accessibility design": {
+    "name": "accessibility design",
+    "category": "design",
+    "aliases": [
+      "accessibility design",
+      "accessibility-design"
+    ],
+    "difficulty": "intermediate"
+  },
+  "video editing": {
+    "name": "video editing",
+    "category": "multimedia",
+    "aliases": [
+      "video editing",
+      "video-editing"
+    ],
+    "difficulty": "intermediate"
+  },
+  "photography": {
+    "name": "photography",
+    "category": "multimedia",
+    "aliases": [
+      "photography",
+      "photography"
+    ],
+    "difficulty": "intermediate"
+  },
+  "animation": {
+    "name": "animation",
+    "category": "multimedia",
+    "aliases": [
+      "animation",
+      "animation"
+    ],
+    "difficulty": "intermediate"
+  },
+  "3d modeling": {
+    "name": "3d modeling",
+    "category": "multimedia",
+    "aliases": [
+      "3d modeling",
+      "3d-modeling"
+    ],
+    "difficulty": "intermediate"
+  },
+  "audio production": {
+    "name": "audio production",
+    "category": "multimedia",
+    "aliases": [
+      "audio production",
+      "audio-production"
+    ],
+    "difficulty": "intermediate"
+  },
+  "game design": {
+    "name": "game design",
+    "category": "multimedia",
+    "aliases": [
+      "game design",
+      "game-design"
+    ],
+    "difficulty": "intermediate"
+  },
+  "illustration": {
+    "name": "illustration",
+    "category": "multimedia",
+    "aliases": [
+      "illustration",
+      "illustration"
+    ],
+    "difficulty": "intermediate"
+  },
+  "critical thinking": {
+    "name": "critical thinking",
+    "category": "analytical",
+    "aliases": [
+      "critical thinking",
+      "critical-thinking"
+    ],
+    "difficulty": "intermediate"
+  },
+  "problem solving": {
+    "name": "problem solving",
+    "category": "analytical",
+    "aliases": [
+      "problem solving",
+      "problem-solving"
+    ],
+    "difficulty": "intermediate"
+  },
+  "analytical thinking": {
+    "name": "analytical thinking",
+    "category": "analytical",
+    "aliases": [
+      "analytical thinking",
+      "analytical-thinking"
+    ],
+    "difficulty": "intermediate"
+  },
+  "research": {
+    "name": "research",
+    "category": "analytical",
+    "aliases": [
+      "research",
+      "research"
+    ],
+    "difficulty": "intermediate"
+  },
+  "data interpretation": {
+    "name": "data interpretation",
+    "category": "analytical",
+    "aliases": [
+      "data interpretation",
+      "data-interpretation"
+    ],
+    "difficulty": "intermediate"
+  },
+  "logical reasoning": {
+    "name": "logical reasoning",
+    "category": "analytical",
+    "aliases": [
+      "logical reasoning",
+      "logical-reasoning"
+    ],
+    "difficulty": "intermediate"
+  },
+  "systems thinking": {
+    "name": "systems thinking",
+    "category": "analytical",
+    "aliases": [
+      "systems thinking",
+      "systems-thinking"
+    ],
+    "difficulty": "intermediate"
+  },
+  "decision making": {
+    "name": "decision making",
+    "category": "analytical",
+    "aliases": [
+      "decision making",
+      "decision-making"
+    ],
+    "difficulty": "intermediate"
+  },
+  "written communication": {
+    "name": "written communication",
+    "category": "communication",
+    "aliases": [
+      "written communication",
+      "written-communication"
+    ],
+    "difficulty": "intermediate"
+  },
+  "verbal communication": {
+    "name": "verbal communication",
+    "category": "communication",
+    "aliases": [
+      "verbal communication",
+      "verbal-communication"
+    ],
+    "difficulty": "intermediate"
+  },
+  "presentation skills": {
+    "name": "presentation skills",
+    "category": "communication",
+    "aliases": [
+      "presentation skills",
+      "presentation-skills"
+    ],
+    "difficulty": "intermediate"
+  },
+  "technical writing": {
+    "name": "technical writing",
+    "category": "communication",
+    "aliases": [
+      "technical writing",
+      "technical-writing"
+    ],
+    "difficulty": "intermediate"
+  },
+  "storytelling": {
+    "name": "storytelling",
+    "category": "communication",
+    "aliases": [
+      "storytelling",
+      "storytelling"
+    ],
+    "difficulty": "intermediate"
+  },
+  "active listening": {
+    "name": "active listening",
+    "category": "communication",
+    "aliases": [
+      "active listening",
+      "active-listening"
+    ],
+    "difficulty": "intermediate"
+  },
+  "collaboration": {
+    "name": "collaboration",
+    "category": "communication",
+    "aliases": [
+      "collaboration",
+      "collaboration"
+    ],
+    "difficulty": "intermediate"
+  },
+  "linear algebra": {
+    "name": "linear algebra",
+    "category": "mathematics",
+    "aliases": [
+      "linear algebra",
+      "linear-algebra"
+    ],
+    "difficulty": "intermediate"
+  },
+  "calculus": {
+    "name": "calculus",
+    "category": "mathematics",
+    "aliases": [
+      "calculus",
+      "calculus"
+    ],
+    "difficulty": "intermediate"
+  },
+  "probability": {
+    "name": "probability",
+    "category": "mathematics",
+    "aliases": [
+      "probability",
+      "probability"
+    ],
+    "difficulty": "intermediate"
+  },
+  "optimization": {
+    "name": "optimization",
+    "category": "mathematics",
+    "aliases": [
+      "optimization",
+      "optimization"
+    ],
+    "difficulty": "advanced"
+  },
+  "discrete mathematics": {
+    "name": "discrete mathematics",
+    "category": "mathematics",
+    "aliases": [
+      "discrete mathematics",
+      "discrete-mathematics"
+    ],
+    "difficulty": "intermediate"
+  },
+  "numerical analysis": {
+    "name": "numerical analysis",
+    "category": "mathematics",
+    "aliases": [
+      "numerical analysis",
+      "numerical-analysis"
+    ],
+    "difficulty": "intermediate"
+  },
+  "mathematical modeling": {
+    "name": "mathematical modeling",
+    "category": "mathematics",
+    "aliases": [
+      "mathematical modeling",
+      "mathematical-modeling"
+    ],
+    "difficulty": "intermediate"
+  }
+}

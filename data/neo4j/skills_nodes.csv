@@ -1,0 +1,2935 @@
+skill_id,skill_name,category,difficulty,frequency
+regression,regression,data_science,intermediate,49
+spss,spss,extracted,intermediate,2
+logistic_regression_models,logistic regression models,extracted,intermediate,1
+compute_engine_applications,compute engine applications,extracted,intermediate,1
+resources,resources,extracted,intermediate,2
+chrome_enterprise_premium,chrome enterprise premium,extracted,intermediate,2
+sql,sql,programming,intermediate,126
+amazon_rds,amazon rds,extracted,intermediate,1
+mysql,mysql,extracted,intermediate,2
+database_migration_service,database migration service,extracted,intermediate,3
+vital_signs,vital signs,extracted,intermediate,1
+the_body,the body,extracted,intermediate,1
+code,code,extracted,intermediate,4
+gemini,gemini,extracted,intermediate,9
+bigquery,bigquery,extracted,intermediate,14
+amazing_macros,amazing macros,extracted,intermediate,1
+affinity_photo,affinity photo,extracted,intermediate,3
+surveymonkey,surveymonkey,extracted,intermediate,1
+a_survey,a survey,extracted,intermediate,1
+results,results,extracted,intermediate,2
+data_aggregation,data aggregation,extracted,intermediate,1
+sql_aggregate_functions,sql aggregate functions,extracted,intermediate,1
+ai_policy,ai policy,extracted,intermediate,1
+machine_learning,machine learning,data_science,intermediate,247
+storytelling,storytelling,communication,intermediate,42
+design,design,extracted,intermediate,99
+creation,creation,extracted,intermediate,1
+artifacts,artifacts,extracted,intermediate,1
+product_management,product management,extracted,intermediate,1
+a_new_product,a new product,extracted,intermediate,1
+debugging,debugging,software_engineering,intermediate,16
+kubernetes,kubernetes,cloud_computing,advanced,118
+leadership,leadership,project_management,intermediate,119
+engaging_content,engaging content,extracted,intermediate,4
+youtube,youtube,extracted,intermediate,2
+no-code_apps,no-code apps,extracted,intermediate,4
+microsoft_endpoint_manager,microsoft endpoint manager,extracted,intermediate,1
+intune,intune,extracted,intermediate,1
+prototyping,prototyping,design,intermediate,22
+a_mobile_app,a mobile app,extracted,intermediate,2
+firebase,firebase,extracted,intermediate,2
+computer_vision,computer vision,data_science,intermediate,24
+animation,animation,multimedia,intermediate,21
+unreal_engine,unreal engine,extracted,intermediate,19
+an_original_character,an original character,extracted,intermediate,1
+swift,swift,programming,intermediate,16
+statistics,statistics,data_science,intermediate,58
+a_cover_letter,a cover letter,extracted,intermediate,1
+an_envelope,an envelope,extracted,intermediate,1
+microsoft_word,microsoft word,extracted,intermediate,7
+user_interface_design,user interface design,extracted,intermediate,4
+research,research,analytical,intermediate,92
+python,python,programming,intermediate,378
+analyze_box_office_data,analyze box office data,extracted,intermediate,1
+azure,azure,cloud_computing,intermediate,165
+healthcare_education,healthcare education,extracted,intermediate,1
+clinical_practice,clinical practice,extracted,intermediate,2
+specialized_rman_features,specialized rman features,extracted,intermediate,1
+advanced_use_cases,advanced use cases,extracted,intermediate,3
+calculus,calculus,mathematics,intermediate,30
+accounting,accounting,finance,intermediate,62
+google_cloud,google cloud,cloud_computing,intermediate,315
+municipal_solid_waste_management,municipal solid waste management,extracted,intermediate,1
+developing_countries,developing countries,extracted,intermediate,4
+developing_applications,developing applications,extracted,intermediate,4
+cloud,cloud,extracted,intermediate,7
+compliance,compliance,cybersecurity,intermediate,33
+natural_language_processing,natural language processing,data_science,intermediate,18
+time,time,extracted,intermediate,4
+causal_information,causal information,extracted,intermediate,1
+design_patterns,design patterns,software_engineering,intermediate,8
+principles,principles,extracted,intermediate,11
+"prototyping,_practices","prototyping, practices",extracted,intermediate,1
+positive_psychology_specialization_project,positive psychology specialization project,extracted,intermediate,1
+your_life,your life,extracted,intermediate,1
+well-being,well-being,extracted,intermediate,2
+java,java,programming,intermediate,157
+data_analytics,data analytics,extracted,intermediate,8
+data_visualizations,data visualizations,extracted,intermediate,1
+a_machine_learning_solution,a machine learning solution,extracted,intermediate,1
+decision_making,decision making,analytical,intermediate,27
+c++,c++,programming,intermediate,42
+ux_design,ux design,design,intermediate,14
+introduction,introduction,extracted,intermediate,35
+design_mastertrack_certificate_program,design mastertrack certificate program,extracted,intermediate,1
+communication,communication,project_management,intermediate,86
+react,react,programming,intermediate,60
+a_memory_game,a memory game,extracted,intermediate,1
+r,r,programming,intermediate,90
+_applied_sustainability_engineering, applied sustainability engineering,extracted,intermediate,1
+relationships,relationships,extracted,intermediate,2
+testing,testing,software_engineering,intermediate,98
+master_unity_gui,master unity gui,extracted,intermediate,1
+animate,animate,extracted,intermediate,1
+script,script,extracted,intermediate,1
+menus,menus,extracted,intermediate,2
+angular,angular,programming,intermediate,18
+atm_user_interface,atm user interface,extracted,intermediate,1
+optimization,optimization,mathematics,advanced,56
+aws,aws,cloud_computing,intermediate,218
+javascript,javascript,programming,intermediate,94
+valuation,valuation,finance,intermediate,20
+data_transformation,data transformation,extracted,intermediate,5
+google_cloud_-_français,google cloud - français,extracted,intermediate,1
+data_science,data science,extracted,intermediate,5
+machine,machine,extracted,intermediate,15
+digital_products,digital products,extracted,intermediate,2
+canva,canva,extracted,intermediate,46
+user_interfaces,user interfaces,extracted,intermediate,3
+user_interactions,user interactions,extracted,intermediate,1
+node.js,node.js,programming,intermediate,19
+cloud_functions,cloud functions,extracted,intermediate,1
+videos,videos,extracted,intermediate,2
+edpuzzle,edpuzzle,extracted,intermediate,1
+css,css,programming,intermediate,55
+tailwind_css_practice_project,tailwind css practice project,extracted,intermediate,1
+a_product_card,a product card,extracted,intermediate,1
+document,document,extracted,intermediate,2
+devops,devops,software_engineering,intermediate,73
+quantitative_finance,quantitative finance,extracted,intermediate,1
+security_architecture,security architecture,cybersecurity,advanced,7
+gis_data_formats,gis data formats,extracted,intermediate,1
+quality,quality,extracted,intermediate,2
+scrum,scrum,software_engineering,intermediate,31
+systems_thinking,systems thinking,analytical,intermediate,2
+data_analysis,data analysis,data_science,intermediate,117
+a_technology_startup_company,a technology startup company,extracted,intermediate,1
+matlab,matlab,programming,intermediate,12
+applications,applications,extracted,intermediate,8
+cloud_profiler,cloud profiler,extracted,intermediate,1
+opentsdb,opentsdb,extracted,intermediate,1
+time-series_data,time-series data,extracted,intermediate,1
+agile,agile,software_engineering,intermediate,96
+agile_leadership_principles,agile leadership principles,extracted,intermediate,1
+practices,practices,extracted,intermediate,10
+usability_testing,usability testing,extracted,intermediate,2
+negotiation,negotiation,project_management,intermediate,19
+deep_learning,deep learning,data_science,advanced,58
+neural_networks,neural networks,data_science,advanced,18
+adobe_photoshop,adobe photoshop,extracted,intermediate,5
+a_pickleball_paddle,a pickleball paddle,extracted,intermediate,1
+seo,seo,marketing,intermediate,16
+photography,photography,multimedia,intermediate,15
+sustainment,sustainment,extracted,intermediate,1
+improvement_work,improvement work,extracted,intermediate,1
+ci/cd,ci/cd,software_engineering,intermediate,10
+data,data,extracted,intermediate,34
+charts,charts,extracted,intermediate,5
+load_testing,load testing,extracted,intermediate,1
+cryptography,cryptography,cybersecurity,advanced,23
+training,training,extracted,intermediate,3
+programs,programs,extracted,intermediate,1
+volunteer_community_health_workers,volunteer community health workers,extracted,intermediate,1
+object-oriented_programming,object-oriented programming,software_engineering,intermediate,22
+clustering,clustering,data_science,intermediate,13
+k-means,k-means,extracted,intermediate,1
+web_development,web development,software_engineering,intermediate,41
+software_design_methods,software design methods,extracted,intermediate,1
+tools,tools,extracted,intermediate,4
+an_instagram_business_account,an instagram business account,extracted,intermediate,1
+github,github,extracted,intermediate,1
+essential_design_principles,essential design principles,extracted,intermediate,1
+tableau,tableau,extracted,intermediate,8
+health_equity_research,health equity research,extracted,intermediate,1
+practice,practice,extracted,intermediate,33
+local_&_global_lessons,local & global lessons,extracted,intermediate,1
+remote_work,remote work,extracted,intermediate,1
+online_study,online study,extracted,intermediate,1
+risk_management,risk management,finance,intermediate,48
+microservices,microservices,software_engineering,advanced,16
+social_media_marketing,social media marketing,marketing,intermediate,11
+go,go,programming,intermediate,24
+embeddings,embeddings,extracted,intermediate,1
+vector_search,vector search,extracted,intermediate,3
+design_engaging_stories,design engaging stories,extracted,intermediate,1
+instagram,instagram,extracted,intermediate,3
+multimodal_search,multimodal search,extracted,intermediate,1
+big_data,big data,data_science,intermediate,47
+business_intelligence,business intelligence,business_analysis,intermediate,19
+a_writing_rubric,a writing rubric,extracted,intermediate,1
+data_visualization,data visualization,data_science,intermediate,71
+ethical_hacking,ethical hacking,cybersecurity,intermediate,16
+power_skills,power skills,extracted,intermediate,2
+self-awareness,self-awareness,extracted,intermediate,1
+teams,teams,extracted,intermediate,2
+systems,systems,extracted,intermediate,4
+engineering,engineering,extracted,intermediate,1
+the_design_process,the design process,extracted,intermediate,1
+a_sustainable_future,a sustainable future,extracted,intermediate,4
+django,django,programming,intermediate,19
+c#,c#,programming,intermediate,29
+a_content_calendar,a content calendar,extracted,intermediate,1
+trello,trello,extracted,intermediate,4
+plant_design,plant design,extracted,intermediate,1
+economics,economics,extracted,intermediate,1
+facebook_graphics,facebook graphics,extracted,intermediate,1
+visme,visme,extracted,intermediate,4
+incident_response,incident response,cybersecurity,intermediate,18
+software_development,software development,software_engineering,intermediate,31
+data_models,data models,extracted,intermediate,2
+lookml,lookml,extracted,intermediate,5
+process_map_data,process map data,extracted,intermediate,1
+basic_data_analysis_tasks,basic data analysis tasks,extracted,intermediate,1
+java_streams,java streams,extracted,intermediate,1
+the_healthcare_ecosystem,the healthcare ecosystem,extracted,intermediate,1
+project_planning,project planning,project_management,intermediate,8
+cloud_security,cloud security,cloud_computing,intermediate,17
+experience_design,experience design,extracted,intermediate,3
+theories,theories,extracted,intermediate,1
+frameworks,frameworks,extracted,intermediate,1
+a_diffusion_model,a diffusion model,extracted,intermediate,1
+an_introduction,an introduction,extracted,intermediate,7
+serverless,serverless,cloud_computing,intermediate,30
+active_listening,active listening,communication,intermediate,2
+microsoft_pl-300_exam_preparation,microsoft pl-300 exam preparation,extracted,intermediate,1
+a_modern_computer,a modern computer,extracted,intermediate,2
+first_principles,first principles,extracted,intermediate,2
+the_healthcare_innovation_process,the healthcare innovation process,extracted,intermediate,1
+skeletal_animation,skeletal animation,extracted,intermediate,1
+a_google_sre_culture,a google sre culture,extracted,intermediate,2
+functional_programming,functional programming,software_engineering,intermediate,5
+scala,scala,programming,intermediate,16
+iot_solutions,iot solutions,extracted,intermediate,1
+microsoft_azure,microsoft azure,extracted,intermediate,6
+a_storyboard,a storyboard,extracted,intermediate,1
+realistic_reflections,realistic reflections,extracted,intermediate,1
+tiktok,tiktok,extracted,intermediate,1
+html,html,programming,intermediate,47
+a_webpage,a webpage,extracted,intermediate,1
+git,git,software_engineering,intermediate,35
+a_healthy_culture,a healthy culture,extracted,intermediate,1
+technologies_foundations,technologies foundations,extracted,intermediate,1
+fundamentals,fundamentals,extracted,intermediate,19
+digital_design,digital design,extracted,intermediate,1
+vlsi_chip_design,vlsi chip design,extracted,intermediate,2
+web_applications,web applications,extracted,intermediate,1
+the_vertex,the vertex,extracted,intermediate,1
+gemini_api,gemini api,extracted,intermediate,1
+analysis,analysis,extracted,intermediate,8
+bert,bert,extracted,intermediate,1
+interactive_user_interfaces,interactive user interfaces,extracted,intermediate,1
+react_library,react library,extracted,intermediate,1
+project_management,project management,extracted,intermediate,7
+control,control,extracted,intermediate,2
+the_earned_value,the earned value,extracted,intermediate,1
+risk,risk,extracted,intermediate,2
+a_chat_application,a chat application,extracted,intermediate,1
+the_palm_2_api,the palm 2 api,extracted,intermediate,1
+relational_databases,relational databases,extracted,intermediate,1
+postgresql,postgresql,extracted,intermediate,6
+dplyr,dplyr,extracted,intermediate,3
+your_company,your company,extracted,intermediate,2
+japanese,japanese,extracted,intermediate,2
+science,science,extracted,intermediate,9
+web_design,web design,design,intermediate,14
+everybody,everybody,extracted,intermediate,1
+capstone,capstone,extracted,intermediate,8
+responsive_web_apps,responsive web apps,extracted,intermediate,2
+design_concepts,design concepts,extracted,intermediate,1
+metro_rails,metro rails,extracted,intermediate,2
+replit_essentials,replit essentials,extracted,intermediate,1
+sas_viya_rest_apis,sas viya rest apis,extracted,intermediate,1
+uma_experiência,uma experiência,extracted,intermediate,1
+app_design,app design,extracted,intermediate,1
+development,development,extracted,intermediate,8
+brand_management,brand management,marketing,intermediate,5
+aggregate_data,aggregate data,extracted,intermediate,1
+mysql_workbench,mysql workbench,extracted,intermediate,6
+your_musicianship,your musicianship,extracted,intermediate,2
+profit_analysis,profit analysis,extracted,intermediate,1
+economic_value,economic value,extracted,intermediate,1
+rag_applications,rag applications,extracted,intermediate,1
+canva_design,canva design,extracted,intermediate,3
+a_gantt_chart,a gantt chart,extracted,intermediate,2
+wrike,wrike,extracted,intermediate,2
+probability,probability,mathematics,intermediate,19
+azure_ad,azure ad,extracted,intermediate,1
+food_labels,food labels,extracted,intermediate,1
+portion,portion,extracted,intermediate,1
+purchasing,purchasing,extracted,intermediate,1
+design_thinking,design thinking,design,intermediate,26
+agiles,agiles,extracted,intermediate,1
+trifft_auf_design_thinking,trifft auf design thinking,extracted,intermediate,1
+customizable_proposals,customizable proposals,extracted,intermediate,1
+qwilr,qwilr,extracted,intermediate,1
+numerical_analysis,numerical analysis,mathematics,intermediate,1
+technical_writing,technical writing,communication,intermediate,2
+a_risk_management_framework,a risk management framework,extracted,intermediate,1
+filters,filters,extracted,intermediate,1
+a_cnn,a cnn,extracted,intermediate,1
+tensorflow,tensorflow,extracted,intermediate,2
+amazon_honeycode,amazon honeycode,extracted,intermediate,1
+smart_chatbot,smart chatbot,extracted,intermediate,1
+agile_practices,agile practices,extracted,intermediate,3
+software_development_practices,software development practices,extracted,intermediate,1
+mandarin_chinese,mandarin chinese,extracted,intermediate,1
+capstone_project,capstone project,extracted,intermediate,5
+budgeting,budgeting,project_management,intermediate,6
+a_client_welcome_kit,a client welcome kit,extracted,intermediate,1
+visual_design,visual design,design,intermediate,3
+ux:_visual_design_process,ux: visual design process,extracted,intermediate,1
+capstone_and_practice_exam,capstone and practice exam,extracted,intermediate,1
+az-500,az-500,extracted,intermediate,1
+engineering_practices,engineering practices,extracted,intermediate,1
+quality_software,quality software,extracted,intermediate,1
+rust,rust,programming,intermediate,29
+hardware_description_languages,hardware description languages,extracted,intermediate,1
+fpga_design,fpga design,extracted,intermediate,1
+a_facebook_shop,a facebook shop,extracted,intermediate,1
+commerce_manager,commerce manager,extracted,intermediate,1
+the_ife-efe_matrix,the ife-efe matrix,extracted,intermediate,1
+excel,excel,extracted,intermediate,12
+real-world_examples,real-world examples,extracted,intermediate,1
+critical_thinking,critical thinking,analytical,intermediate,11
+a_bi_dashboard,a bi dashboard,extracted,intermediate,1
+google_data_studio,google data studio,extracted,intermediate,1
+a_source_control_strategy,a source control strategy,extracted,intermediate,1
+classification,classification,data_science,intermediate,26
+marketing_analytics,marketing analytics,marketing,intermediate,19
+graphic_design,graphic design,design,intermediate,12
+your_linkedin,your linkedin,extracted,intermediate,1
+3d_effect,3d effect,extracted,intermediate,1
+a_generative_ai-ready_organization,a generative ai-ready organization,extracted,intermediate,1
+generative_art_dynamic_nfts,generative art dynamic nfts,extracted,intermediate,1
+an_infographic,an infographic,extracted,intermediate,2
+infogram,infogram,extracted,intermediate,1
+terraform,terraform,cloud_computing,intermediate,26
+attractive_infographics,attractive infographics,extracted,intermediate,1
+strategy,strategy,extracted,intermediate,5
+pandas,pandas,extracted,intermediate,8
+cps_design,cps design,extracted,intermediate,1
+mechatronics,mechatronics,extracted,intermediate,1
+healthcare,healthcare,extracted,intermediate,3
+beginners,beginners,extracted,intermediate,43
+an_interactive_presentation,an interactive presentation,extracted,intermediate,1
+ui_design,ui design,design,intermediate,9
+ux/ui_design,ux/ui design,extracted,intermediate,2
+video_editing,video editing,multimedia,intermediate,10
+public_history,public history,extracted,intermediate,1
+responsible_ai_practices,responsible ai practices,extracted,intermediate,1
+arm_core,arm core,extracted,intermediate,1
+micropython,micropython,extracted,intermediate,1
+industries,industries,extracted,intermediate,1
+intelligent_agents,intelligent agents,extracted,intermediate,1
+deepseek,deepseek,extracted,intermediate,3
+cluster,cluster,extracted,intermediate,1
+your_own_vpc,your own vpc,extracted,intermediate,1
+a_professional_business_card,a professional business card,extracted,intermediate,1
+qr_code,qr code,extracted,intermediate,1
+digital_marketing,digital marketing,marketing,intermediate,34
+lookup_reference_math,lookup reference math,extracted,intermediate,1
+text_functions,text functions,extracted,intermediate,1
+formwork_practices,formwork practices,extracted,intermediate,1
+design_security_solutions,design security solutions,extracted,intermediate,2
+multi_task_models,multi task models,extracted,intermediate,1
+keras,keras,extracted,intermediate,1
+job_needs,job needs,extracted,intermediate,1
+job_postings,job postings,extracted,intermediate,1
+network_security,network security,cybersecurity,intermediate,28
+microsoft_sc-900_exam_preparation,microsoft sc-900 exam preparation,extracted,intermediate,1
+financial_reporting,financial reporting,finance,intermediate,6
+healthcare_improvement,healthcare improvement,extracted,intermediate,1
+foundations,foundations,extracted,intermediate,18
+azure_infrastructure_design,azure infrastructure design,extracted,intermediate,1
+production-ready_apps,production-ready apps,extracted,intermediate,1
+applied_text_mining,applied text mining,extracted,intermediate,1
+a_static_website,a static website,extracted,intermediate,1
+time_series,time series,data_science,intermediate,18
+sales_forecasting,sales forecasting,extracted,intermediate,1
+a_hypertension_program,a hypertension program,extracted,intermediate,1
+ai_principles,ai principles,extracted,intermediate,10
+class_components,class components,extracted,intermediate,1
+your_costs,your costs,extracted,intermediate,1
+google_cloud_billing_reports,google cloud billing reports,extracted,intermediate,1
+bash_shell_scripting,bash shell scripting,extracted,intermediate,1
+automation,automation,extracted,intermediate,3
+annual_campaigns,annual campaigns,extracted,intermediate,1
+a_case,a case,extracted,intermediate,1
+support,support,extracted,intermediate,2
+integrative_therapies,integrative therapies,extracted,intermediate,1
+healing_practices,healing practices,extracted,intermediate,1
+service,service,extracted,intermediate,1
+database_design,database design,extracted,intermediate,3
+basic_sql,basic sql,extracted,intermediate,1
+mathematical_modeling,mathematical modeling,mathematics,intermediate,1
+program_design,program design,extracted,intermediate,1
+evaluation,evaluation,extracted,intermediate,2
+health_systems,health systems,extracted,intermediate,2
+problem_solving,problem solving,analytical,intermediate,20
+algorithm_design,algorithm design,extracted,intermediate,1
+computational_problem,computational problem,extracted,intermediate,1
+docker,docker,cloud_computing,intermediate,25
+lookml_日本語版,lookml 日本語版,extracted,intermediate,1
+bootstrap,bootstrap,extracted,intermediate,4
+react_beginner_project,react beginner project,extracted,intermediate,2
+a_color_picker_tool,a color picker tool,extracted,intermediate,1
+connected_leadership,connected leadership,extracted,intermediate,1
+collaborative_teams,collaborative teams,extracted,intermediate,1
+tensorflow_hub,tensorflow hub,extracted,intermediate,1
+5_ways,5 ways,extracted,intermediate,1
+a_better_linkedin_profile,a better linkedin profile,extracted,intermediate,1
+machine_learning_projects,machine learning projects,extracted,intermediate,2
+beginner,beginner,extracted,intermediate,2
+u101,u101,extracted,intermediate,1
+college_and_college_life,college and college life,extracted,intermediate,1
+high-performing_teams,high-performing teams,extracted,intermediate,1
+angular_routing,angular routing,extracted,intermediate,1
+a_cocktails_application,a cocktails application,extracted,intermediate,1
+az-204_developing_solutions,az-204 developing solutions,extracted,intermediate,1
+android_and_ios_apps,android and ios apps,extracted,intermediate,1
+strategic_gap_analysis,strategic gap analysis,extracted,intermediate,1
+miro,miro,extracted,intermediate,8
+transfer,transfer,extracted,intermediate,1
+life_long_learning,life long learning,extracted,intermediate,1
+deep_neural_network,deep neural network,extracted,intermediate,1
+instructional_design_foundations,instructional design foundations,extracted,intermediate,1
+cloud_trace,cloud trace,extracted,intermediate,1
+kubernetes_engine,kubernetes engine,extracted,intermediate,2
+unit_testing,unit testing,extracted,intermediate,1
+a_unit_test_suite,a unit test suite,extracted,intermediate,1
+notebooks,notebooks,extracted,intermediate,1
+3d_modeling,3d modeling,multimedia,intermediate,5
+multimodal_use_cases,multimodal use cases,extracted,intermediate,1
+images,images,extracted,intermediate,2
+tkinter,tkinter,extracted,intermediate,1
+pro_desktop_apps,pro desktop apps,extracted,intermediate,1
+smart_frontend_development,smart frontend development,extracted,intermediate,1
+libraries,libraries,extracted,intermediate,2
+productivity,productivity,extracted,intermediate,1
+collaboration,collaboration,communication,intermediate,22
+user_research,user research,design,intermediate,5
+google_forms,google forms,extracted,intermediate,4
+user_research_data,user research data,extracted,intermediate,2
+kanban_frameworks_roles,kanban frameworks roles,extracted,intermediate,1
+best_practices,best practices,extracted,intermediate,20
+responsive_design,responsive design,extracted,intermediate,5
+a_blog_homepage,a blog homepage,extracted,intermediate,1
+different_explores,different explores,extracted,intermediate,1
+looker,looker,extracted,intermediate,2
+advanced_sql,advanced sql,extracted,intermediate,1
+canary_releases,canary releases,extracted,intermediate,1
+tensorflow_model_deployments,tensorflow model deployments,extracted,intermediate,1
+version_control,version control,software_engineering,intermediate,12
+timeseries,timeseries,extracted,intermediate,1
+a_token_board,a token board,extracted,intermediate,1
+microsoft_powerpoint,microsoft powerpoint,extracted,intermediate,7
+a_free_website,a free website,extracted,intermediate,1
+a_website,a website,extracted,intermediate,5
+a_weekend,a weekend,extracted,intermediate,2
+presentation_skills,presentation skills,communication,intermediate,4
+assessment,assessment,extracted,intermediate,2
+a_flyer,a flyer,extracted,intermediate,1
+a_visual_tasks,a visual tasks,extracted,intermediate,1
+communication_processes,communication processes,extracted,intermediate,1
+gmail,gmail,extracted,intermediate,1
+real-world_java_applications,real-world java applications,extracted,intermediate,1
+game_design,game design,multimedia,intermediate,13
+flask,flask,programming,intermediate,10
+a_persistent_disk,a persistent disk,extracted,intermediate,1
+restful_api,restful api,extracted,intermediate,1
+a_game_map_server,a game map server,extracted,intermediate,1
+cloud_services,cloud services,extracted,intermediate,2
+the_java_spring_framework,the java spring framework,extracted,intermediate,1
+linux_servers,linux servers,extracted,intermediate,4
+unit,unit,extracted,intermediate,7
+reliable_cloud_infrastructure,reliable cloud infrastructure,extracted,intermediate,9
+master_raw_editing,master raw editing,extracted,intermediate,1
+a_mortgage_calculator,a mortgage calculator,extracted,intermediate,1
+project_management_best_practices,project management best practices,extracted,intermediate,1
+pyspark,pyspark,extracted,intermediate,6
+advanced_data_processing,advanced data processing,extracted,intermediate,1
+interactive_prototypes,interactive prototypes,extracted,intermediate,1
+pidoco,pidoco,extracted,intermediate,1
+a_lesson_plan,a lesson plan,extracted,intermediate,1
+kotlin,kotlin,programming,intermediate,11
+the_violin,the violin,extracted,intermediate,1
+viola,viola,extracted,intermediate,1
+a_healthy_foundation,a healthy foundation,extracted,intermediate,1
+retrieve_data,retrieve data,extracted,intermediate,1
+single-table_sql,single-table sql,extracted,intermediate,1
+relational_database_design,relational database design,extracted,intermediate,3
+china,china,extracted,intermediate,2
+nestjs,nestjs,extracted,intermediate,1
+social_media_graphics,social media graphics,extracted,intermediate,1
+resilient_streaming_analytics_systems,resilient streaming analytics systems,extracted,intermediate,7
+satisfaction,satisfaction,extracted,intermediate,1
+customer_loyalty,customer loyalty,extracted,intermediate,1
+no-code_machine_learning,no-code machine learning,extracted,intermediate,1
+amazon_aws,amazon aws,extracted,intermediate,1
+sagemaker_canvas,sagemaker canvas,extracted,intermediate,1
+计算机辅助翻译原理与实践_principles,计算机辅助翻译原理与实践 principles,extracted,intermediate,1
+computer-aided_translation,computer-aided translation,extracted,intermediate,1
+hardware_protocols,hardware protocols,extracted,intermediate,1
+functional_program_design,functional program design,extracted,intermediate,2
+scala_2_version,scala 2 version,extracted,intermediate,1
+teaching,teaching,extracted,intermediate,8
+developing_relationships,developing relationships,extracted,intermediate,1
+fashion,fashion,extracted,intermediate,1
+image_captioning_models,image captioning models,extracted,intermediate,12
+social_media_automation,social media automation,extracted,intermediate,1
+mpls_vpns,mpls vpns,extracted,intermediate,1
+software_processes,software processes,extracted,intermediate,1
+typescript,typescript,programming,intermediate,15
+ultimate_typescript_course,ultimate typescript course,extracted,intermediate,1
+build,build,extracted,intermediate,4
+rest_apis,rest apis,extracted,intermediate,1
+fastapi,fastapi,extracted,intermediate,1
+gut_check,gut check,extracted,intermediate,1
+your_microbiome,your microbiome,extracted,intermediate,1
+patterns,patterns,extracted,intermediate,3
+advanced_styling,advanced styling,extracted,intermediate,1
+prevention,prevention,extracted,intermediate,1
+education,education,extracted,intermediate,3
+non-prescribing_providers,non-prescribing providers,extracted,intermediate,1
+chatgpt,chatgpt,extracted,intermediate,14
+azure_serverless_functions,azure serverless functions,extracted,intermediate,2
+javascript_variables,javascript variables,extracted,intermediate,1
+date_and_time_functions,date and time functions,extracted,intermediate,1
+expressjs_essentials,expressjs essentials,extracted,intermediate,1
+modern_web_apis,modern web apis,extracted,intermediate,1
+physical_models,physical models,extracted,intermediate,1
+dairy_nutrition,dairy nutrition,extracted,intermediate,1
+health,health,extracted,intermediate,2
+cow_wellness,cow wellness,extracted,intermediate,1
+the_openai_library,the openai library,extracted,intermediate,1
+the_internet_-_master,the internet - master,extracted,intermediate,1
+the_wbs,the wbs,extracted,intermediate,1
+a_custom_network,a custom network,extracted,intermediate,1
+firewall_rules,firewall rules,extracted,intermediate,1
+agile_scrum_master,agile scrum master,extracted,intermediate,1
+project_finance,project finance,extracted,intermediate,1
+financial_models,financial models,extracted,intermediate,1
+scratch,scratch,extracted,intermediate,5
+custom_regional_reports,custom regional reports,extracted,intermediate,1
+google_analytics,google analytics,extracted,intermediate,1
+the_future,the future,extracted,intermediate,4
+finance,finance,extracted,intermediate,3
+predictive_modeling,predictive modeling,data_science,intermediate,8
+your_first_web_interface,your first web interface,extracted,intermediate,1
+policies,policies,extracted,intermediate,3
+traffic,traffic,extracted,intermediate,1
+mpls_traffic_engineering,mpls traffic engineering,extracted,intermediate,1
+information_design,information design,extracted,intermediate,1
+processes,processes,extracted,intermediate,1
+communications,communications,extracted,intermediate,1
+a_sustainability_proposal,a sustainability proposal,extracted,intermediate,1
+anova,anova,extracted,intermediate,1
+experimental_design,experimental design,extracted,intermediate,1
+functional_approach,functional approach,extracted,intermediate,1
+behavior,behavior,extracted,intermediate,1
+programming,programming,extracted,intermediate,3
+a_single-page_website,a single-page website,extracted,intermediate,1
+requirements_gathering,requirements gathering,business_analysis,intermediate,4
+an_ecosystem_model,an ecosystem model,extracted,intermediate,1
+insight_maker,insight maker,extracted,intermediate,1
+customer_support_data,customer support data,extracted,intermediate,2
+microsoft_excel,microsoft excel,extracted,intermediate,9
+tidy_messy_data,tidy messy data,extracted,intermediate,1
+tidyr,tidyr,extracted,intermediate,1
+a_small_simulated_network,a small simulated network,extracted,intermediate,1
+effective_sports_marketing_strategies,effective sports marketing strategies,extracted,intermediate,1
+your_ux_portfolio,your ux portfolio,extracted,intermediate,2
+adobe_portfolio,adobe portfolio,extracted,intermediate,1
+a_customer_satisfaction_survey,a customer satisfaction survey,extracted,intermediate,3
+modeling,modeling,extracted,intermediate,3
+differentiation,differentiation,extracted,intermediate,1
+landing.ai,landing.ai,extracted,intermediate,1
+data_visualization_ai_models,data visualization ai models,extracted,intermediate,1
+the_reflective_practitioner,the reflective practitioner,extracted,intermediate,1
+copilot,copilot,extracted,intermediate,2
+a_powerpoint_presentation,a powerpoint presentation,extracted,intermediate,1
+de_governo_digital,de governo digital,extracted,intermediate,1
+corporate_credit,corporate credit,extracted,intermediate,1
+award_certificates,award certificates,extracted,intermediate,1
+random_forests,random forests,extracted,intermediate,2
+sustainable_building,sustainable building,extracted,intermediate,1
+specification,specification,extracted,intermediate,1
+an_ai-powered_translation_app,an ai-powered translation app,extracted,intermediate,1
+political_concepts,political concepts,extracted,intermediate,1
+agentic_rag,agentic rag,extracted,intermediate,1
+llamaindex,llamaindex,extracted,intermediate,3
+a_newsletter,a newsletter,extracted,intermediate,2
+a_simple_project_plan,a simple project plan,extracted,intermediate,1
+c_programming,c programming,extracted,intermediate,1
+linux_tools,linux tools,extracted,intermediate,1
+conflict_resolution,conflict resolution,project_management,intermediate,7
+user_research_methods,user research methods,extracted,intermediate,1
+motor_skills,motor skills,extracted,intermediate,1
+user_design,user design,extracted,intermediate,1
+aws_databases,aws databases,extracted,intermediate,1
+a_business_proposal,a business proposal,extracted,intermediate,1
+surface_pattern_design,surface pattern design,extracted,intermediate,2
+hand,hand,extracted,intermediate,1
+management,management,extracted,intermediate,3
+bigquery_machine_learning,bigquery machine learning,extracted,intermediate,2
+soccer_data,soccer data,extracted,intermediate,1
+dynamic_secrets,dynamic secrets,extracted,intermediate,1
+practice_exams,practice exams,extracted,intermediate,1
+comptia,comptia,extracted,intermediate,2
+a+_certification,a+ certification,extracted,intermediate,1
+college,college,extracted,intermediate,1
+environmental_awareness_content,environmental awareness content,extracted,intermediate,1
+light,light,extracted,intermediate,1
+hands-on_activities,hands-on activities,extracted,intermediate,1
+java_ee_essentials,java ee essentials,extracted,intermediate,1
+enterprise_solutions,enterprise solutions,extracted,intermediate,1
+innovators,innovators,extracted,intermediate,1
+customer_acquisition,customer acquisition,marketing,intermediate,1
+the_google_cloud_console,the google cloud console,extracted,intermediate,1
+pmp_exam_prep,pmp exam prep,extracted,intermediate,1
+business_acumen,business acumen,extracted,intermediate,1
+project_managers,project managers,extracted,intermediate,2
+interactive_3d_characters,interactive 3d characters,extracted,intermediate,1
+good_clinical_practice,good clinical practice,extracted,intermediate,3
+recruitment,recruitment,extracted,intermediate,1
+trial,trial,extracted,intermediate,1
+maven_course,maven course,extracted,intermediate,1
+build_automation,build automation,extracted,intermediate,1
+students,students,extracted,intermediate,2
+math_skills,math skills,extracted,intermediate,1
+iknowit,iknowit,extracted,intermediate,1
+linux_daemon,linux daemon,extracted,intermediate,1
+a_webpage_database_crawler,a webpage database crawler,extracted,intermediate,1
+management_concepts,management concepts,extracted,intermediate,1
+metaphor,metaphor,extracted,intermediate,1
+containerization,containerization,cloud_computing,intermediate,3
+permanent_tables,permanent tables,extracted,intermediate,1
+access-controlled_views,access-controlled views,extracted,intermediate,1
+business_analytics,business analytics,extracted,intermediate,2
+invitations,invitations,extracted,intermediate,1
+value_delivery,value delivery,extracted,intermediate,1
+beginners_v3,beginners v3,extracted,intermediate,1
+generative_ai_applications,generative ai applications,extracted,intermediate,1
+enterprise_network_design,enterprise network design,extracted,intermediate,1
+virtualization,virtualization,extracted,intermediate,1
+ruby,ruby,programming,intermediate,6
+your_web_dev_portfolio,your web dev portfolio,extracted,intermediate,1
+course,course,extracted,intermediate,4
+input_filter_design,input filter design,extracted,intermediate,1
+counterterrorism,counterterrorism,extracted,intermediate,1
+theory,theory,extracted,intermediate,4
+shop,shop,extracted,intermediate,1
+facebook_shops,facebook shops,extracted,intermediate,1
+oracle_sql_functions,oracle sql functions,extracted,intermediate,1
+sql_developer,sql developer,extracted,intermediate,1
+a_product_portfolio_website,a product portfolio website,extracted,intermediate,1
+an_organisational_ai_strategy,an organisational ai strategy,extracted,intermediate,1
+business_analysts,business analysts,extracted,intermediate,1
+visualization,visualization,extracted,intermediate,3
+unreal_engine_3d_pacman,unreal engine 3d pacman,extracted,intermediate,1
+game,game,extracted,intermediate,1
+vertex_ai_studio,vertex ai studio,extracted,intermediate,1
+material_design,material design,extracted,intermediate,2
+generative_ai-powered_applications,generative ai-powered applications,extracted,intermediate,1
+a_high-quality_flyer,a high-quality flyer,extracted,intermediate,1
+ethical_media,ethical media,extracted,intermediate,1
+journalism,journalism,extracted,intermediate,1
+small_data_part,small data part,extracted,intermediate,1
+sacred_texts,sacred texts,extracted,intermediate,1
+dialogue,dialogue,extracted,intermediate,1
+the_bible,the bible,extracted,intermediate,1
+the_qur'an,the qur'an,extracted,intermediate,1
+team_management,team management,project_management,intermediate,7
+advanced_techniques,advanced techniques,extracted,intermediate,1
+security_services,security services,extracted,intermediate,1
+an_engaging_candidate_experience,an engaging candidate experience,extracted,intermediate,1
+model_evaluation,model evaluation,data_science,intermediate,11
+machine_learning_operations,machine learning operations,extracted,intermediate,15
+mlops,mlops,extracted,intermediate,17
+production_machine_learning_systems,production machine learning systems,extracted,intermediate,1
+concreting_practices,concreting practices,extracted,intermediate,1
+justice,justice,extracted,intermediate,1
+fairness,fairness,extracted,intermediate,1
+energy_transitions,energy transitions,extracted,intermediate,1
+effective_service_innovation,effective service innovation,extracted,intermediate,1
+hotel_management,hotel management,extracted,intermediate,1
+product_design,product design,extracted,intermediate,3
+ux/ui_fundamentals,ux/ui fundamentals,extracted,intermediate,2
+textual_elements,textual elements,extracted,intermediate,1
+fonts,fonts,extracted,intermediate,1
+typography,typography,extracted,intermediate,1
+gc_-_polski,gc - polski,extracted,intermediate,1
+applied_cryptography,applied cryptography,extracted,intermediate,1
+jenkins,jenkins,extracted,intermediate,2
+an_organizational_company,an organizational company,extracted,intermediate,1
+chart,chart,extracted,intermediate,1
+visually_engaging_presentations,visually engaging presentations,extracted,intermediate,1
+microsoft_sway,microsoft sway,extracted,intermediate,2
+scheduling,scheduling,project_management,intermediate,9
+reliable_google_cloud_infrastructure,reliable google cloud infrastructure,extracted,intermediate,1
+process,process,extracted,intermediate,6
+practice_exam,practice exam,extracted,intermediate,9
+agile_scrum,agile scrum,extracted,intermediate,1
+scrum_master,scrum master,extracted,intermediate,1
+business_decision,business decision,extracted,intermediate,1
+clinical_health_data,clinical health data,extracted,intermediate,1
+better_healthcare,better healthcare,extracted,intermediate,1
+social_media_posts,social media posts,extracted,intermediate,2
+genai,genai,extracted,intermediate,3
+:_mastering_chatgpt,: mastering chatgpt,extracted,intermediate,1
+innovation,innovation,extracted,intermediate,9
+figma,figma,extracted,intermediate,11
+matplotlib,matplotlib,extracted,intermediate,1
+responsive_web_design,responsive web design,extracted,intermediate,2
+logistic_regression_fundamentals,logistic regression fundamentals,extracted,intermediate,1
+parent_feedback,parent feedback,extracted,intermediate,1
+data_publishing,data publishing,extracted,intermediate,1
+authorized_views,authorized views,extracted,intermediate,1
+data_sharing_partners,data sharing partners,extracted,intermediate,2
+a_sales_pitch_presentation,a sales pitch presentation,extracted,intermediate,1
+python_scripting_case,python scripting case,extracted,intermediate,1
+a_console_application,a console application,extracted,intermediate,1
+basic_bgp,basic bgp,extracted,intermediate,1
+business_essentials,business essentials,extracted,intermediate,6
+reviews,reviews,extracted,intermediate,1
+test_automation,test automation,extracted,intermediate,1
+optimize_planning,optimize planning,extracted,intermediate,1
+rapid_prototyping,rapid prototyping,extracted,intermediate,2
+embedded_interface_designs,embedded interface designs,extracted,intermediate,1
+api_development,api development,software_engineering,intermediate,6
+graphql_api_development,graphql api development,extracted,intermediate,1
+schema_design,schema design,extracted,intermediate,1
+security,security,extracted,intermediate,3
+deployment,deployment,extracted,intermediate,3
+startups,startups,extracted,intermediate,3
+discounted_cash_flows,discounted cash flows,extracted,intermediate,1
+hardware,hardware,extracted,intermediate,1
+raspberry_pi_projects,raspberry pi projects,extracted,intermediate,1
+jetpack_compose,jetpack compose,extracted,intermediate,1
+lazycolumn_lists,lazycolumn lists,extracted,intermediate,1
+an_integration,an integration,extracted,intermediate,1
+application_integration,application integration,extracted,intermediate,1
+test_accessibility,test accessibility,extracted,intermediate,1
+your_design,your design,extracted,intermediate,1
+wave,wave,extracted,intermediate,1
+apis_explorer,apis explorer,extracted,intermediate,1
+a_cluster,a cluster,extracted,intermediate,1
+healthcare_information_design,healthcare information design,extracted,intermediate,1
+visualizations,visualizations,extracted,intermediate,2
+a_digital_wireframe,a digital wireframe,extracted,intermediate,1
+exciting_dashboards,exciting dashboards,extracted,intermediate,1
+u.s._universities,u.s. universities,extracted,intermediate,1
+python_unit_test,python unit test,extracted,intermediate,1
+data_visualization_best_practices,data visualization best practices,extracted,intermediate,1
+android_app_development,android app development,extracted,intermediate,1
+dashboards,dashboards,extracted,intermediate,4
+stories,stories,extracted,intermediate,1
+the_history,the history,extracted,intermediate,1
+operations,operations,extracted,intermediate,4
+your_design_thinking_practice,your design thinking practice,extracted,intermediate,1
+apache_spark,apache spark,extracted,intermediate,5
+fpga-accelerated_cloud_applications,fpga-accelerated cloud applications,extracted,intermediate,2
+sdaccel,sdaccel,extracted,intermediate,1
+css_animations,css animations,extracted,intermediate,1
+bim_fundamentals,bim fundamentals,extracted,intermediate,1
+smarter_building_design,smarter building design,extracted,intermediate,1
+planning,planning,extracted,intermediate,3
+italiano,italiano,extracted,intermediate,1
+machine_learning_engineering,machine learning engineering,extracted,intermediate,1
+billing_data,billing data,extracted,intermediate,1
+api_basics,api basics,extracted,intermediate,3
+a_game,a game,extracted,intermediate,1
+async_js,async js,extracted,intermediate,1
+path,path,extracted,intermediate,5
+interaction_design,interaction design,design,intermediate,6
+user_experience,user experience,extracted,intermediate,4
+strategic_organization_design,strategic organization design,extracted,intermediate,1
+jasper,jasper,extracted,intermediate,1
+ranking,ranking,extracted,intermediate,1
+classification_problems,classification problems,extracted,intermediate,1
+utiliser_bigquery_machine,utiliser bigquery machine,extracted,intermediate,1
+pour_l'inférence,pour l'inférence,extracted,intermediate,1
+a_marketing_strategy,a marketing strategy,extracted,intermediate,1
+facebook_insights,facebook insights,extracted,intermediate,1
+your_google_cloud,your google cloud,extracted,intermediate,5
+facebook/ig_stories,facebook/ig stories,extracted,intermediate,1
+competitive_analysis,competitive analysis,business_analysis,intermediate,5
+a_mems-based_sensor,a mems-based sensor,extracted,intermediate,1
+portfolio_diversification,portfolio diversification,extracted,intermediate,1
+correlation_matrix,correlation matrix,extracted,intermediate,1
+nosql_databases,nosql databases,extracted,intermediate,1
+mongodb,mongodb,extracted,intermediate,3
+cassandra,cassandra,extracted,intermediate,1
+websockets_protocol,websockets protocol,extracted,intermediate,1
+tableau_certified_data_analyst,tableau certified data analyst,extracted,intermediate,1
+a_custom_workflow,a custom workflow,extracted,intermediate,1
+templates,templates,extracted,intermediate,1
+api_testing,api testing,extracted,intermediate,1
+linear_algebra,linear algebra,mathematics,intermediate,18
+r:_design,r: design,extracted,intermediate,1
+applied_business_analytics,applied business analytics,extracted,intermediate,1
+applied_statistics,applied statistics,extracted,intermediate,1
+scrum_master_certification_practice,scrum master certification practice,extracted,intermediate,1
+content,content,extracted,intermediate,2
+email_marketing,email marketing,marketing,intermediate,4
+corporate_newsletters,corporate newsletters,extracted,intermediate,1
+financial_modeling,financial modeling,finance,intermediate,3
+a_simple_gantt_chart,a simple gantt chart,extracted,intermediate,2
+user_experience_design,user experience design,extracted,intermediate,4
+part,part,extracted,intermediate,14
+arguments,arguments,extracted,intermediate,1
+trust,trust,extracted,intermediate,1
+a_responsive_seat_selector,a responsive seat selector,extracted,intermediate,1
+iot_and_edge_devices,iot and edge devices,extracted,intermediate,1
+an_sap_solution,an sap solution,extracted,intermediate,2
+looker_日本語版,looker 日本語版,extracted,intermediate,1
+pytorch,pytorch,extracted,intermediate,4
+portfolio_analysis,portfolio analysis,extracted,intermediate,1
+creational_design_patterns,creational design patterns,extracted,intermediate,1
+español,español,extracted,intermediate,3
+production_machine,production machine,extracted,intermediate,3
+français,français,extracted,intermediate,6
+mailchimp,mailchimp,extracted,intermediate,5
+seaborn_python,seaborn python,extracted,intermediate,2
+advanced_visualizations,advanced visualizations,extracted,intermediate,2
+advanced_devops_tools,advanced devops tools,extracted,intermediate,1
+llm_apps,llm apps,extracted,intermediate,1
+modern_physics_ii,modern physics ii,extracted,intermediate,1
+quantum_mechanics,quantum mechanics,extracted,intermediate,1
+gc_-_yкраїнська,gc - yкраїнська,extracted,intermediate,1
+to_student_assessment,to student assessment,extracted,intermediate,1
+advanced_reports,advanced reports,extracted,intermediate,1
+sas_visual_analytics,sas visual analytics,extracted,intermediate,1
+a_de-identified_copy,a de-identified copy,extracted,intermediate,1
+data_processing,data processing,extracted,intermediate,1
+master_data_analysis,master data analysis,extracted,intermediate,1
+two_practice_tests,two practice tests,extracted,intermediate,1
+financial_analysis,financial analysis,finance,intermediate,13
+a_fundraising_page,a fundraising page,extracted,intermediate,1
+a_project_charter,a project charter,extracted,intermediate,1
+google_docs,google docs,extracted,intermediate,1
+google_sheets,google sheets,extracted,intermediate,11
+imba,imba,extracted,intermediate,1
+a_blog,a blog,extracted,intermediate,3
+your_business,your business,extracted,intermediate,2
+character_design,character design,extracted,intermediate,1
+video_games,video games,extracted,intermediate,2
+hero,hero,extracted,intermediate,1
+visual_effects,visual effects,extracted,intermediate,1
+sound,sound,extracted,intermediate,1
+ml_studio,ml studio,extracted,intermediate,2
+security_-_master,security - master,extracted,intermediate,1
+user_centric_web_design,user centric web design,extracted,intermediate,1
+scrum.org_psm,scrum.org psm,extracted,intermediate,1
+genai_and_capstone_project,genai and capstone project,extracted,intermediate,1
+spark,spark,extracted,intermediate,1
+google_cloud_dataproc,google cloud dataproc,extracted,intermediate,1
+building_web_pages,building web pages,extracted,intermediate,1
+html5,html5,extracted,intermediate,3
+css3,css3,extracted,intermediate,3
+simulation,simulation,extracted,intermediate,4
+call_centre_operations,call centre operations,extracted,intermediate,1
+r_simmer,r simmer,extracted,intermediate,2
+unity_game_development,unity game development,extracted,intermediate,2
+design_pipe_runner,design pipe runner,extracted,intermediate,1
+data-intensive_applications,data-intensive applications,extracted,intermediate,1
+a_professional_resume,a professional resume,extracted,intermediate,1
+building_target_proximity_game,building target proximity game,extracted,intermediate,1
+cloud_business_kpis,cloud business kpis,extracted,intermediate,1
+data_products,data products,extracted,intermediate,1
+freelance_video_editing,freelance video editing,extracted,intermediate,1
+strong_client_relationships,strong client relationships,extracted,intermediate,1
+prostate_cancer,prostate cancer,extracted,intermediate,1
+vertex_ai,vertex ai,extracted,intermediate,3
+prompt_design,prompt design,extracted,intermediate,1
+public_health_practice,public health practice,extracted,intermediate,6
+derived_tables,derived tables,extracted,intermediate,1
+agile_projects,agile projects,extracted,intermediate,2
+user_stories,user stories,extracted,intermediate,4
+value,value,extracted,intermediate,2
+llm_powered_npcs,llm powered npcs,extracted,intermediate,1
+master_oracle_sql_developer,master oracle sql developer,extracted,intermediate,1
+databases,databases,extracted,intermediate,5
+align_design_teams,align design teams,extracted,intermediate,1
+scamper_brainstorming,scamper brainstorming,extracted,intermediate,1
+plants_-_part_ii,plants - part ii,extracted,intermediate,1
+things,things,extracted,intermediate,3
+a_mobile_surveillance_system,a mobile surveillance system,extracted,intermediate,2
+a_small_business_website,a small business website,extracted,intermediate,1
+diversity,diversity,extracted,intermediate,3
+inclusion,inclusion,extracted,intermediate,3
+a_strategy,a strategy,extracted,intermediate,1
+html_forms,html forms,extracted,intermediate,1
+trading,trading,extracted,intermediate,1
+php,php,programming,intermediate,11
+a_strong_business_foundation,a strong business foundation,extracted,intermediate,1
+global_brands,global brands,extracted,intermediate,1
+jagdish_sheth,jagdish sheth,extracted,intermediate,1
+an_ai_personal_assistant,an ai personal assistant,extracted,intermediate,1
+a_chatbot,a chatbot,extracted,intermediate,2
+voiceflow,voiceflow,extracted,intermediate,1
+aipmm_certified_product_manager,aipmm certified product manager,extracted,intermediate,1
+a_virtual_private_cloud,a virtual private cloud,extracted,intermediate,1
+informative_presentations,informative presentations,extracted,intermediate,2
+google_cloud_-_日本語版,google cloud - 日本語版,extracted,intermediate,1
+jira,jira,extracted,intermediate,2
+css_flexbox,css flexbox,extracted,intermediate,1
+algorithm_interview_practice,algorithm interview practice,extracted,intermediate,1
+junior_developers,junior developers,extracted,intermediate,1
+corporate_finance,corporate finance,finance,intermediate,10
+content_marketing,content marketing,marketing,intermediate,5
+key_principles,key principles,extracted,intermediate,1
+amazing_patterns,amazing patterns,extracted,intermediate,1
+online_data_migration,online data migration,extracted,intermediate,1
+striim,striim,extracted,intermediate,2
+your_network,your network,extracted,intermediate,1
+software_design,software design,extracted,intermediate,5
+an_element,an element,extracted,intermediate,1
+the_software_development_lifecycle,the software development lifecycle,extracted,intermediate,1
+platform_thinking,platform thinking,extracted,intermediate,1
+a_platform,a platform,extracted,intermediate,1
+a_supermarket_app,a supermarket app,extracted,intermediate,2
+oop_features,oop features,extracted,intermediate,1
+ccba_practice_exam,ccba practice exam,extracted,intermediate,1
+flowchart,flowchart,extracted,intermediate,2
+a_product_innovation_board,a product innovation board,extracted,intermediate,1
+reusable_react_components,reusable react components,extracted,intermediate,1
+research_design,research design,extracted,intermediate,1
+inquiry,inquiry,extracted,intermediate,1
+discovery,discovery,extracted,intermediate,3
+blueprint,blueprint,extracted,intermediate,1
+interior_design,interior design,extracted,intermediate,1
+etl_pipelines,etl pipelines,extracted,intermediate,1
+hands,hands,extracted,intermediate,2
+api_design,api design,extracted,intermediate,1
+describing,describing,extracted,intermediate,1
+market_research,market research,extracted,intermediate,1
+predictive_analytics,predictive analytics,extracted,intermediate,1
+child_development,child development,extracted,intermediate,1
+synapse,synapse,extracted,intermediate,1
+cybersecurity,cybersecurity,extracted,intermediate,1
+hadoop_tools,hadoop tools,extracted,intermediate,1
+master_unity_game_physics,master unity game physics,extracted,intermediate,1
+simulate,simulate,extracted,intermediate,1
+widgetkit,widgetkit,extracted,intermediate,1
+swiftui,swiftui,extracted,intermediate,3
+lawyers,lawyers,extracted,intermediate,1
+your_first_web_app,your first web app,extracted,intermediate,1
+the_business_model,the business model,extracted,intermediate,1
+corporate_entrepreneurs,corporate entrepreneurs,extracted,intermediate,3
+a_project_management_dashboard,a project management dashboard,extracted,intermediate,1
+bitrix24,bitrix24,extracted,intermediate,1
+mobile_development,mobile development,software_engineering,intermediate,4
+infrastructure_as_code,infrastructure as code,cloud_computing,intermediate,4
+non-scary_adobe,non-scary adobe,extracted,intermediate,3
+"the_color""_game","the color"" game",extracted,intermediate,1
+beethoven's_piano,beethoven's piano,extracted,intermediate,4
+engaging_videos,engaging videos,extracted,intermediate,2
+customers_internet_connectivity,customers internet connectivity,extracted,intermediate,1
+career_options,career options,extracted,intermediate,1
+a_new_career,a new career,extracted,intermediate,1
+operational_business_intelligence,operational business intelligence,extracted,intermediate,1
+cadence_design_systems,cadence design systems,extracted,intermediate,1
+essential_guide,essential guide,extracted,intermediate,1
+pricing_strategy,pricing strategy,extracted,intermediate,1
+cluster_analysis_techniques,cluster analysis techniques,extracted,intermediate,1
+gc_-_português,gc - português,extracted,intermediate,1
+text,text,extracted,intermediate,3
+wireframes,wireframes,extracted,intermediate,3
+prototypes,prototypes,extracted,intermediate,4
+wealth,wealth,extracted,intermediate,2
+market_attractiveness,market attractiveness,extracted,intermediate,1
+market_analysis,market analysis,business_analysis,intermediate,3
+﻿building_restful_apis,﻿building restful apis,extracted,intermediate,1
+stakeholder_management,stakeholder management,business_analysis,intermediate,3
+build_and_release_pipelines,build and release pipelines,extracted,intermediate,1
+a_machine,a machine,extracted,intermediate,1
+ready_organization,ready organization,extracted,intermediate,1
+user-generated_content,user-generated content,extracted,intermediate,1
+the_cloud_video_intelligence,the cloud video intelligence,extracted,intermediate,1
+developing_solutions,developing solutions,extracted,intermediate,1
+ai-powered_application,ai-powered application,extracted,intermediate,1
+information_architecture,information architecture,extracted,intermediate,1
+nursing_informatics_leadership_theory,nursing informatics leadership theory,extracted,intermediate,1
+bigquery_usage,bigquery usage,extracted,intermediate,2
+an_expense_tracker,an expense tracker,extracted,intermediate,1
+backends,backends,extracted,intermediate,1
+microsoft_azure_backup,microsoft azure backup,extracted,intermediate,1
+navigational_workflows,navigational workflows,extracted,intermediate,1
+leading_teams,leading teams,extracted,intermediate,2
+effective_team_cultures,effective team cultures,extracted,intermediate,1
+agile_scrum_course,agile scrum course,extracted,intermediate,1
+a_data_transformation_pipeline,a data transformation pipeline,extracted,intermediate,1
+interpretation,interpretation,extracted,intermediate,1
+clinical_trials,clinical trials,extracted,intermediate,2
+digital_marketing_analytics,digital marketing analytics,extracted,intermediate,1
+a_teacher,a teacher,extracted,intermediate,1
+english,english,extracted,intermediate,3
+lesson_design,lesson design,extracted,intermediate,1
+a_ci/cd_pipeline,a ci/cd pipeline,extracted,intermediate,1
+agents,agents,extracted,intermediate,3
+a_budget,a budget,extracted,intermediate,3
+a_database,a database,extracted,intermediate,1
+the_modeling_tool,the modeling tool,extracted,intermediate,1
+developers,developers,extracted,intermediate,3
+data_contracts,data contracts,extracted,intermediate,1
+schema_registry,schema registry,extracted,intermediate,1
+plotnine,plotnine,extracted,intermediate,1
+ggplot,ggplot,extracted,intermediate,1
+a_brand_awareness_survey,a brand awareness survey,extracted,intermediate,1
+your_ecommerce,your ecommerce,extracted,intermediate,1
+standard_operating_procedures,standard operating procedures,extracted,intermediate,1
+sops,sops,extracted,intermediate,1
+wood_science,wood science,extracted,intermediate,1
+a_landing_page,a landing page,extracted,intermediate,1
+digital_course_collateral,digital course collateral,extracted,intermediate,1
+behavioral_change,behavioral change,extracted,intermediate,1
+a_quiz_game,a quiz game,extracted,intermediate,1
+vanilla_javascript,vanilla javascript,extracted,intermediate,1
+marketing_practice,marketing practice,extracted,intermediate,1
+majors,majors,extracted,intermediate,1
+analyze,analyze,extracted,intermediate,5
+forecast,forecast,extracted,intermediate,2
+web_accessibility,web accessibility,extracted,intermediate,1
+strategic_planning,strategic planning,business_analysis,intermediate,4
+data_lakes,data lakes,extracted,intermediate,1
+the_framework,the framework,extracted,intermediate,1
+movement,movement,extracted,intermediate,2
+bones,bones,extracted,intermediate,1
+muscles,muscles,extracted,intermediate,1
+chatfuel,chatfuel,extracted,intermediate,1
+blockchain,blockchain,extracted,intermediate,2
+solidity,solidity,extracted,intermediate,1
+llms,llms,extracted,intermediate,1
+enterprise_automation,enterprise automation,extracted,intermediate,1
+figma_design,figma design,extracted,intermediate,1
+a_document,a document,extracted,intermediate,1
+scrum_framework,scrum framework,extracted,intermediate,1
+agile_development,agile development,extracted,intermediate,1
+software_architecture,software architecture,software_engineering,advanced,6
+wix_artificial_design_intelligence,wix artificial design intelligence,extracted,intermediate,1
+arm_processor,arm processor,extracted,intermediate,1
+sales,sales,extracted,intermediate,1
+data_structures,data structures,extracted,intermediate,4
+إتقان_الإدارة_المالية,إتقان الإدارة المالية,extracted,intermediate,1
+financial_management,financial management,extracted,intermediate,1
+styled_components,styled components,extracted,intermediate,1
+better_generative_adversarial_networks,better generative adversarial networks,extracted,intermediate,1
+ideas,ideas,extracted,intermediate,3
+user-centricity,user-centricity,extracted,intermediate,1
+advanced_react,advanced react,extracted,intermediate,1
+big_o_notation,big o notation,extracted,intermediate,1
+em_português,em português,extracted,intermediate,1
+tailored_customer_emails,tailored customer emails,extracted,intermediate,1
+pneumonia_classification,pneumonia classification,extracted,intermediate,1
+embedded_systems,embedded systems,extracted,intermediate,3
+tweet_engagement,tweet engagement,extracted,intermediate,1
+twitter_analytics,twitter analytics,extracted,intermediate,1
+ollama,ollama,extracted,intermediate,1
+local_llms,local llms,extracted,intermediate,1
+blender_3d,blender 3d,extracted,intermediate,2
+a_3d_vaporwave_animation,a 3d vaporwave animation,extracted,intermediate,1
+high-performance_teams,high-performance teams,extracted,intermediate,1
+personal_resilience,personal resilience,extracted,intermediate,1
+a_real-world_scenario,a real-world scenario,extracted,intermediate,1
+a_balloon_dog,a balloon dog,extracted,intermediate,1
+the_art,the art,extracted,intermediate,8
+cross-functional_collaboration,cross-functional collaboration,extracted,intermediate,1
+basic_web_layouts,basic web layouts,extracted,intermediate,1
+the_gcp_marketplace,the gcp marketplace,extracted,intermediate,1
+unity,unity,extracted,intermediate,12
+design_voxel_environments,design voxel environments,extracted,intermediate,1
+marching_squares,marching squares,extracted,intermediate,1
+wrangling_computing_environments,wrangling computing environments,extracted,intermediate,1
+applied_industrial_internet,applied industrial internet,extracted,intermediate,1
+a_winning_marketing_strategy,a winning marketing strategy,extracted,intermediate,1
+enhance,enhance,extracted,intermediate,1
+mood_boards,mood boards,extracted,intermediate,1
+advanced_pivot_tables,advanced pivot tables,extracted,intermediate,1
+português_brasileiro,português brasileiro,extracted,intermediate,3
+disorders,disorders,extracted,intermediate,1
+substance_use,substance use,extracted,intermediate,1
+addictive_behaviors,addictive behaviors,extracted,intermediate,1
+models,models,extracted,intermediate,1
+model_garden,model garden,extracted,intermediate,1
+business_model,business model,extracted,intermediate,1
+multimodal_generative_ai_applications,multimodal generative ai applications,extracted,intermediate,1
+a_performance_summary,a performance summary,extracted,intermediate,1
+snapeval,snapeval,extracted,intermediate,1
+user_personas,user personas,extracted,intermediate,1
+journey,journey,extracted,intermediate,1
+ultimate_graphic_design_course,ultimate graphic design course,extracted,intermediate,1
+40_practical_projects,40 practical projects,extracted,intermediate,1
+online_course,online course,extracted,intermediate,1
+apps,apps,extracted,intermediate,4
+fine-tune_llms,fine-tune llms,extracted,intermediate,1
+the_openai_api,the openai api,extracted,intermediate,1
+wakelet,wakelet,extracted,intermediate,1
+learning_collections,learning collections,extracted,intermediate,1
+translation,translation,extracted,intermediate,1
+pages,pages,extracted,intermediate,1
+lcfa_practice_course,lcfa practice course,extracted,intermediate,1
+data_warehouse_concepts,data warehouse concepts,extracted,intermediate,1
+data_integration,data integration,extracted,intermediate,2
+discrete_mathematics,discrete mathematics,mathematics,intermediate,3
+advanced_3d_game_levels,advanced 3d game levels,extracted,intermediate,1
+change,change,extracted,intermediate,2
+social_entrepreneurship,social entrepreneurship,extracted,intermediate,1
+prometheus,prometheus,extracted,intermediate,2
+parte,parte,extracted,intermediate,4
+design_thinking_para,design thinking para,extracted,intermediate,2
+la_resolución_de_problemas,la resolución de problemas,extracted,intermediate,1
+design_basics,design basics,extracted,intermediate,2
+steel_buildings,steel buildings,extracted,intermediate,2
+a_model_car_database,a model car database,extracted,intermediate,1
+genai_chatbots,genai chatbots,extracted,intermediate,1
+openai-powered_chatbots,openai-powered chatbots,extracted,intermediate,1
+a_3d_animator,a 3d animator,extracted,intermediate,1
+your_dream_animation_career,your dream animation career,extracted,intermediate,1
+techniques,techniques,extracted,intermediate,7
+artful_practices,artful practices,extracted,intermediate,1
+stm32,stm32,extracted,intermediate,1
+deep_dive,deep dive,extracted,intermediate,1
+mastering_embedded_systems,mastering embedded systems,extracted,intermediate,1
+3d_character_design_workshop,3d character design workshop,extracted,intermediate,1
+nomad_sculpt,nomad sculpt,extracted,intermediate,1
+networks_-_português,networks - português,extracted,intermediate,1
+a_profile,a profile,extracted,intermediate,1
+network,network,extracted,intermediate,1
+a_winning_investment_portfolio,a winning investment portfolio,extracted,intermediate,1
+validation,validation,extracted,intermediate,1
+cypress,cypress,extracted,intermediate,1
+robust_web_test,robust web test,extracted,intermediate,1
+core,core,extracted,intermediate,1
+ecommerce,ecommerce,extracted,intermediate,1
+versatility,versatility,extracted,intermediate,1
+how_big_brands,how big brands,extracted,intermediate,1
+interpersonal_psychotherapy,interpersonal psychotherapy,extracted,intermediate,1
+metrics,metrics,extracted,intermediate,1
+exporters,exporters,extracted,intermediate,1
+the_managed_service,the managed service,extracted,intermediate,1
+animations,animations,extracted,intermediate,2
+transitions,transitions,extracted,intermediate,2
+ibm_watson_studio,ibm watson studio,extracted,intermediate,1
+audio_transcripts,audio transcripts,extracted,intermediate,1
+amazon_transcribe,amazon transcribe,extracted,intermediate,1
+gc_-_日本語版,gc - 日本語版,extracted,intermediate,1
+an_e-manual_server,an e-manual server,extracted,intermediate,1
+e_data_mining,e data mining,extracted,intermediate,1
+a_rest_api,a rest api,extracted,intermediate,2
+nodejs_serverless_functions,nodejs serverless functions,extracted,intermediate,1
+the_real_world,the real world,extracted,intermediate,2
+transformations,transformations,extracted,intermediate,1
+video_game_design,video game design,extracted,intermediate,1
+your_world,your world,extracted,intermediate,1
+security_best_practices,security best practices,extracted,intermediate,6
+google_cloud_日本語版,google cloud 日本語版,extracted,intermediate,1
+the_pl-900_practice_exam,the pl-900 practice exam,extracted,intermediate,1
+risk_assessment,risk assessment,cybersecurity,intermediate,3
+tiktok_community,tiktok community,extracted,intermediate,1
+fitness_programming,fitness programming,extracted,intermediate,1
+population_health,population health,extracted,intermediate,1
+study_design,study design,extracted,intermediate,1
+salesforce_design_mastery,salesforce design mastery,extracted,intermediate,1
+crm_customization,crm customization,extracted,intermediate,1
+your_professional_eportfolio,your professional eportfolio,extracted,intermediate,1
+an_application,an application,extracted,intermediate,2
+chat_prompts,chat prompts,extracted,intermediate,1
+the_gemini_model,the gemini model,extracted,intermediate,1
+the_sale,the sale,extracted,intermediate,1
+your_style,your style,extracted,intermediate,1
+your_editing_style,your editing style,extracted,intermediate,1
+ethics,ethics,extracted,intermediate,4
+responsible_use,responsible use,extracted,intermediate,2
+creativity,creativity,extracted,intermediate,2
+a_financial_statement,a financial statement,extracted,intermediate,1
+a_breakout_game,a breakout game,extracted,intermediate,1
+work,work,extracted,intermediate,1
+google_kubernetes_engine_pipeline,google kubernetes engine pipeline,extracted,intermediate,1
+implementation,implementation,extracted,intermediate,3
+youth,youth,extracted,intermediate,1
+an_interactive_mind_map,an interactive mind map,extracted,intermediate,1
+public_health,public health,extracted,intermediate,1
+an_automated_landing_page,an automated landing page,extracted,intermediate,1
+wix_adi,wix adi,extracted,intermediate,1
+multi-agent_development,multi-agent development,extracted,intermediate,1
+social)_network_data,social) network data,extracted,intermediate,1
+global_startup,global startup,extracted,intermediate,1
+a_data_warehouse,a data warehouse,extracted,intermediate,5
+social_media_content,social media content,extracted,intermediate,3
+prezi,prezi,extracted,intermediate,2
+pyspark_foundations,pyspark foundations,extracted,intermediate,1
+ai_applications,ai applications,extracted,intermediate,2
+interaction_design_capstone_project,interaction design capstone project,extracted,intermediate,1
+natural_light,natural light,extracted,intermediate,1
+portrait_photography,portrait photography,extracted,intermediate,1
+public_health_informatics,public health informatics,extracted,intermediate,1
+leaders,leaders,extracted,intermediate,1
+custom_fields,custom fields,extracted,intermediate,1
+looker_explores,looker explores,extracted,intermediate,1
+containerized_applications,containerized applications,extracted,intermediate,1
+alloydb,alloydb,extracted,intermediate,3
+vertex,vertex,extracted,intermediate,6
+intelligent_applications,intelligent applications,extracted,intermediate,1
+hotel_financials,hotel financials,extracted,intermediate,1
+apis,apis,extracted,intermediate,3
+openapi_specification,openapi specification,extracted,intermediate,1
+builder_and_power_apps,builder and power apps,extracted,intermediate,1
+a_business_profile,a business profile,extracted,intermediate,1
+twitter,twitter,extracted,intermediate,1
+master_compliance,master compliance,extracted,intermediate,1
+ms_365_copilot,ms 365 copilot,extracted,intermediate,1
+the_ethical_use,the ethical use,extracted,intermediate,1
+data-driven_technologies,data-driven technologies,extracted,intermediate,1
+personas,personas,extracted,intermediate,1
+targeted_users,targeted users,extracted,intermediate,1
+an_e-mail_marketing_campaign,an e-mail marketing campaign,extracted,intermediate,1
+marketing_design,marketing design,extracted,intermediate,1
+easil,easil,extracted,intermediate,1
+an_ethical_data-driven_organization,an ethical data-driven organization,extracted,intermediate,1
+3d_interaction_design,3d interaction design,extracted,intermediate,1
+virtual_reality,virtual reality,extracted,intermediate,1
+your_portfolio_website,your portfolio website,extracted,intermediate,2
+angular_js,angular js,extracted,intermediate,1
+machine_learning_introduction,machine learning introduction,extracted,intermediate,1
+everyone,everyone,extracted,intermediate,1
+advanced_ai,advanced ai,extracted,intermediate,1
+your_own_database_agent,your own database agent,extracted,intermediate,1
+modern_physics_iii,modern physics iii,extracted,intermediate,1
+simplicity,simplicity,extracted,intermediate,1
+curriculum,curriculum,extracted,intermediate,1
+java_oop,java oop,extracted,intermediate,1
+physics_simulations,physics simulations,extracted,intermediate,1
+covid19_data_analysis,covid19 data analysis,extracted,intermediate,1
+your_virtual_classroom,your virtual classroom,extracted,intermediate,1
+concept_portrait_photography,concept portrait photography,extracted,intermediate,1
+a_captivating_series,a captivating series,extracted,intermediate,1
+a_professional_online_presence,a professional online presence,extracted,intermediate,1
+project_information_hubs,project information hubs,extracted,intermediate,1
+performance,performance,extracted,intermediate,3
+process_improvement,process improvement,business_analysis,intermediate,3
+job_search,job search,extracted,intermediate,1
+a_simple_project_timeline,a simple project timeline,extracted,intermediate,2
+low-fidelity_prototypes,low-fidelity prototypes,extracted,intermediate,1
+application_development,application development,extracted,intermediate,1
+cognitive_services,cognitive services,extracted,intermediate,1
+an_ai_based_chatbot,an ai based chatbot,extracted,intermediate,1
+data_storytelling,data storytelling,extracted,intermediate,2
+inference,inference,extracted,intermediate,1
+your_first_python_program,your first python program,extracted,intermediate,2
+titanic_survival_prediction,titanic survival prediction,extracted,intermediate,1
+gc_-_français,gc - français,extracted,intermediate,1
+a_tower_defense_game,a tower defense game,extracted,intermediate,1
+a_javascript_game,a javascript game,extracted,intermediate,1
+random_order,random order,extracted,intermediate,1
+a_reminder_app,a reminder app,extracted,intermediate,1
+migrate_vpc_firewall_rules,migrate vpc firewall rules,extracted,intermediate,1
+network_tags,network tags,extracted,intermediate,1
+generative_ai,generative ai,extracted,intermediate,1
+basic_generative_adversarial_networks,basic generative adversarial networks,extracted,intermediate,1
+printing_technology_deep_dive,printing technology deep dive,extracted,intermediate,1
+environment_sustainability_assesment,environment sustainability assesment,extracted,intermediate,1
+apple's_stock,apple's stock,extracted,intermediate,1
+financials,financials,extracted,intermediate,1
+analytics_systems,analytics systems,extracted,intermediate,1
+cloud_architecture,cloud architecture,cloud_computing,advanced,3
+systems_-_español,systems - español,extracted,intermediate,1
+object_design,object design,extracted,intermediate,1
+design_methods,design methods,extracted,intermediate,1
+business_opportunities,business opportunities,extracted,intermediate,1
+database_tables,database tables,extracted,intermediate,1
+gis_data_acquisition,gis data acquisition,extracted,intermediate,1
+the_career_design_lab,the career design lab,extracted,intermediate,1
+your_job,your job,extracted,intermediate,1
+secure_angular_apps,secure angular apps,extracted,intermediate,1
+server-side_programming,server-side programming,extracted,intermediate,1
+back-end_database_applications,back-end database applications,extracted,intermediate,1
+a_multi_node_eosio,a multi node eosio,extracted,intermediate,1
+fast_websites,fast websites,extracted,intermediate,1
+astro,astro,extracted,intermediate,1
+tunnel_construction_practices,tunnel construction practices,extracted,intermediate,1
+feature_engineering,feature engineering,data_science,intermediate,10
+cloud_run_functions,cloud run functions,extracted,intermediate,1
+openai_gpts,openai gpts,extracted,intermediate,1
+new_ideas,new ideas,extracted,intermediate,1
+platform_protection,platform protection,extracted,intermediate,1
+an_effective_service_company,an effective service company,extracted,intermediate,1
+children,children,extracted,intermediate,2
+literacy,literacy,extracted,intermediate,1
+aws_sam,aws sam,extracted,intermediate,1
+lambda,lambda,extracted,intermediate,1
+multimodal_rag,multimodal rag,extracted,intermediate,1
+smarter_search,smarter search,extracted,intermediate,1
+ai_apps,ai apps,extracted,intermediate,1
+responsive_website_development,responsive website development,extracted,intermediate,1
+design_capstone,design capstone,extracted,intermediate,1
+an_unresourced_project,an unresourced project,extracted,intermediate,1
+oracle_primavera_p6,oracle primavera p6,extracted,intermediate,1
+breast_cancer_prediction,breast cancer prediction,extracted,intermediate,1
+pipeline,pipeline,extracted,intermediate,1
+log_analytics,log analytics,extracted,intermediate,1
+resilient_streaming_systems,resilient streaming systems,extracted,intermediate,1
+measures,measures,extracted,intermediate,1
+dimensions,dimensions,extracted,intermediate,1
+a_movie_search_app,a movie search app,extracted,intermediate,1
+serverless_applications,serverless applications,extracted,intermediate,2
+machine_design_part,machine design part,extracted,intermediate,1
+creative_design,creative design,extracted,intermediate,1
+gke_autoscaling_strategies,gke autoscaling strategies,extracted,intermediate,1
+an_automobile_listing_website,an automobile listing website,extracted,intermediate,1
+the_user_interface,the user interface,extracted,intermediate,2
+android_studio,android studio,extracted,intermediate,1
+legal_design,legal design,extracted,intermediate,1
+user-centric_legal_solutions,user-centric legal solutions,extracted,intermediate,1
+an_enterprise,an enterprise,extracted,intermediate,1
+emerging_technologies,emerging technologies,extracted,intermediate,1
+lifelong_learning,lifelong learning,extracted,intermediate,1
+larger_python_programs,larger python programs,extracted,intermediate,1
+design_game_hud,design game hud,extracted,intermediate,1
+ios_user_interface_design,ios user interface design,extracted,intermediate,1
+your_first_automation_script,your first automation script,extracted,intermediate,1
+selenium,selenium,extracted,intermediate,2
+marketing_fundamentals,marketing fundamentals,extracted,intermediate,1
+fi_design,fi design,extracted,intermediate,1
+sketch,sketch,extracted,intermediate,4
+logistics_systems,logistics systems,extracted,intermediate,1
+pavement_materials,pavement materials,extracted,intermediate,1
+shrm_certification,shrm certification,extracted,intermediate,1
+design_brainstorming_diagrams,design brainstorming diagrams,extracted,intermediate,1
+businesses,businesses,extracted,intermediate,1
+sound_and_sonification_design,sound and sonification design,extracted,intermediate,1
+interactive_learning_tools,interactive learning tools,extracted,intermediate,1
+customizable_sales_presentation_graphics,customizable sales presentation graphics,extracted,intermediate,1
+technical_interview_practice_questions,technical interview practice questions,extracted,intermediate,1
+social_media_usage_data,social media usage data,extracted,intermediate,1
+your_freelancing_career_capstone,your freelancing career capstone,extracted,intermediate,1
+character,character,extracted,intermediate,1
+positive_classrooms,positive classrooms,extracted,intermediate,1
+master_unity,master unity,extracted,intermediate,2
+an_employee_feedback_survey,an employee feedback survey,extracted,intermediate,1
+clean_data,clean data,extracted,intermediate,1
+what_managers,what managers,extracted,intermediate,1
+philosophy_-_part,philosophy - part,extracted,intermediate,1
+master_ai-driven_formulas,master ai-driven formulas,extracted,intermediate,1
+a_product_splash_page,a product splash page,extracted,intermediate,1
+responsive_web_pages,responsive web pages,extracted,intermediate,1
+basecamp,basecamp,extracted,intermediate,1
+a_serverless_web_app,a serverless web app,extracted,intermediate,1
+the_public_health_toolkit,the public health toolkit,extracted,intermediate,1
+ui/ux_design,ui/ux design,extracted,intermediate,1
+travel_booking_app,travel booking app,extracted,intermediate,1
+langchain,langchain,extracted,intermediate,2
+knowledge_graphs,knowledge graphs,extracted,intermediate,1
+-_mastering_rag_systems,- mastering rag systems,extracted,intermediate,1
+demand_forecasting,demand forecasting,extracted,intermediate,1
+a_bigquery_processing_pipeline,a bigquery processing pipeline,extracted,intermediate,1
+mergers,mergers,extracted,intermediate,1
+acquisitions,acquisitions,extracted,intermediate,1
+an_m&a_deal,an m&a deal,extracted,intermediate,1
+marketing_campaigns,marketing campaigns,extracted,intermediate,1
+pdfs,pdfs,extracted,intermediate,1
+asynchronism,asynchronism,extracted,intermediate,1
+.net_core,.net core,extracted,intermediate,2
+a_banking_system,a banking system,extracted,intermediate,1
+breath,breath,extracted,intermediate,1
+life,life,extracted,intermediate,2
+the_respiratory_system,the respiratory system,extracted,intermediate,1
+supply_chain,supply chain,extracted,intermediate,2
+buncee,buncee,extracted,intermediate,1
+online_teaching,online teaching,extracted,intermediate,2
+dynamic_user_interfaces,dynamic user interfaces,extracted,intermediate,1
+a_guessing_game,a guessing game,extracted,intermediate,1
+cats,cats,extracted,intermediate,1
+dogs,dogs,extracted,intermediate,1
+transfer_learning,transfer learning,extracted,intermediate,1
+search,search,extracted,intermediate,1
+agent_builder,agent builder,extracted,intermediate,1
+a_fulfilling_life,a fulfilling life,extracted,intermediate,1
+career,career,extracted,intermediate,1
+a_resume,a resume,extracted,intermediate,1
+letter,letter,extracted,intermediate,1
+drugs,drugs,extracted,intermediate,1
+drug_use,drug use,extracted,intermediate,1
+drug_policy,drug policy,extracted,intermediate,1
+concept,concept,extracted,intermediate,1
+product_development,product development,extracted,intermediate,1
+compute_engine,compute engine,extracted,intermediate,2
+bigtable_schemas,bigtable schemas,extracted,intermediate,1
+student_success,student success,extracted,intermediate,1
+piano,piano,extracted,intermediate,1
+insights,insights,extracted,intermediate,2
+power_bi,power bi,extracted,intermediate,2
+data_canvas,data canvas,extracted,intermediate,1
+design_queries,design queries,extracted,intermediate,1
+penetration_testing,penetration testing,cybersecurity,intermediate,6
+social_media_visuals,social media visuals,extracted,intermediate,1
+business,business,extracted,intermediate,5
+"a_resilient,_asynchronous_system","a resilient, asynchronous system",extracted,intermediate,1
+automation_framework_design,automation framework design,extracted,intermediate,1
+testng,testng,extracted,intermediate,2
+behavioral_design,behavioral design,extracted,intermediate,1
+custom_and_conditional_formatting,custom and conditional formatting,extracted,intermediate,1
+azure_cloud,azure cloud,extracted,intermediate,1
+cicd_pipeline,cicd pipeline,extracted,intermediate,1
+inheritance,inheritance,extracted,intermediate,1
+the_learning_innovation_network,the learning innovation network,extracted,intermediate,1
+advanced_matplotlib,advanced matplotlib,extracted,intermediate,1
+design_&_customize_visualizations,design & customize visualizations,extracted,intermediate,1
+a_quiz,a quiz,extracted,intermediate,1
+microsoft_forms,microsoft forms,extracted,intermediate,2
+a_glossary,a glossary,extracted,intermediate,1
+a_toolkit,a toolkit,extracted,intermediate,1
+your_future,your future,extracted,intermediate,1
+primitive_types,primitive types,extracted,intermediate,1
+objects,objects,extracted,intermediate,1
+the_digital_world,the digital world,extracted,intermediate,1
+elastic_stack,elastic stack,extracted,intermediate,1
+an_agile_culture,an agile culture,extracted,intermediate,1
+your_organization,your organization,extracted,intermediate,2
+the_music_business,the music business,extracted,intermediate,1
+continuous_integration,continuous integration,extracted,intermediate,1
+to_google_cloud,to google cloud,extracted,intermediate,1
+cloud_onramp_automation,cloud onramp automation,extracted,intermediate,1
+an_abstraction,an abstraction,extracted,intermediate,1
+frontend_development,frontend development,extracted,intermediate,2
+azure_devops,azure devops,extracted,intermediate,2
+accessible_web_design,accessible web design,extracted,intermediate,1
+a_presentation,a presentation,extracted,intermediate,2
+zero-trust,zero-trust,extracted,intermediate,1
+entrepreneurship,entrepreneurship,extracted,intermediate,2
+the_opportunity,the opportunity,extracted,intermediate,2
+java_programming,java programming,extracted,intermediate,1
+a_recommendation_system,a recommendation system,extracted,intermediate,1
+tile-based_dashboard_alerts,tile-based dashboard alerts,extracted,intermediate,1
+an_e-book_cover,an e-book cover,extracted,intermediate,1
+sap_apps,sap apps,extracted,intermediate,1
+cds_views,cds views,extracted,intermediate,1
+the_scenes,the scenes,extracted,intermediate,1
+core_systems,core systems,extracted,intermediate,1
+program_music,program music,extracted,intermediate,1
+earsketch,earsketch,extracted,intermediate,1
+a_chatgpt_pairs,a chatgpt pairs,extracted,intermediate,1
+trading_bot,trading bot,extracted,intermediate,1
+microsoft_copilot,microsoft copilot,extracted,intermediate,1
+your_customer,your customer,extracted,intermediate,1
+port_scanning,port scanning,extracted,intermediate,1
+nmap,nmap,extracted,intermediate,1
+kali,kali,extracted,intermediate,1
+linux,linux,extracted,intermediate,1
+deform,deform,extracted,intermediate,1
+3d_geometry_control,3d geometry control,extracted,intermediate,1
+functional_react_components,functional react components,extracted,intermediate,1
+日本語版,日本語版,extracted,intermediate,1
+oracle_sql_21c_mastery,oracle sql 21c mastery,extracted,intermediate,1
+master_nagios,master nagios,extracted,intermediate,1
+monitor,monitor,extracted,intermediate,1
+beautiful_imagery,beautiful imagery,extracted,intermediate,1
+midjourney,midjourney,extracted,intermediate,2
+digital_circuits,digital circuits,extracted,intermediate,1
+vhdl_programming,vhdl programming,extracted,intermediate,1
+premises,premises,extracted,intermediate,1
+basics,basics,extracted,intermediate,7
+inclusive_design,inclusive design,extracted,intermediate,1
+online_education,online education,extracted,intermediate,1
+untuk_inferensi,untuk inferensi,extracted,intermediate,1
+your_first_search_engine,your first search engine,extracted,intermediate,1
+aws_kendra,aws kendra,extracted,intermediate,1
+high-fidelity-designs,high-fidelity-designs,extracted,intermediate,1
+prototypen,prototypen,extracted,intermediate,1
+figma_erstellen,figma erstellen,extracted,intermediate,1
+an_online_auction_server,an online auction server,extracted,intermediate,1
+design_selenium_test_framework,design selenium test framework,extracted,intermediate,1
+architect_level,architect level,extracted,intermediate,1
+small_business_marketing,small business marketing,extracted,intermediate,2
+facebook,facebook,extracted,intermediate,4
+dynamic_sql_derived_tables,dynamic sql derived tables,extracted,intermediate,1
+digital_transformation_canvas,digital transformation canvas,extracted,intermediate,1
+competitiveness,competitiveness,extracted,intermediate,1
+relational_database,relational database,extracted,intermediate,1
+an_article_search_engine,an article search engine,extracted,intermediate,1
+visual_inspection,visual inspection,extracted,intermediate,2
+fair™,fair™,extracted,intermediate,1
+large_language_models,large language models,extracted,intermediate,1
+portfolio_management,portfolio management,finance,intermediate,1
+prep,prep,extracted,intermediate,1
+personnel,personnel,extracted,intermediate,1
+cloud_build,cloud build,extracted,intermediate,1
+an_agile_team,an agile team,extracted,intermediate,1
+data_management,data management,extracted,intermediate,1
+compliance_controls,compliance controls,extracted,intermediate,1
+global_marketing,global marketing,extracted,intermediate,1
+iconic_brands,iconic brands,extracted,intermediate,1
+a_lean_workflow,a lean workflow,extracted,intermediate,1
+kanban_frameworks,kanban frameworks,extracted,intermediate,1
+rag_apps,rag apps,extracted,intermediate,1
+dataflow,dataflow,extracted,intermediate,4
+pipelines,pipelines,extracted,intermediate,4
+the_software_engineering_interview,the software engineering interview,extracted,intermediate,1
+effective_leadership,effective leadership,extracted,intermediate,1
+master_management_styles,master management styles,extracted,intermediate,1
+a_scrum_master,a scrum master,extracted,intermediate,1
+algorithms,algorithms,extracted,intermediate,3
+your_data,your data,extracted,intermediate,1
+superior_skills,superior skills,extracted,intermediate,1
+a_service_provider_network,a service provider network,extracted,intermediate,1
+recommender_system,recommender system,extracted,intermediate,1
+non-data_role,non-data role,extracted,intermediate,1
+the_sir_model,the sir model,extracted,intermediate,2
+the_origins,the origins,extracted,intermediate,1
+selfhood,selfhood,extracted,intermediate,1
+the_road,the road,extracted,intermediate,1
+autonomy,autonomy,extracted,intermediate,1
+technologies,technologies,extracted,intermediate,2
+confidence,confidence,extracted,intermediate,1
+inspiration,inspiration,extracted,intermediate,1
+a_visual_schedule,a visual schedule,extracted,intermediate,1
+specialized_processors,specialized processors,extracted,intermediate,1
+document_ai,document ai,extracted,intermediate,1
+smart_design,smart design,extracted,intermediate,1
+cloud_migration,cloud migration,cloud_computing,intermediate,1
+aws_solutions,aws solutions,extracted,intermediate,1
+kicad,kicad,extracted,intermediate,1
+open-source_pcb_design,open-source pcb design,extracted,intermediate,1
+oriented_development,oriented development,extracted,intermediate,1
+the_universe,the universe,extracted,intermediate,1
+simple_parallel_coordinates_plot,simple parallel coordinates plot,extracted,intermediate,1
+an_entrepreneurial_ai_strategy,an entrepreneurial ai strategy,extracted,intermediate,1
+a_project_tracker,a project tracker,extracted,intermediate,1
+airtable,airtable,extracted,intermediate,1
+innovative_approaches,innovative approaches,extracted,intermediate,1
+the_digital_age,the digital age,extracted,intermediate,1
+presentations,presentations,extracted,intermediate,1
+visual_impairment,visual impairment,extracted,intermediate,1
+classrooms,classrooms,extracted,intermediate,1
+data_use,data use,extracted,intermediate,1
+disease_control,disease control,extracted,intermediate,1
+test_management,test management,extracted,intermediate,1
+raci_charts,raci charts,extracted,intermediate,1
+work_management,work management,extracted,intermediate,1
+a_hometown_homepage,a hometown homepage,extracted,intermediate,1
+your_angular_web_application,your angular web application,extracted,intermediate,1
+jasmine,jasmine,extracted,intermediate,1
+a_hiring_plan,a hiring plan,extracted,intermediate,1
+past_data,past data,extracted,intermediate,1
+sheets,sheets,extracted,intermediate,1
+applied_calculus,applied calculus,extracted,intermediate,1
+object-oriented_analysis,object-oriented analysis,extracted,intermediate,3
+architecture,architecture,extracted,intermediate,2
+a_responsive_layout,a responsive layout,extracted,intermediate,1
+css_grid,css grid,extracted,intermediate,2
+the_basics,the basics,extracted,intermediate,2
+masters,masters,extracted,intermediate,1
+resilience,resilience,extracted,intermediate,1
+integration,integration,extracted,intermediate,1
+az-204,az-204,extracted,intermediate,1
+solutions,solutions,extracted,intermediate,1
+effective_science_communication,effective science communication,extracted,intermediate,1
+impactful_marketing_videos,impactful marketing videos,extracted,intermediate,1
+best_practice,best practice,extracted,intermediate,2
+farming,farming,extracted,intermediate,1
+a_portfolio_website,a portfolio website,extracted,intermediate,1
+gc_-_简体中文,gc - 简体中文,extracted,intermediate,1
+websites,websites,extracted,intermediate,2
+powerpoint,powerpoint,extracted,intermediate,3
+smart_objects,smart objects,extracted,intermediate,1
+decision_trees,decision trees,extracted,intermediate,1
+svms,svms,extracted,intermediate,1
+a_team_culture,a team culture,extracted,intermediate,1
+continuous_learning,continuous learning,extracted,intermediate,1
+react_router,react router,extracted,intermediate,1
+practice_test,practice test,extracted,intermediate,1
+comptia_data+_certification,comptia data+ certification,extracted,intermediate,1
+competitive_strategy,competitive strategy,extracted,intermediate,1
+organization_design_project,organization design project,extracted,intermediate,1
+機器學習技法,機器學習技法,extracted,intermediate,1
+(machine_learning_techniques,(machine learning techniques,extracted,intermediate,1
+streamlined_syntax,streamlined syntax,extracted,intermediate,1
+menu_design,menu design,extracted,intermediate,1
+dubai_hospitality,dubai hospitality,extracted,intermediate,1
+your_artistic_brand,your artistic brand,extracted,intermediate,1
+pen_tool,pen tool,extracted,intermediate,1
+plus,plus,extracted,intermediate,1
+a_bash_command-line_tool,a bash command-line tool,extracted,intermediate,1
+power_app,power app,extracted,intermediate,1
+records,records,extracted,intermediate,1
+prevent,prevent,extracted,intermediate,1
+controls,controls,extracted,intermediate,1
+css_variables,css variables,extracted,intermediate,1
+project_finance_fundamentals,project finance fundamentals,extracted,intermediate,1
+structure,structure,extracted,intermediate,2
+gc_-_español,gc - español,extracted,intermediate,1
+women's_work,women's work,extracted,intermediate,1
+art_media,art media,extracted,intermediate,1
+social_justice,social justice,extracted,intermediate,2
+aws_autogluon,aws autogluon,extracted,intermediate,1
+world,world,extracted,intermediate,1
+adobe_photoshop_cc,adobe photoshop cc,extracted,intermediate,2
+neon,neon,extracted,intermediate,1
+cloud_error,cloud error,extracted,intermediate,1
+basic_game_development,basic game development,extracted,intermediate,2
+levels,levels,extracted,intermediate,1
+gc_-_한국어,gc - 한국어,extracted,intermediate,1
+an_admin_dashboard,an admin dashboard,extracted,intermediate,1
+a_marketing_mix,a marketing mix,extracted,intermediate,1
+growth,growth,extracted,intermediate,2
+interactive_web_pages,interactive web pages,extracted,intermediate,1
+modern_javascript,modern javascript,extracted,intermediate,1
+langchain_masterclass,langchain masterclass,extracted,intermediate,1
+15_llm_apps,15 llm apps,extracted,intermediate,1
+student_books,student books,extracted,intermediate,1
+book_creator,book creator,extracted,intermediate,1
+kali_linux,kali linux,extracted,intermediate,1
+low-fidelity_design,low-fidelity design,extracted,intermediate,2
+an_agent,an agent,extracted,intermediate,1
+front-end_apps,front-end apps,extracted,intermediate,1
+the_operating_system,the operating system,extracted,intermediate,1
+applied_data_science_capstone,applied data science capstone,extracted,intermediate,1
+your_own_ios_app,your own ios app,extracted,intermediate,1
+cancer_metastasis,cancer metastasis,extracted,intermediate,1
+a_business_architecture,a business architecture,extracted,intermediate,1
+aws_organization,aws organization,extracted,intermediate,1
+digital_communication,digital communication,extracted,intermediate,1
+a_facebook_business_page,a facebook business page,extracted,intermediate,1
+logistic_regression,logistic regression,extracted,intermediate,2
+leadership_style,leadership style,extracted,intermediate,1
+a_high-performance_team,a high-performance team,extracted,intermediate,1
+ethical_data,ethical data,extracted,intermediate,1
+a_website_map,a website map,extracted,intermediate,1
+jumpchart,jumpchart,extracted,intermediate,1
+memorystore,memorystore,extracted,intermediate,2
+redis,redis,extracted,intermediate,1
+replicas,replicas,extracted,intermediate,1
+sas_viya,sas viya,extracted,intermediate,1
+an_instagram_reel_cover,an instagram reel cover,extracted,intermediate,1
+responsive_web_essentials,responsive web essentials,extracted,intermediate,1
+navigation,navigation,extracted,intermediate,1
+filtering_explores,filtering explores,extracted,intermediate,1
+educational_technology,educational technology,extracted,intermediate,1
+english_learners,english learners,extracted,intermediate,1
+conduct,conduct,extracted,intermediate,1
+your_career,your career,extracted,intermediate,1
+a_professional_singer,a professional singer,extracted,intermediate,1
+complex_mpls_vpns,complex mpls vpns,extracted,intermediate,1
+the_brain,the brain,extracted,intermediate,1
+the_neurobiology,the neurobiology,extracted,intermediate,1
+cyber_security,cyber security,extracted,intermediate,1
+a_business_model_canvas,a business model canvas,extracted,intermediate,1
+fundamental_skills,fundamental skills,extracted,intermediate,1
+engineering_design,engineering design,extracted,intermediate,2
+two_dynamic_projects,two dynamic projects,extracted,intermediate,1
+php_mastery,php mastery,extracted,intermediate,1
+build_web_apps,build web apps,extracted,intermediate,1
+more_followers,more followers,extracted,intermediate,2
+a_tweet,a tweet,extracted,intermediate,1
+building_test_automation_framework,building test automation framework,extracted,intermediate,1
+master_java_unit_testing,master java unit testing,extracted,intermediate,1
+spring_boot,spring boot,extracted,intermediate,2
+a_virtual_classroom,a virtual classroom,extracted,intermediate,1
+google_slides,google slides,extracted,intermediate,2
+ethical_ai_use,ethical ai use,extracted,intermediate,1
+a_virtual_machine,a virtual machine,extracted,intermediate,2
+a_hugo_website,a hugo website,extracted,intermediate,1
+your_coaching_strategy,your coaching strategy,extracted,intermediate,1
+fusion,fusion,extracted,intermediate,1
+your_phone_case,your phone case,extracted,intermediate,1
+confirmatory_data_analysis,confirmatory data analysis,extracted,intermediate,1
+compelling_business_cases,compelling business cases,extracted,intermediate,1
+digital_innovation,digital innovation,extracted,intermediate,1
+digital_processes,digital processes,extracted,intermediate,1
+security_management,security management,extracted,intermediate,1
+skills,skills,extracted,intermediate,3
+industry,industry,extracted,intermediate,2
+manufacturing,manufacturing,extracted,intermediate,1
+communication__campaigns,communication  campaigns,extracted,intermediate,1
+crewai,crewai,extracted,intermediate,1
+medical_research,medical research,extracted,intermediate,1
+your_facebook_friend,your facebook friend,extracted,intermediate,1
+apigee_x_backend_services,apigee x backend services,extracted,intermediate,1
+digital_twins,digital twins,extracted,intermediate,1
+your_community_resources,your community resources,extracted,intermediate,1
+key_enablers,key enablers,extracted,intermediate,1
+challenges,challenges,extracted,intermediate,1
+master_sql,master sql,extracted,intermediate,1
+scikit-learn,scikit-learn,extracted,intermediate,1
+digital_teaching_printables,digital teaching printables,extracted,intermediate,1
+applied_machine_learning,applied machine learning,extracted,intermediate,3
+internet,internet,extracted,intermediate,1
+http_apis,http apis,extracted,intermediate,1
+spring,spring,extracted,intermediate,1
+probabilistic_graphical_models,probabilistic graphical models,extracted,intermediate,1
+strategic_foresight_capabilities,strategic foresight capabilities,extracted,intermediate,1
+secure_software_supply_chain,secure software supply chain,extracted,intermediate,1
+cloud_workstations,cloud workstations,extracted,intermediate,1
+interactive_dashboards,interactive dashboards,extracted,intermediate,1
+streamlit,streamlit,extracted,intermediate,1
+visualize,visualize,extracted,intermediate,1
+data_distributions,data distributions,extracted,intermediate,1
+core_data_concepts,core data concepts,extracted,intermediate,1
+the_value,the value,extracted,intermediate,1
+human-centered_design,human-centered design,extracted,intermediate,3
+visual_development,visual development,extracted,intermediate,1
+audio_design,audio design,extracted,intermediate,1
+games,games,extracted,intermediate,3
+projects,projects,extracted,intermediate,3
+a_jira_scrum_project,a jira scrum project,extracted,intermediate,1
+health_protection,health protection,extracted,intermediate,1
+accessibility,accessibility,extracted,intermediate,2
+universal_design,universal design,extracted,intermediate,1
+european_business_law,european business law,extracted,intermediate,1
+the_fundamentals,the fundamentals,extracted,intermediate,1
+the_core_mechanics,the core mechanics,extracted,intermediate,1
+a_pinball_game,a pinball game,extracted,intermediate,1
+java_apis,java apis,extracted,intermediate,1
+scrum_master_capstone,scrum master capstone,extracted,intermediate,1
+the_language,the language,extracted,intermediate,1
+form,form,extracted,intermediate,1
+an_email_campaign,an email campaign,extracted,intermediate,1
+sendinblue,sendinblue,extracted,intermediate,1
+aws_tools,aws tools,extracted,intermediate,1
+effects,effects,extracted,intermediate,1
+الشركات,الشركات,extracted,intermediate,1
+a_business,a business,extracted,intermediate,2
+employee_attrition_prediction,employee attrition prediction,extracted,intermediate,1
+patient_selection,patient selection,extracted,intermediate,1
+endovascular_treatment,endovascular treatment,extracted,intermediate,1
+the_race_scale,the race scale,extracted,intermediate,1
+action,action,extracted,intermediate,1
+statics,statics,extracted,intermediate,1
+hydrogen,hydrogen,extracted,intermediate,1
+key_concepts,key concepts,extracted,intermediate,1
+green_technologies,green technologies,extracted,intermediate,1
+google_cloud_-_español,google cloud - español,extracted,intermediate,2
+the_hood,the hood,extracted,intermediate,1
+the_technical_tips,the technical tips,extracted,intermediate,1
+six_games,six games,extracted,intermediate,1
+a_chatgpt,a chatgpt,extracted,intermediate,1
+engaging_dashboards,engaging dashboards,extracted,intermediate,1
+healthcare_analytics,healthcare analytics,extracted,intermediate,1
+healthy_practices,healthy practices,extracted,intermediate,1
+nutrition,nutrition,extracted,intermediate,1
+physical_activity,physical activity,extracted,intermediate,1
+the_campaign_components,the campaign components,extracted,intermediate,1
+openapi,openapi,extracted,intermediate,1
+ease,ease,extracted,intermediate,2
+learning,learning,extracted,intermediate,1
+learners,learners,extracted,intermediate,2
+six_sigma_yellow_belt,six sigma yellow belt,extracted,intermediate,1
+c#_app_inheritance,c# app inheritance,extracted,intermediate,1
+a_healthy_talent_pipeline,a healthy talent pipeline,extracted,intermediate,1
+training_videos,training videos,extracted,intermediate,1
+powtoon,powtoon,extracted,intermediate,1
+restful_apis,restful apis,extracted,intermediate,1
+a_multi-page_website,a multi-page website,extracted,intermediate,1
+the_foundations,the foundations,extracted,intermediate,1
+strategic_selling,strategic selling,extracted,intermediate,1
+beam_ml,beam ml,extracted,intermediate,1
+toxicity,toxicity,extracted,intermediate,1
+isc2,isc2,extracted,intermediate,1
+dashboard,dashboard,extracted,intermediate,1
+open_data,open data,extracted,intermediate,1
+computer_aided_design,computer aided design,extracted,intermediate,1
+a_programme_management_blueprint,a programme management blueprint,extracted,intermediate,1
+digital_tech_careers,digital tech careers,extracted,intermediate,1
+financial_statements,financial statements,extracted,intermediate,2
+economic_policymaking,economic policymaking,extracted,intermediate,1
+explainable_ai,explainable ai,extracted,intermediate,1
+scrum.org_pspo_i_certification,scrum.org pspo i certification,extracted,intermediate,1
+your_e-commerce_store,your e-commerce store,extracted,intermediate,2
+advanced_swot_analysis,advanced swot analysis,extracted,intermediate,1
+a_cli_distance_calculator,a cli distance calculator,extracted,intermediate,1
+master_training,master training,extracted,intermediate,1
+modeling_software_systems,modeling software systems,extracted,intermediate,1
+an_online_grocer,an online grocer,extracted,intermediate,1
+einstein,einstein,extracted,intermediate,1
+the_special_theory,the special theory,extracted,intermediate,1
+artificial_intelligence_use_cases,artificial intelligence use cases,extracted,intermediate,1
+surveys,surveys,extracted,intermediate,1
+qualtrics,qualtrics,extracted,intermediate,1
+amazon_aurora,amazon aurora,extracted,intermediate,1
+sounds,sounds,extracted,intermediate,1
+electronic_music,electronic music,extracted,intermediate,1
+business_cards,business cards,extracted,intermediate,2
+applied_analytics,applied analytics,extracted,intermediate,1
+decision,decision,extracted,intermediate,1
+bitumen,bitumen,extracted,intermediate,1
+better_roads,better roads,extracted,intermediate,1
+用python玩转数据_data_processing,用python玩转数据 data processing,extracted,intermediate,1
+mastery,mastery,extracted,intermediate,2
+tailwind_css_practice_projects,tailwind css practice projects,extracted,intermediate,1
+a_responsive_website,a responsive website,extracted,intermediate,1
+crie_designs,crie designs,extracted,intermediate,1
+product_marketing,product marketing,extracted,intermediate,1
+g_suite,g suite,extracted,intermediate,1
+master_data,master data,extracted,intermediate,2
+decisions,decisions,extracted,intermediate,1
+a_no-code_responsive_website,a no-code responsive website,extracted,intermediate,1
+scrum_master_certification,scrum master certification,extracted,intermediate,2
+your_first_gui_app,your first gui app,extracted,intermediate,1
+advanced_django,advanced django,extracted,intermediate,1
+imagen,imagen,extracted,intermediate,1
+a_dao_website,a dao website,extracted,intermediate,1
+hotglue,hotglue,extracted,intermediate,1
+geographic_mapping,geographic mapping,extracted,intermediate,1
+open_design,open design,extracted,intermediate,1
+advanced_agile_practices,advanced agile practices,extracted,intermediate,1
+continuous_improvement,continuous improvement,extracted,intermediate,1
+design_strategies,design strategies,extracted,intermediate,1
+total_data_quality,total data quality,extracted,intermediate,1
+six_sigma,six sigma,extracted,intermediate,1
+business_intelligence_implementation,business intelligence implementation,extracted,intermediate,1
+portfolio_optimization,portfolio optimization,extracted,intermediate,1
+markowitz_model,markowitz model,extracted,intermediate,1
+data_professionals,data professionals,extracted,intermediate,1
+power_automate,power automate,extracted,intermediate,1
+design_solutions,design solutions,extracted,intermediate,1
+priorities,priorities,extracted,intermediate,1
+c++_programming,c++ programming,extracted,intermediate,2
+a_tic-tac-toe_game,a tic-tac-toe game,extracted,intermediate,2
+design_and_process_日本語版,design and process 日本語版,extracted,intermediate,1
+a_network_policy,a network policy,extracted,intermediate,1
+google_kubernetes_engine,google kubernetes engine,extracted,intermediate,1
+power_apps,power apps,extracted,intermediate,1
+custom_components,custom components,extracted,intermediate,1
+a_target_market_presentation,a target market presentation,extracted,intermediate,1
+excel_essentials,excel essentials,extracted,intermediate,1
+business_value,business value,extracted,intermediate,1
+creative_coding,creative coding,extracted,intermediate,1
+designers,designers,extracted,intermediate,2
+image_segmentation,image segmentation,extracted,intermediate,1
+object-oriented_design,object-oriented design,extracted,intermediate,1
+an_nft,an nft,extracted,intermediate,1
+google_cloud_web3,google cloud web3,extracted,intermediate,1
+a_patient_safety,a patient safety,extracted,intermediate,1
+quality_improvement_project,quality improvement project,extracted,intermediate,1
+cloud_architecture_design_patterns,cloud architecture design patterns,extracted,intermediate,1
+sustainable_business_practices,sustainable business practices,extracted,intermediate,1
+design_phase_training,design phase training,extracted,intermediate,1
+layouts,layouts,extracted,intermediate,1
+fitness-driven_dapps,fitness-driven dapps,extracted,intermediate,1
+master_vba,master vba,extracted,intermediate,1
+success,success,extracted,intermediate,3
+goal,goal,extracted,intermediate,1
+your_data_science,your data science,extracted,intermediate,1
+the_frame,the frame,extracted,intermediate,1
+business_growth,business growth,extracted,intermediate,1
+chatgpt_voice-powered_chatbot_build,chatgpt voice-powered chatbot build,extracted,intermediate,1
+ui_ux_design,ui ux design,extracted,intermediate,1
+pt.2,pt.2,extracted,intermediate,1
+layout,layout,extracted,intermediate,1
+a_business_presence,a business presence,extracted,intermediate,1
+facebook_marketing,facebook marketing,extracted,intermediate,1
+methodologies,methodologies,extracted,intermediate,1
+advanced_detailing,advanced detailing,extracted,intermediate,1
+roof_design,roof design,extracted,intermediate,1
+machine_learning_solutions,machine learning solutions,extracted,intermediate,3
+简体中文,简体中文,extracted,intermediate,1
+advanced_thermal_management,advanced thermal management,extracted,intermediate,1
+capm_certification,capm certification,extracted,intermediate,1
+incident_response_-_theory,incident response - theory,extracted,intermediate,1
+real-world_websites,real-world websites,extracted,intermediate,1
+sass,sass,extracted,intermediate,1
+useful_korean_expressions,useful korean expressions,extracted,intermediate,1
+role-based_access_control,role-based access control,extracted,intermediate,1
+a_tic-tac-toe_agent,a tic-tac-toe agent,extracted,intermediate,1
+program_changes,program changes,extracted,intermediate,1
+scalable_java_microservices,scalable java microservices,extracted,intermediate,1
+influencer_marketing,influencer marketing,extracted,intermediate,1
+instagram_business,instagram business,extracted,intermediate,1
+design_principles,design principles,extracted,intermediate,2
+your_business_brand,your business brand,extracted,intermediate,1
+your_brand,your brand,extracted,intermediate,2
+six_sigma_tools,six sigma tools,extracted,intermediate,1
+your_network_device,your network device,extracted,intermediate,1
+cisco_packet_tracer,cisco packet tracer,extracted,intermediate,1
+a_leader,a leader,extracted,intermediate,2
+level_design,level design,extracted,intermediate,1
+digestive_dynamics,digestive dynamics,extracted,intermediate,1
+the_gi_system,the gi system,extracted,intermediate,1
+curanderismo,curanderismo,extracted,intermediate,1
+traditional_healing,traditional healing,extracted,intermediate,1
+plants,plants,extracted,intermediate,2
+cases,cases,extracted,intermediate,2
+an_online_course,an online course,extracted,intermediate,1
+gc_-_indonesia,gc - indonesia,extracted,intermediate,1
+powerful_reports,powerful reports,extracted,intermediate,1
+a_machine_learning_project,a machine learning project,extracted,intermediate,1
+sensors,sensors,extracted,intermediate,2
+your_raspberry_pi,your raspberry pi,extracted,intermediate,1
+python_programming,python programming,extracted,intermediate,1
+software_engineering,software engineering,extracted,intermediate,1
+ansible_automation,ansible automation,extracted,intermediate,1
+a_facebook_business_manager,a facebook business manager,extracted,intermediate,1
+modern_physics_i,modern physics i,extracted,intermediate,1
+relativity,relativity,extracted,intermediate,1
+microsoft_project,microsoft project,extracted,intermediate,2
+a_marketing_analysis_dashboard,a marketing analysis dashboard,extracted,intermediate,1
+spreadsheets,spreadsheets,extracted,intermediate,3
+machine_learning_algorithms,machine learning algorithms,extracted,intermediate,1
+design_specs,design specs,extracted,intermediate,1
+handoff,handoff,extracted,intermediate,1
+graphql_fundamentals,graphql fundamentals,extracted,intermediate,1
+design_apis,design apis,extracted,intermediate,1
+schema,schema,extracted,intermediate,1
+frontend_integration,frontend integration,extracted,intermediate,1
+an_api,an api,extracted,intermediate,1
+design-oriented_analysis,design-oriented analysis,extracted,intermediate,1
+selenium_webdriver,selenium webdriver,extracted,intermediate,1
+a_systems_mindset,a systems mindset,extracted,intermediate,1
+brand_awareness,brand awareness,extracted,intermediate,1
+digital_brand_activation,digital brand activation,extracted,intermediate,1
+supply_chain_network_optimization,supply chain network optimization,extracted,intermediate,1
+milp,milp,extracted,intermediate,1
+rstudio,rstudio,extracted,intermediate,3
+funding,funding,extracted,intermediate,1
+ux_design_fundamentals,ux design fundamentals,extracted,intermediate,1
+business_analysis_skills,business analysis skills,extracted,intermediate,1
+spring_framework,spring framework,extracted,intermediate,1
+advanced_tools,advanced tools,extracted,intermediate,1
+page_navigation,page navigation,extracted,intermediate,1
+a_flutter_application,a flutter application,extracted,intermediate,1
+robust_information_system_security,robust information system security,extracted,intermediate,1
+video,video,extracted,intermediate,3
+audio,audio,extracted,intermediate,2
+infographics,infographics,extracted,intermediate,3
+chinese,chinese,extracted,intermediate,1
+landscapes,landscapes,extracted,intermediate,1
+spring_webflux,spring webflux,extracted,intermediate,1
+scalable_reactive_web_apps,scalable reactive web apps,extracted,intermediate,1
+a_promotional_video,a promotional video,extracted,intermediate,1
+student,student,extracted,intermediate,1
+interactive_lessons,interactive lessons,extracted,intermediate,1
+health_equity_research_methods,health equity research methods,extracted,intermediate,1
+policy,policy,extracted,intermediate,2
+flutter,flutter,extracted,intermediate,1
+dart:_developing_ios,dart: developing ios,extracted,intermediate,1
+qlik_sense,qlik sense,extracted,intermediate,1
+database_creation,database creation,extracted,intermediate,1
+perspectives,perspectives,extracted,intermediate,1
+算法设计与分析___design,算法设计与分析   design,extracted,intermediate,1
+polyglot_persistence,polyglot persistence,extracted,intermediate,1
+sql_and_nosql_databases,sql and nosql databases,extracted,intermediate,1
+power_pages,power pages,extracted,intermediate,1
+website,website,extracted,intermediate,1
+complex_data,complex data,extracted,intermediate,1
+routing,routing,extracted,intermediate,1
+astronomy,astronomy,extracted,intermediate,1
+space,space,extracted,intermediate,1
+chest_x,chest x,extracted,intermediate,1
+posts,posts,extracted,intermediate,1
+multiple_platforms,multiple platforms,extracted,intermediate,1
+hootsuite,hootsuite,extracted,intermediate,1
+master_express_framework,master express framework,extracted,intermediate,1
+electric_vlsi_eda_tool,electric vlsi eda tool,extracted,intermediate,1
+design_activities,design activities,extracted,intermediate,1
+game_developers,game developers,extracted,intermediate,1
+regular_expressions,regular expressions,extracted,intermediate,1
+pavement_construction_practices,pavement construction practices,extracted,intermediate,1
+كيفية_بناء_منظمة,كيفية بناء منظمة,extracted,intermediate,1
+a_learning_organization,a learning organization,extracted,intermediate,1
+product_opportunities,product opportunities,extracted,intermediate,1
+encryption,encryption,extracted,intermediate,1
+decryption,decryption,extracted,intermediate,1
+psychosis,psychosis,extracted,intermediate,1
+cloud_finops,cloud finops,extracted,intermediate,1
+website_videos,website videos,extracted,intermediate,1
+procedural_hex_maps,procedural hex maps,extracted,intermediate,1
+advanced_css_techniques,advanced css techniques,extracted,intermediate,1
+infrastructure,infrastructure,extracted,intermediate,3
+master_juniper_enterprise,master juniper enterprise,extracted,intermediate,1
+quality_code,quality code,extracted,intermediate,1
+midjourney_advanced_prompt_guide,midjourney advanced prompt guide,extracted,intermediate,1
+master_ai_art_prompts,master ai art prompts,extracted,intermediate,1
+the_experiences,the experiences,extracted,intermediate,1
+caregivers,caregivers,extracted,intermediate,2
+master,master,extracted,intermediate,3
+blueprints,blueprints,extracted,intermediate,2
+questionnaire_design,questionnaire design,extracted,intermediate,1
+social_surveys,social surveys,extracted,intermediate,1
+gsutil,gsutil,extracted,intermediate,1
+a_portfolio,a portfolio,extracted,intermediate,2
+a_crypto_trading_platform,a crypto trading platform,extracted,intermediate,1
+mini_projects,mini projects,extracted,intermediate,1
+process_documents,process documents,extracted,intermediate,1
+the_document,the document,extracted,intermediate,1
+adobe_indesign,adobe indesign,extracted,intermediate,1
+collaborative_design,collaborative design,extracted,intermediate,1
+workflow,workflow,extracted,intermediate,1
+practical_steps,practical steps,extracted,intermediate,1
+api_test_automation_framework,api test automation framework,extracted,intermediate,1
+rest,rest,extracted,intermediate,4
+statistical_analysis_fundamentals,statistical analysis fundamentals,extracted,intermediate,1
+golf_course_management,golf course management,extracted,intermediate,1
+criar_designs,criar designs,extracted,intermediate,1
+e_protótipos_de_alta,e protótipos de alta,extracted,intermediate,1
+construction_practices,construction practices,extracted,intermediate,1
+compassionate_leadership,compassionate leadership,extracted,intermediate,1
+jane_goodall,jane goodall,extracted,intermediate,1
+roots,roots,extracted,intermediate,1
+cloud_dns,cloud dns,extracted,intermediate,1
+traffic_steering,traffic steering,extracted,intermediate,1
+geolocation_policy,geolocation policy,extracted,intermediate,1
+intelligent_troubleshooting_agents,intelligent troubleshooting agents,extracted,intermediate,1
+designs,designs,extracted,intermediate,1
+users,users,extracted,intermediate,1
+healthcare_delivery,healthcare delivery,extracted,intermediate,1
+medical_practice_managers,medical practice managers,extracted,intermediate,1
+master_data_building,master data building,extracted,intermediate,1
+effective_interventions,effective interventions,extracted,intermediate,1
+high-fidelity_design,high-fidelity design,extracted,intermediate,2
+user_testing,user testing,extracted,intermediate,2
+automl,automl,extracted,intermediate,1
+autogluon,autogluon,extracted,intermediate,1
+your_use_case,your use case,extracted,intermediate,1
+a_voice,a voice,extracted,intermediate,1
+receptionist,receptionist,extracted,intermediate,1
+korean_politics,korean politics,extracted,intermediate,1
+unreal_engine_game_design,unreal engine game design,extracted,intermediate,1
+github_copilot,github copilot,extracted,intermediate,2
+text_games,text games,extracted,intermediate,1
+a_weather_app_interface,a weather app interface,extracted,intermediate,1
+ui_design_fundamentals,ui design fundamentals,extracted,intermediate,1
+infectious_disease_modeling,infectious disease modeling,extracted,intermediate,1
+firebase_genkit,firebase genkit,extracted,intermediate,1
+high_quality_user_experience,high quality user experience,extracted,intermediate,1
+material,material,extracted,intermediate,1
+dynamic_particle_effects,dynamic particle effects,extracted,intermediate,1
+social_network_analysis,social network analysis,extracted,intermediate,1
+ux/ui_principles,ux/ui principles,extracted,intermediate,1
+pictory.ai,pictory.ai,extracted,intermediate,1
+applied_data_science,applied data science,extracted,intermediate,1
+your_fundraiser,your fundraiser,extracted,intermediate,1
+sensor_circuit_design,sensor circuit design,extracted,intermediate,1
+algorithmic_solutions,algorithmic solutions,extracted,intermediate,1
+a_good_business,a good business,extracted,intermediate,1
+customer_reviews,customer reviews,extracted,intermediate,2
+design_innovation,design innovation,extracted,intermediate,1
+an_applied_approach,an applied approach,extracted,intermediate,1
+tasks,tasks,extracted,intermediate,3
+lists,lists,extracted,intermediate,1
+clickup,clickup,extracted,intermediate,1
+human-centered_iot_solutions,human-centered iot solutions,extracted,intermediate,1
+the_lineage,the lineage,extracted,intermediate,1
+simple_ui_designs,simple ui designs,extracted,intermediate,1
+a_bigtable_instance,a bigtable instance,extracted,intermediate,1
+structural_design_patterns,structural design patterns,extracted,intermediate,1
+la_idea,la idea,extracted,intermediate,1
+model_regularization,model regularization,extracted,intermediate,1
+agroforestry_i,agroforestry i,extracted,intermediate,1
+discovery_tools,discovery tools,extracted,intermediate,1
+features,features,extracted,intermediate,1
+series_data,series data,extracted,intermediate,1
+a_project_management_tracker,a project management tracker,extracted,intermediate,2
+comptia_tech+_certification,comptia tech+ certification,extracted,intermediate,1
+a_student_management_api,a student management api,extracted,intermediate,1
+2d_shooter,2d shooter,extracted,intermediate,1
+einführung,einführung,extracted,intermediate,1
+marketing_design_mit,marketing design mit,extracted,intermediate,1
+forecasting,forecasting,extracted,intermediate,1
+data_scientists,data scientists,extracted,intermediate,1
+basic_formulas,basic formulas,extracted,intermediate,1
+functions,functions,extracted,intermediate,1
+responsive_ui_design,responsive ui design,extracted,intermediate,1
+modern_web_development,modern web development,extracted,intermediate,1
+notion,notion,extracted,intermediate,3
+a_project_plan,a project plan,extracted,intermediate,1
+r_packages,r packages,extracted,intermediate,1
+aws_billing_alerts,aws billing alerts,extracted,intermediate,1
+aws_budgets,aws budgets,extracted,intermediate,1
+retouching,retouching,extracted,intermediate,1
+hugging_face_training,hugging face training,extracted,intermediate,1
+a_strong_logo,a strong logo,extracted,intermediate,1
+community,community,extracted,intermediate,1
+habits,habits,extracted,intermediate,1
+a_multi-page_portfolio_website,a multi-page portfolio website,extracted,intermediate,1
+marketing,marketing,extracted,intermediate,3
+resilient_teams,resilient teams,extracted,intermediate,1
+numpy,numpy,extracted,intermediate,1
+bigquery_omni,bigquery omni,extracted,intermediate,1
+a_digital_mood_board,a digital mood board,extracted,intermediate,1
+活用希臘哲學,活用希臘哲學,extracted,intermediate,1
+the_greek_philosophy,the greek philosophy,extracted,intermediate,1
+the_usability,the usability,extracted,intermediate,1
+canva_thumbnail_design_masterclass,canva thumbnail design masterclass,extracted,intermediate,1
+more_clicks,more clicks,extracted,intermediate,1
+top_talent,top talent,extracted,intermediate,1
+في_الحديث,في الحديث,extracted,intermediate,1
+briefing,briefing,extracted,intermediate,1
+vue,vue,programming,intermediate,1
+precast_system,precast system,extracted,intermediate,1
+piktochart,piktochart,extracted,intermediate,2
+reports,reports,extracted,intermediate,1
+data_studio,data studio,extracted,intermediate,1
+comprehension,comprehension,extracted,intermediate,1
+svelte,svelte,extracted,intermediate,1
+java:_design_patterns,java: design patterns,extracted,intermediate,1
+a_pinterest_ad_account,a pinterest ad account,extracted,intermediate,1
+piano_sonatas,piano sonatas,extracted,intermediate,1
+idiomatic_rust,idiomatic rust,extracted,intermediate,1
+traits,traits,extracted,intermediate,1
+pycaret,pycaret,extracted,intermediate,1
+gen_ai,gen ai,extracted,intermediate,1
+a_campaign,a campaign,extracted,intermediate,1
+a_web_app,a web app,extracted,intermediate,1
+patient_perspectives,patient perspectives,extracted,intermediate,1
+medications,medications,extracted,intermediate,1
+joins,joins,extracted,intermediate,1
+scalable_applications,scalable applications,extracted,intermediate,1
+languages,languages,extracted,intermediate,1
+blender,blender,extracted,intermediate,1
+filmmakers,filmmakers,extracted,intermediate,1
+floating_3d_objects,floating 3d objects,extracted,intermediate,1
+the_public_cryptocurrency_datasets,the public cryptocurrency datasets,extracted,intermediate,1
+social_media_ad_campaign,social media ad campaign,extracted,intermediate,1
+horizontal_and_vertical_timelines,horizontal and vertical timelines,extracted,intermediate,1
+a_company_website,a company website,extracted,intermediate,1
+continuous_delivery,continuous delivery,extracted,intermediate,1
+managing_builds,managing builds,extracted,intermediate,1
+a_high-fidelity_prototype,a high-fidelity prototype,extracted,intermediate,1
+violence,violence,extracted,intermediate,1
+advanced_practices,advanced practices,extracted,intermediate,1
+packaging_design,packaging design,extracted,intermediate,2
+a_product,a product,extracted,intermediate,1
+regression_models,regression models,extracted,intermediate,1
+azure_data_factory,azure data factory,extracted,intermediate,2
+scd_type,scd type,extracted,intermediate,1
+numerical_methods,numerical methods,extracted,intermediate,1
+agile_policy,agile policy,extracted,intermediate,1
+applied_computational_fluid_dynamics,applied computational fluid dynamics,extracted,intermediate,1
+bikeshare_demand,bikeshare demand,extracted,intermediate,1
+time_series_models,time series models,extracted,intermediate,1
+strategic_innovation,strategic innovation,extracted,intermediate,1
+innovative_organizations,innovative organizations,extracted,intermediate,1
+a_superhero_name_generator,a superhero name generator,extracted,intermediate,1
+design_fundamentals,design fundamentals,extracted,intermediate,1
+breakthrough_advertisements,breakthrough advertisements,extracted,intermediate,1
+machine_learning_capstone,machine learning capstone,extracted,intermediate,1
+canvas,canvas,extracted,intermediate,1
+eco-tech,eco-tech,extracted,intermediate,1
+it's_impact,it's impact,extracted,intermediate,1
+sports_turf_management,sports turf management,extracted,intermediate,1
+findings,findings,extracted,intermediate,1
+security_command_center,security command center,extracted,intermediate,1
+master_class,master class,extracted,intermediate,1
+the_news,the news,extracted,intermediate,1
+highway_geometry,highway geometry,extracted,intermediate,1
+pavement_design,pavement design,extracted,intermediate,1
+tracking,tracking,extracted,intermediate,1
+invoicing,invoicing,extracted,intermediate,1
+harvest,harvest,extracted,intermediate,1
+model-driven_power_app,model-driven power app,extracted,intermediate,1
+mapping_data,mapping data,extracted,intermediate,1
+the_human_factor,the human factor,extracted,intermediate,1
+fundamentos,fundamentos,extracted,intermediate,1
+design_da_experiência,design da experiência,extracted,intermediate,1
+do_usuário,do usuário,extracted,intermediate,1
+procedural_surfaces,procedural surfaces,extracted,intermediate,1
+noise_functions,noise functions,extracted,intermediate,1
+complex_questions,complex questions,extracted,intermediate,1
+native_derived_tables,native derived tables,extracted,intermediate,1
+workflow_automation,workflow automation,extracted,intermediate,1
+machine_learning_models,machine learning models,extracted,intermediate,2
+brand,brand,extracted,intermediate,1
+image,image,extracted,intermediate,1
+high_impact_campaigns,high impact campaigns,extracted,intermediate,1
+macro-environmental_factors,macro-environmental factors,extracted,intermediate,1
+ux/ui_design_fundamentals,ux/ui design fundamentals,extracted,intermediate,1
+usability,usability,extracted,intermediate,1
+visual_principles,visual principles,extracted,intermediate,1
+a_pitch_deck,a pitch deck,extracted,intermediate,1
+design_computing,design computing,extracted,intermediate,1
+master_marketing_case_study,master marketing case study,extracted,intermediate,1
+system_design_fundamentals,system design fundamentals,extracted,intermediate,1
+ncaa_data,ncaa data,extracted,intermediate,1
+r_capstone,r capstone,extracted,intermediate,1
+a_changemaker,a changemaker,extracted,intermediate,1
+a_career,a career,extracted,intermediate,1
+purpose,purpose,extracted,intermediate,2
+a_qr_code,a qr code,extracted,intermediate,1
+the_use,the use,extracted,intermediate,1
+texts,texts,extracted,intermediate,1
+various_use_cases,various use cases,extracted,intermediate,1
+a_personal_dashboard,a personal dashboard,extracted,intermediate,1
+networks,networks,extracted,intermediate,1
+databricks,databricks,extracted,intermediate,1
+a_movie_recommendation_engine,a movie recommendation engine,extracted,intermediate,1
+azure_ml,azure ml,extracted,intermediate,1
+copilot_best_practices,copilot best practices,extracted,intermediate,1
+regulatory_implications,regulatory implications,extracted,intermediate,1
+iot_based_system_design,iot based system design,extracted,intermediate,1
+memory,memory,extracted,intermediate,1
+a_rocket_display_module,a rocket display module,extracted,intermediate,1
+basel_iii_norms,basel iii norms,extracted,intermediate,1
+standards,standards,extracted,intermediate,1
+python_sequences,python sequences,extracted,intermediate,1
+strings,strings,extracted,intermediate,1
+a_product_landing_page,a product landing page,extracted,intermediate,1
+python_basics,python basics,extracted,intermediate,1
+a_guessing_number_game,a guessing number game,extracted,intermediate,1
+impactful_data_visualizations,impactful data visualizations,extracted,intermediate,1
+generative,generative,extracted,intermediate,1
+vetiver,vetiver,extracted,intermediate,1
+business_analysis,business analysis,extracted,intermediate,1
+research_methods,research methods,extracted,intermediate,1
+formwork_system,formwork system,extracted,intermediate,1
+business_strategy,business strategy,extracted,intermediate,2
+(project-centered_course,(project-centered course,extracted,intermediate,1
+innovative_ideas,innovative ideas,extracted,intermediate,2
+new_companies,new companies,extracted,intermediate,1
+participatory_approaches,participatory approaches,extracted,intermediate,1
+public_health_settings,public health settings,extracted,intermediate,1
+your_thought_partner,your thought partner,extracted,intermediate,1
+activity_design,activity design,extracted,intermediate,1
+phet_simulations,phet simulations,extracted,intermediate,1
+stem_education,stem education,extracted,intermediate,1
+a_social_media_presence,a social media presence,extracted,intermediate,1
+master_retouching,master retouching,extracted,intermediate,1
+a_program_evaluation,a program evaluation,extracted,intermediate,1
+digital_health_interventions,digital health interventions,extracted,intermediate,1
+a_product_roadmap,a product roadmap,extracted,intermediate,1
+responsive_websites,responsive websites,extracted,intermediate,1
+any_device,any device,extracted,intermediate,1
+a_social_business,a social business,extracted,intermediate,1
+ad_clicks,ad clicks,extracted,intermediate,1
+xg-boost,xg-boost,extracted,intermediate,1
+freelance_editing,freelance editing,extracted,intermediate,1
+launch,launch,extracted,intermediate,1
+your_video_editing_career,your video editing career,extracted,intermediate,1
+maintenance,maintenance,extracted,intermediate,1
+happiness,happiness,extracted,intermediate,1
+ancient_indian_wisdom,ancient indian wisdom,extracted,intermediate,1
+culture-driven_team,culture-driven team,extracted,intermediate,1
+"modelling,_analysis","modelling, analysis",extracted,intermediate,1
+world_design,world design,extracted,intermediate,1
+a_targeted_ad,a targeted ad,extracted,intermediate,1
+facebook_audience,facebook audience,extracted,intermediate,1
+post,post,extracted,intermediate,2
+the_australian_economy,the australian economy,extracted,intermediate,1
+your_own_trading_strategy,your own trading strategy,extracted,intermediate,1
+your_first_report,your first report,extracted,intermediate,1
+mind_maps,mind maps,extracted,intermediate,1
+analytical_queries,analytical queries,extracted,intermediate,1
+the_alloydb_columnar_engine,the alloydb columnar engine,extracted,intermediate,1
+renewable_energy_schemes,renewable energy schemes,extracted,intermediate,1
+sql_server,sql server,extracted,intermediate,1
+advanced_genai_development_practices,advanced genai development practices,extracted,intermediate,1
+dataiku,dataiku,extracted,intermediate,1
+the_field,the field,extracted,intermediate,1
+u.s._payroll,u.s. payroll,extracted,intermediate,1
+an_expense_tracker_app,an expense tracker app,extracted,intermediate,1
+security_-_intermediate_practices,security - intermediate practices,extracted,intermediate,1
+json,json,extracted,intermediate,3
+illustration,illustration,multimedia,intermediate,1
+brand_illustration,brand illustration,extracted,intermediate,1
+"stylized,_unforgettable_imagery","stylized, unforgettable imagery",extracted,intermediate,1
+the_analyze_phase,the analyze phase,extracted,intermediate,1
+negotiation_skills,negotiation skills,extracted,intermediate,1
+strategies,strategies,extracted,intermediate,1
+game_design_document,game design document,extracted,intermediate,1
+a_buyer_persona_diagram,a buyer persona diagram,extracted,intermediate,1
+data_visualization_tools,data visualization tools,extracted,intermediate,1
+master_marketing_strategy,master marketing strategy,extracted,intermediate,1
+ai_agents,ai agents,extracted,intermediate,2
+master_aws,master aws,extracted,intermediate,1
+ux_and_interface_design,ux and interface design,extracted,intermediate,1
+applied_scrum,applied scrum,extracted,intermediate,1
+agile_project_management,agile project management,extracted,intermediate,1
+the_middle_attacks,the middle attacks,extracted,intermediate,1
+document_design,document design,extracted,intermediate,1
+user_interface,user interface,extracted,intermediate,1
+input_tax_credit,input tax credit,extracted,intermediate,1
+predictive_models,predictive models,extracted,intermediate,1
+ig_stories,ig stories,extracted,intermediate,1
+networks_日本語版,networks 日本語版,extracted,intermediate,1
+an_impact_investment,an impact investment,extracted,intermediate,1
+team_dynamics,team dynamics,extracted,intermediate,1
+organizational_templates,organizational templates,extracted,intermediate,1
+modern_distributed_systems,modern distributed systems,extracted,intermediate,1
+dataset_metadata,dataset metadata,extracted,intermediate,1
+a_mockup,a mockup,extracted,intermediate,1
+mockups,mockups,extracted,intermediate,1
+a_leadership_framework,a leadership framework,extracted,intermediate,1
+the_ux_design_process,the ux design process,extracted,intermediate,1
+mysql_database,mysql database,extracted,intermediate,1
+hbase,hbase,extracted,intermediate,1
+css_practice_questions,css practice questions,extracted,intermediate,1
+oracle_sql_practice_course,oracle sql practice course,extracted,intermediate,1
+talent,talent,extracted,intermediate,1
+compensation_design,compensation design,extracted,intermediate,1
+ios_development,ios development,extracted,intermediate,1
+an_email,an email,extracted,intermediate,1
+autoresponder,autoresponder,extracted,intermediate,1
+genai_agents,genai agents,extracted,intermediate,1
+criar_empatia,criar empatia,extracted,intermediate,1
+pt.1,pt.1,extracted,intermediate,1
+kafka,kafka,extracted,intermediate,1
+streams_api,streams api,extracted,intermediate,1
+java/spring_boot,java/spring boot,extracted,intermediate,1
+la_implementación_y_cultura,la implementación y cultura,extracted,intermediate,1
+ceh_(v12)_practice_projects,ceh (v12) practice projects,extracted,intermediate,1
+exam_simulators,exam simulators,extracted,intermediate,1
+institutional_anti-racist_spaces,institutional anti-racist spaces,extracted,intermediate,1
+an_app,an app,extracted,intermediate,1
+company_expenses,company expenses,extracted,intermediate,1
+the_matter,the matter,extracted,intermediate,1
+the_cardiovascular_system,the cardiovascular system,extracted,intermediate,1
+experimental_design_basics,experimental design basics,extracted,intermediate,1
+social_work_practice,social work practice,extracted,intermediate,1
+behaviour,behaviour,extracted,intermediate,1
+python_notebooks,python notebooks,extracted,intermediate,1
+tidymodels,tidymodels,extracted,intermediate,1
+tidy_machine_learning_models,tidy machine learning models,extracted,intermediate,1
+organisational_design,organisational design,extracted,intermediate,1
+your_organisation,your organisation,extracted,intermediate,1
+hydropower_structures,hydropower structures,extracted,intermediate,1
+the_global_workplace,the global workplace,extracted,intermediate,1
+your_corporate_designs,your corporate designs,extracted,intermediate,1
+slack,slack,extracted,intermediate,1
+adobe_illustrator,adobe illustrator,extracted,intermediate,2
+vector_artwork,vector artwork,extracted,intermediate,1
+technology,technology,extracted,intermediate,2
+clickstream_data_analysis_pipeline,clickstream data analysis pipeline,extracted,intermediate,1
+ksqldb,ksqldb,extracted,intermediate,1
+rust_aws_lambda_microservices,rust aws lambda microservices,extracted,intermediate,1
+high_performance_teams,high performance teams,extracted,intermediate,1
+a_product_flow_diagram,a product flow diagram,extracted,intermediate,1
+biostatistics_study_design,biostatistics study design,extracted,intermediate,1
+grant_writing,grant writing,extracted,intermediate,1
+a_mobile_app_interface,a mobile app interface,extracted,intermediate,1
+the_latest_innovations,the latest innovations,extracted,intermediate,1
+google_cloud_-_português,google cloud - português,extracted,intermediate,1
+genai_tools,genai tools,extracted,intermediate,1
+process_automation,process automation,extracted,intermediate,1
+master_profession,master profession,extracted,intermediate,1
+linkedin_designs,linkedin designs,extracted,intermediate,1
+openai's_assistant_api,openai's assistant api,extracted,intermediate,1
+an_entrepreneurial_mindset,an entrepreneurial mindset,extracted,intermediate,1
+first_step,first step,extracted,intermediate,1
+microcontrollers,microcontrollers,extracted,intermediate,1
+basic_architecture,basic architecture,extracted,intermediate,1
+probability_distributions,probability distributions,extracted,intermediate,1
+real_world_problems,real world problems,extracted,intermediate,1
+procedural_fractal,procedural fractal,extracted,intermediate,1
+spline,spline,extracted,intermediate,1
+a_developer_portfolio,a developer portfolio,extracted,intermediate,1
+sveltekit_&_sanity_cms,sveltekit & sanity cms,extracted,intermediate,1
+a_data_science_team,a data science team,extracted,intermediate,1
+master_chatgpt,master chatgpt,extracted,intermediate,1
+openai_apis,openai apis,extracted,intermediate,1
+ai_tools,ai tools,extracted,intermediate,1
+network_traffic,network traffic,extracted,intermediate,1
+tcpdump,tcpdump,extracted,intermediate,1
+a_logging_tool,a logging tool,extracted,intermediate,1
+instagram_reels,instagram reels,extracted,intermediate,1
+distributed_development,distributed development,extracted,intermediate,1
+sustainability,sustainability,extracted,intermediate,2
+responsibility,responsibility,extracted,intermediate,1
+questions,questions,extracted,intermediate,1
+our_emotions,our emotions,extracted,intermediate,1
+seongho's_new_proposal,seongho's new proposal,extracted,intermediate,1
+crypto,crypto,extracted,intermediate,1
+the_abcs,the abcs,extracted,intermediate,1
+the_aws_cloud,the aws cloud,extracted,intermediate,1
+crevado,crevado,extracted,intermediate,1
+human_needs,human needs,extracted,intermediate,1
+social_media_marketing_designs,social media marketing designs,extracted,intermediate,1
+etl_processing,etl processing,extracted,intermediate,1
+orientation,orientation,extracted,intermediate,1
+the_profession,the profession,extracted,intermediate,1
+publier_des,publier des,extracted,intermediate,1
+sur_slack,sur slack,extracted,intermediate,1
+canva_pour_entreprises,canva pour entreprises,extracted,intermediate,1
+brainstorm,brainstorm,extracted,intermediate,1
+unique_concepts,unique concepts,extracted,intermediate,1
+機器學習基石上,機器學習基石上,extracted,intermediate,1
+foundations)---mathematical_foundations,foundations)---mathematical foundations,extracted,intermediate,1
+customer_personas,customer personas,extracted,intermediate,1
+google_cloud_operations,google cloud operations,extracted,intermediate,1
+security_בעברית,security בעברית,extracted,intermediate,1
+innovation_strategy,innovation strategy,extracted,intermediate,1
+your_fintech_strategy,your fintech strategy,extracted,intermediate,1
+postgresql_tools,postgresql tools,extracted,intermediate,1
+text_embeddings,text embeddings,extracted,intermediate,1
+aeroecology,aeroecology,extracted,intermediate,1
+biodiversity,biodiversity,extracted,intermediate,1
+radar,radar,extracted,intermediate,1
+the_dmaic_framework,the dmaic framework,extracted,intermediate,1
+control_phase,control phase,extracted,intermediate,1
+python_modules,python modules,extracted,intermediate,1
+file_systems,file systems,extracted,intermediate,1
+service_innovation_culture,service innovation culture,extracted,intermediate,1
+public_sector,public sector,extracted,intermediate,1
+taxes,taxes,extracted,intermediate,1
+obstacles,obstacles,extracted,intermediate,1
+your_hidden_potential,your hidden potential,extracted,intermediate,1
+openai_api,openai api,extracted,intermediate,1
+ai_assistants,ai assistants,extracted,intermediate,1
+leadership_&_organization_design,leadership & organization design,extracted,intermediate,1
+supervised_learning_tip,supervised learning tip,extracted,intermediate,1
+pt.3,pt.3,extracted,intermediate,1
+youtube_design,youtube design,extracted,intermediate,1
+banners,banners,extracted,intermediate,1
+profile,profile,extracted,intermediate,1
+pics,pics,extracted,intermediate,1
+rest_api_automation,rest api automation,extracted,intermediate,1
+mining_quality_prediction,mining quality prediction,extracted,intermediate,1
+data-driven_decision_making,data-driven decision making,business_analysis,intermediate,1
+investment_decision_rules,investment decision rules,extracted,intermediate,1
+android_apps,android apps,extracted,intermediate,1
+app_inventor,app inventor,extracted,intermediate,1
+demand_planning,demand planning,extracted,intermediate,1
+demand_forecast,demand forecast,extracted,intermediate,1
+modular_monoliths,modular monoliths,extracted,intermediate,1
+.net,.net,extracted,intermediate,1
+a_service_-_master,a service - master,extracted,intermediate,2
+data_collection,data collection,extracted,intermediate,1
+privacy,privacy,extracted,intermediate,1
+data_analyst_job_requirements,data analyst job requirements,extracted,intermediate,1
+applied_math,applied math,extracted,intermediate,1
+materials_science,materials science,extracted,intermediate,1
+final_cut,final cut,extracted,intermediate,1
+clinical_reporting,clinical reporting,extracted,intermediate,1
+agentic_design_patterns,agentic design patterns,extracted,intermediate,1
+autogen,autogen,extracted,intermediate,1
+comparative_research_designs,comparative research designs,extracted,intermediate,1
+methods,methods,extracted,intermediate,1
+asp.net,asp.net,extracted,intermediate,2
+bridging_data,bridging data,extracted,intermediate,1
+personalized_nutrition,personalized nutrition,extracted,intermediate,1
+a_choice_board,a choice board,extracted,intermediate,1
+instagram_community,instagram community,extracted,intermediate,1
+website_visitors,website visitors,extracted,intermediate,1
+google_analytics_segments,google analytics segments,extracted,intermediate,1
+virtual_machines,virtual machines,extracted,intermediate,1
+secure_iot_applications,secure iot applications,extracted,intermediate,1
+a_customer_service_survey,a customer service survey,extracted,intermediate,1
+design_security_ops,design security ops,extracted,intermediate,1
+identity,identity,extracted,intermediate,1
+a_project,a project,extracted,intermediate,2
+public_key_infrastructure,public key infrastructure,extracted,intermediate,1
+software_design_threats,software design threats,extracted,intermediate,1
+mitigations,mitigations,extracted,intermediate,1
+color_grading,color grading,extracted,intermediate,1
+a_cinematic_look,a cinematic look,extracted,intermediate,1
+covid-19_testing_process,covid-19 testing process,extracted,intermediate,1
+agile_dev_practices,agile dev practices,extracted,intermediate,1
+sdlc,sdlc,extracted,intermediate,1
+predictive_ml_models,predictive ml models,extracted,intermediate,1
+master_unity_maze_games,master unity maze games,extracted,intermediate,1
+h2o.ai_platforms,h2o.ai platforms,extracted,intermediate,1
+practical_c++,practical c++,extracted,intermediate,1
+step,step,extracted,intermediate,2
+engineering_essentials,engineering essentials,extracted,intermediate,1
+part_design,part design,extracted,intermediate,1
+a_rag_application,a rag application,extracted,intermediate,1
+employee_management_system,employee management system,extracted,intermediate,1
+fpga_capstone,fpga capstone,extracted,intermediate,1
+fpga_projects,fpga projects,extracted,intermediate,1
+the_organization,the organization,extracted,intermediate,1
+hidden_features,hidden features,extracted,intermediate,1
+the_natural_language_api,the natural language api,extracted,intermediate,1
+react_hooks,react hooks,extracted,intermediate,1
+simple_project_plans,simple project plans,extracted,intermediate,1
+nested_and_split-plot_designs,nested and split-plot designs,extracted,intermediate,1
+study_designs,study designs,extracted,intermediate,1
+epidemiology,epidemiology,extracted,intermediate,1
+possibilities,possibilities,extracted,intermediate,1
+spring_framework_master_class,spring framework master class,extracted,intermediate,1
+java_spring,java spring,extracted,intermediate,1
+a_healthy_plate,a healthy plate,extracted,intermediate,1
+your_first_twitter,your first twitter,extracted,intermediate,1
+pcb_design,pcb design,extracted,intermediate,1
+eagle,eagle,extracted,intermediate,1
+food_regulations,food regulations,extracted,intermediate,1
+food,food,extracted,intermediate,1
+labeling,labeling,extracted,intermediate,1
+innovation_career_lessons,innovation career lessons,extracted,intermediate,1
+a_master,a master,extracted,intermediate,1
+network_principles,network principles,extracted,intermediate,1
+geospatial_analysis,geospatial analysis,extracted,intermediate,1
+qgis,qgis,extracted,intermediate,1
+openai_assistant,openai assistant,extracted,intermediate,1
+a_code,a code,extracted,intermediate,1
+uml-diagram_generator,uml-diagram generator,extracted,intermediate,1
+a_free_business_page,a free business page,extracted,intermediate,1
+porter’s_five_forces_model,porter’s five forces model,extracted,intermediate,1
+smart_business_assistants,smart business assistants,extracted,intermediate,1
+ibm_watson,ibm watson,extracted,intermediate,1
+a_nehéz_tantárgyakkal,a nehéz tantárgyakkal,extracted,intermediate,1
+master_jmeter,master jmeter,extracted,intermediate,1
+live_apps,live apps,extracted,intermediate,1
+spanner,spanner,extracted,intermediate,1
+your_productivity,your productivity,extracted,intermediate,1
+climate_change_mitigation,climate change mitigation,extracted,intermediate,1
+experiences,experiences,extracted,intermediate,1
+public_policy,public policy,extracted,intermediate,1
+social_change,social change,extracted,intermediate,1
+hubs,hubs,extracted,intermediate,1
+innovative_design,innovative design,extracted,intermediate,1
+a_streaming_data_pipeline,a streaming data pipeline,extracted,intermediate,1
+a_philosophical_guide,a philosophical guide,extracted,intermediate,1
+regression_machine_learning_problems,regression machine learning problems,extracted,intermediate,1
+spanner_-_defining_schemas,spanner - defining schemas,extracted,intermediate,1
+understanding_query,understanding query,extracted,intermediate,1
+animated_social_media_posts,animated social media posts,extracted,intermediate,1
+the_core,the core,extracted,intermediate,1
+realtime_pipelines,realtime pipelines,extracted,intermediate,1
+cloud_data_fusion,cloud data fusion,extracted,intermediate,2
+rcc_buildings,rcc buildings,extracted,intermediate,1
+h2o_gpte_learning_path,h2o gpte learning path,extracted,intermediate,1
+linux_command_line,linux command line,extracted,intermediate,1
+air_conditioning_equipment_selection,air conditioning equipment selection,extracted,intermediate,1
+math,math,extracted,intermediate,1
+fear,fear,extracted,intermediate,1
+professional_mockups,professional mockups,extracted,intermediate,1
+moqups,moqups,extracted,intermediate,1
+a_looker_modeled_query,a looker modeled query,extracted,intermediate,1
+a_greener_future,a greener future,extracted,intermediate,1
+master_black,master black,extracted,intermediate,1
+white,white,extracted,intermediate,1
+editing,editing,extracted,intermediate,1
+roadmaps,roadmaps,extracted,intermediate,1
+a_turret_shooter,a turret shooter,extracted,intermediate,1
+your_first_meta_quest,your first meta quest,extracted,intermediate,1
+vr_project,vr project,extracted,intermediate,1
+master_java_web_services,master java web services,extracted,intermediate,1
+rest_api,rest api,extracted,intermediate,1
+google_cloud_services,google cloud services,extracted,intermediate,1
+apigee,apigee,extracted,intermediate,1
+distributed_tensorflow,distributed tensorflow,extracted,intermediate,1
+platform,platform,extracted,intermediate,1
+production_&_lifelong_practice,production & lifelong practice,extracted,intermediate,1
+design_prompts,design prompts,extracted,intermediate,1
+everyday_work_tasks,everyday work tasks,extracted,intermediate,1
+new_product_development,new product development,extracted,intermediate,1
+your_own_new_product,your own new product,extracted,intermediate,1
+effective_presentations,effective presentations,extracted,intermediate,1
+complex_problems,complex problems,extracted,intermediate,1
+systems_-_português_brasileiro,systems - português brasileiro,extracted,intermediate,1
+urban_landscapes,urban landscapes,extracted,intermediate,1
+advanced_git,advanced git,extracted,intermediate,1
+github_practices,github practices,extracted,intermediate,1
+appsheet,appsheet,extracted,intermediate,1
+google_chat,google chat,extracted,intermediate,1
+webhooks,webhooks,extracted,intermediate,1
+automation_bots,automation bots,extracted,intermediate,1
+clinical_research,clinical research,extracted,intermediate,1
+the_statistics,the statistics,extracted,intermediate,1
+innovative_business_solutions,innovative business solutions,extracted,intermediate,1
+chatgpt_4o,chatgpt 4o,extracted,intermediate,1
+applied_plotting,applied plotting,extracted,intermediate,1
+sanitation_systems,sanitation systems,extracted,intermediate,1
+basic_elements,basic elements,extracted,intermediate,1
+software_overview,software overview,extracted,intermediate,1
+a_value_proposition_canvas,a value proposition canvas,extracted,intermediate,1
+pdf_balance_report,pdf balance report,extracted,intermediate,1
+power,power,extracted,intermediate,1
+backend_development,backend development,extracted,intermediate,1
+node-red,node-red,extracted,intermediate,1
+your_first_android_app,your first android app,extracted,intermediate,1
+chip_design,chip design,extracted,intermediate,1
+open-source_eda_tools,open-source eda tools,extracted,intermediate,1
+iso_security_standards,iso security standards,extracted,intermediate,1
+additive_manufacturing,additive manufacturing,extracted,intermediate,1
+cinematic_video_editing,cinematic video editing,extracted,intermediate,1
+master_exciting_youtube_intro,master exciting youtube intro,extracted,intermediate,1
+vídeos,vídeos,extracted,intermediate,1
+sus_posts,sus posts,extracted,intermediate,1
+maas,maas,extracted,intermediate,1
+adoption,adoption,extracted,intermediate,1
+a_book_store_application,a book store application,extracted,intermediate,1
+solar_energy_system_design,solar energy system design,extracted,intermediate,1
+data_interpretation,data interpretation,analytical,intermediate,1
+engineering_genetic_circuits,engineering genetic circuits,extracted,intermediate,1
+機器學習基石下,機器學習基石下,extracted,intermediate,1
+foundations)---algorithmic_foundations,foundations)---algorithmic foundations,extracted,intermediate,1
+the_circular_economy,the circular economy,extracted,intermediate,2
+mindsets,mindsets,extracted,intermediate,1
+mastery_toolbox,mastery toolbox,extracted,intermediate,1
+goals,goals,extracted,intermediate,1
+a_customer_chatbot,a customer chatbot,extracted,intermediate,1
+the_public_health_approach,the public health approach,extracted,intermediate,1
+an_hpc_environment,an hpc environment,extracted,intermediate,1
+a_key,a key,extracted,intermediate,1
+our_world,our world,extracted,intermediate,1
+the_need,the need,extracted,intermediate,1
+a_sustainable_business,a sustainable business,extracted,intermediate,1
+coaching_practices,coaching practices,extracted,intermediate,1
+a_bot,a bot,extracted,intermediate,1
+(fetch,(fetch,extracted,intermediate,1
+sustainable_supply_chains,sustainable supply chains,extracted,intermediate,1
+your_first_website,your first website,extracted,intermediate,2
+collaborative,collaborative,extracted,intermediate,1
+a_project_dashboard,a project dashboard,extracted,intermediate,1
+a_calculator,a calculator,extracted,intermediate,2
+cloud_support_associates,cloud support associates,extracted,intermediate,1
+a_business_mind_map,a business mind map,extracted,intermediate,1
+corporate_communications,corporate communications,extracted,intermediate,1
+a_complete_guide,a complete guide,extracted,intermediate,1
+chatbots,chatbots,extracted,intermediate,1
+generative_adversarial_networks,generative adversarial networks,extracted,intermediate,1
+gans,gans,extracted,intermediate,1
+healthcare_systems,healthcare systems,extracted,intermediate,1
+your_first_react_website,your first react website,extracted,intermediate,2
+master_apple_device_deployment,master apple device deployment,extracted,intermediate,1
+microsoft_intune,microsoft intune,extracted,intermediate,1
+building,building,extracted,intermediate,1
+alliances,alliances,extracted,intermediate,1
+global_health,global health,extracted,intermediate,1
+successful_hackers,successful hackers,extracted,intermediate,1
+community_code,community code,extracted,intermediate,1
+description_design,description design,extracted,intermediate,1
+interactive_learning_resources,interactive learning resources,extracted,intermediate,1
+generative_ai_solutions,generative ai solutions,extracted,intermediate,1
+tesla_stock_price_prediction,tesla stock price prediction,extracted,intermediate,1
+facebook_prophet,facebook prophet,extracted,intermediate,1
+wireshark,wireshark,extracted,intermediate,1
+packet_capture,packet capture,extracted,intermediate,1
+web_traffic,web traffic,extracted,intermediate,1
+inclusive_innovation,inclusive innovation,extracted,intermediate,1
+(sql,(sql,extracted,intermediate,1
+algorithmic_bias,algorithmic bias,extracted,intermediate,1
+a_policy_issue,a policy issue,extracted,intermediate,1
+sales_data,sales data,extracted,intermediate,1
+libreoffice_base_queries,libreoffice base queries,extracted,intermediate,1
+problem,problem,extracted,intermediate,1
+computational_thinking,computational thinking,extracted,intermediate,1
+an_affinity_diagram,an affinity diagram,extracted,intermediate,1
+angular_fundamentals,angular fundamentals,extracted,intermediate,1
+pandemic_challenges,pandemic challenges,extracted,intermediate,1
+corporate_presentations,corporate presentations,extracted,intermediate,1
+sql_reports,sql reports,extracted,intermediate,1
+gc_-_italiano,gc - italiano,extracted,intermediate,1
+a_multi_page_app,a multi page app,extracted,intermediate,1
+basic_sql_syntax,basic sql syntax,extracted,intermediate,1
+the_greater_good,the greater good,extracted,intermediate,1
+graphic_elements,graphic elements,extracted,intermediate,1
+color_theory,color theory,extracted,intermediate,1
+image_formats,image formats,extracted,intermediate,1
+facebook_messenger,facebook messenger,extracted,intermediate,1
+circular_product_design_frameworks,circular product design frameworks,extracted,intermediate,1
+certifications,certifications,extracted,intermediate,1
+google_ads,google ads,extracted,intermediate,1
+master_essentials,master essentials,extracted,intermediate,1
+big_data_workflows,big data workflows,extracted,intermediate,1
+react_application,react application,extracted,intermediate,1
+asp.net_mvc5,asp.net mvc5,extracted,intermediate,1
+interactive_choice_boards,interactive choice boards,extracted,intermediate,1
+seesaw,seesaw,extracted,intermediate,1
+responsible_practices,responsible practices,extracted,intermediate,1
+advanced_study,advanced study,extracted,intermediate,1
+engineering_degree_preview,engineering degree preview,extracted,intermediate,1
+obesity,obesity,extracted,intermediate,1
+managing_deployments,managing deployments,extracted,intermediate,1
+containers,containers,extracted,intermediate,1
+azure_kubernetes_service,azure kubernetes service,extracted,intermediate,1
+bfsi_interviews,bfsi interviews,extracted,intermediate,1
+shortest_paths,shortest paths,extracted,intermediate,1
+routers,routers,extracted,intermediate,1
+master_langchain,master langchain,extracted,intermediate,1
+no-code_tools,no-code tools,extracted,intermediate,1
+blockchain_foundations,blockchain foundations,extracted,intermediate,1
+design_infographics,design infographics,extracted,intermediate,1
+agile_success,agile success,extracted,intermediate,1
+2d_platformer,2d platformer,extracted,intermediate,1
+telehealth_best_practices,telehealth best practices,extracted,intermediate,1
+professionals,professionals,extracted,intermediate,2
+diagrams,diagrams,extracted,intermediate,1
+an_executive_presence,an executive presence,extracted,intermediate,1
+successful_pinterest_pins,successful pinterest pins,extracted,intermediate,1
+sql_select_statement,sql select statement,extracted,intermediate,1
+rails,rails,extracted,intermediate,1
+cloud_sql,cloud sql,extracted,intermediate,1
+project,project,extracted,intermediate,1
+pyqt,pyqt,extracted,intermediate,1
+university_science_laboratories,university science laboratories,extracted,intermediate,1
+a_pattern_collection,a pattern collection,extracted,intermediate,1
+creative_struggles,creative struggles,extracted,intermediate,1
+date-partitioned_tables,date-partitioned tables,extracted,intermediate,1
+no-code_chat_apps,no-code chat apps,extracted,intermediate,1
+access_web_data,access web data,extracted,intermediate,1
+logs-based_metrics,logs-based metrics,extracted,intermediate,1
+design_thinking_para_inovação,design thinking para inovação,extracted,intermediate,1
+de&i_interventions,de&i interventions,extracted,intermediate,1
+showbie,showbie,extracted,intermediate,1
+a_full_website,a full website,extracted,intermediate,1
+a_video_tweet,a video tweet,extracted,intermediate,1
+computer_use,computer use,extracted,intermediate,1
+anthropic,anthropic,extracted,intermediate,1
+quality_improvement,quality improvement,extracted,intermediate,1
+a_systems_view,a systems view,extracted,intermediate,1
+patient_safety,patient safety,extracted,intermediate,1
+a_movie_recommendation_app,a movie recommendation app,extracted,intermediate,1
+capabilities,capabilities,extracted,intermediate,1
+a_product-market_fit,a product-market fit,extracted,intermediate,1
+learning_with_ai,learning with ai,extracted,intermediate,1
+a_workspace,a workspace,extracted,intermediate,1
+a_team_project,a team project,extracted,intermediate,1
+design_restaurant_menu_website,design restaurant menu website,extracted,intermediate,1
+vscode,vscode,extracted,intermediate,1
+role-playing_games,role-playing games,extracted,intermediate,1
+a_roadmap_timeline,a roadmap timeline,extracted,intermediate,1
+understanding_user,understanding user,extracted,intermediate,1
+a_stroke_prediction_model,a stroke prediction model,extracted,intermediate,1
+poisson,poisson,extracted,intermediate,1
+negative_binomial_models,negative binomial models,extracted,intermediate,1
+networked_systems,networked systems,extracted,intermediate,1
+identity_services,identity services,extracted,intermediate,1
+ad_ds,ad ds,extracted,intermediate,1
+microsoft_entra,microsoft entra,extracted,intermediate,1
+youtube_shorts,youtube shorts,extracted,intermediate,1
+winning_content,winning content,extracted,intermediate,1
+pinterest_accounts,pinterest accounts,extracted,intermediate,1
+a_computer_vision_app,a computer vision app,extracted,intermediate,1
+master_version_control,master version control,extracted,intermediate,1
+branching,branching,extracted,intermediate,1
+3d_game_worlds,3d game worlds,extracted,intermediate,1
+applied_information_extraction,applied information extraction,extracted,intermediate,1
+lesson,lesson,extracted,intermediate,1
+the_phone,the phone,extracted,intermediate,1
+back-end_apps,back-end apps,extracted,intermediate,1
+laravel_framework,laravel framework,extracted,intermediate,1
+the_ice,the ice,extracted,intermediate,1
+the_arctic,the arctic,extracted,intermediate,1
+a_record,a record,extracted,intermediate,1
+abstraction,abstraction,extracted,intermediate,1
+smart_prompting_tips,smart prompting tips,extracted,intermediate,1
+team_building,team building,extracted,intermediate,1
+engaging_events,engaging events,extracted,intermediate,1
+hybrid_teams,hybrid teams,extracted,intermediate,1
+high-fidelity_designs,high-fidelity designs,extracted,intermediate,1
+concepts,concepts,extracted,intermediate,1
+case-based_frameworks,case-based frameworks,extracted,intermediate,1
+management_consulting,management consulting,extracted,intermediate,1
+supply_chain_analytics,supply chain analytics,extracted,intermediate,1
+global_logistics,global logistics,extracted,intermediate,1
+design_cinematic_sequences,design cinematic sequences,extracted,intermediate,1
+sequencer,sequencer,extracted,intermediate,1
+engaging_presentations,engaging presentations,extracted,intermediate,2
+a_community,a community,extracted,intermediate,1
+paralegals,paralegals,extracted,intermediate,1
+geostatistical_geospatial_modeling,geostatistical geospatial modeling,extracted,intermediate,1
+a_user_login_system,a user login system,extracted,intermediate,1
+batch_pipelines,batch pipelines,extracted,intermediate,1
+confluent,confluent,extracted,intermediate,1
+a_workplace,a workplace,extracted,intermediate,1
+people,people,extracted,intermediate,2
+intro,intro,extracted,intermediate,2
+an_internal_load_balancer,an internal load balancer,extracted,intermediate,1
+redis_cluster,redis cluster,extracted,intermediate,1
+elementor_mastery-,elementor mastery-,extracted,intermediate,1
+amazing_websites,amazing websites,extracted,intermediate,1
+elementor,elementor,extracted,intermediate,1
+collaborative_robot_safety,collaborative robot safety,extracted,intermediate,1
+social_awareness_content,social awareness content,extracted,intermediate,2
+compute_engine_azure,compute engine azure,extracted,intermediate,1
+cervical_cancer_risk_prediction,cervical cancer risk prediction,extracted,intermediate,1
+digital_literacy,digital literacy,extracted,intermediate,1
+computers,computers,extracted,intermediate,1
+a_fast_typing_game,a fast typing game,extracted,intermediate,1
+java_swing,java swing,extracted,intermediate,1
+interactive_game_levels,interactive game levels,extracted,intermediate,1
+container_builds,container builds,extracted,intermediate,1
+unity_breakout_game,unity breakout game,extracted,intermediate,1
+implement,implement,extracted,intermediate,1
+an_apache_web_server,an apache web server,extracted,intermediate,1
+ops_agent,ops agent,extracted,intermediate,1
+a_gem_collector_game,a gem collector game,extracted,intermediate,1
+synthetic_speech,synthetic speech,extracted,intermediate,1
+speech,speech,extracted,intermediate,1
+productive_diversity,productive diversity,extracted,intermediate,1
+design_remote_meeting_boards,design remote meeting boards,extracted,intermediate,1
+3d_design,3d design,extracted,intermediate,1
+a_realistic_environment,a realistic environment,extracted,intermediate,1
+data_manipulation,data manipulation,extracted,intermediate,1
+machine_learning_foundations,machine learning foundations,extracted,intermediate,1
+a_case_study_approach,a case study approach,extracted,intermediate,1
+modern_software_development,modern software development,extracted,intermediate,1
+immersive_games,immersive games,extracted,intermediate,1
+design-led_strategy,design-led strategy,extracted,intermediate,1
+服務模式的體驗、設計與創新：從痛點到賣點,服務模式的體驗、設計與創新：從痛點到賣點,extracted,intermediate,1
+(experience,(experience,extracted,intermediate,1
+service_models,service models,extracted,intermediate,1
+wireframing,wireframing,design,intermediate,2
+decision-making_systems,decision-making systems,extracted,intermediate,1
+high-performance_optical_systems,high-performance optical systems,extracted,intermediate,1
+b2b_&_b2c_sales,b2b & b2c sales,extracted,intermediate,1
+ux_web_design,ux web design,extracted,intermediate,1
+user-centric_websites,user-centric websites,extracted,intermediate,1
+a_product_launch,a product launch,extracted,intermediate,1
+js_apis,js apis,extracted,intermediate,1
+15_projects,15 projects,extracted,intermediate,1
+an_attractive_powerpoint_presentation,an attractive powerpoint presentation,extracted,intermediate,1
+clustering_models,clustering models,extracted,intermediate,1
+azure_ml_designer,azure ml designer,extracted,intermediate,1
+a_box_sprint_game,a box sprint game,extracted,intermediate,1
+visual_elements,visual elements,extracted,intermediate,1
+image_quality_inspection,image quality inspection,extracted,intermediate,1
+aws_lookout,aws lookout,extracted,intermediate,1
+vision,vision,extracted,intermediate,1
+an_account_strategy,an account strategy,extracted,intermediate,1
+managing_adhd,managing adhd,extracted,intermediate,1
+autism,autism,extracted,intermediate,1
+disabilities,disabilities,extracted,intermediate,1
+concussion,concussion,extracted,intermediate,1
+engaging_video,engaging video,extracted,intermediate,1
+google_vids,google vids,extracted,intermediate,1
+a_customer_support_chatbot,a customer support chatbot,extracted,intermediate,1
+flowise,flowise,extracted,intermediate,1
+network_automation,network automation,extracted,intermediate,1
+diplomatic_practice,diplomatic practice,extracted,intermediate,1
+a_process_map,a process map,extracted,intermediate,1
+a_canva_template,a canva template,extracted,intermediate,1
+effective_code_review_practices,effective code review practices,extracted,intermediate,1
+mentimeter,mentimeter,extracted,intermediate,1
+marketing_insights,marketing insights,extracted,intermediate,1
+the_gap,the gap,extracted,intermediate,1
+strategy_design,strategy design,extracted,intermediate,1
+delivery,delivery,extracted,intermediate,1
+unsupervised_learning,unsupervised learning,extracted,intermediate,1
+critical_path_analysis,critical path analysis,extracted,intermediate,1
+front-ends,front-ends,extracted,intermediate,1
+pmp_application_process,pmp application process,extracted,intermediate,1
+plots_creation,plots creation,extracted,intermediate,1
+matplotlib_python,matplotlib python,extracted,intermediate,1
+financial_markets,financial markets,extracted,intermediate,1
+the_machine,the machine,extracted,intermediate,1
+workspace,workspace,extracted,intermediate,1
+user_journeys,user journeys,extracted,intermediate,1
+interactive_web_content,interactive web content,extracted,intermediate,1
+ajax,ajax,extracted,intermediate,1
+zoom,zoom,extracted,intermediate,1
+autonomous_ai_agents,autonomous ai agents,extracted,intermediate,1
+langgraph,langgraph,extracted,intermediate,1
+digital_media,digital media,extracted,intermediate,1
+bgp_policy_controls,bgp policy controls,extracted,intermediate,1
+history,history,extracted,intermediate,1
+online_courses,online courses,extracted,intermediate,1
+product_managers,product managers,extracted,intermediate,1
+luxury_hospitality,luxury hospitality,extracted,intermediate,1
+blended_language_learning,blended language learning,extracted,intermediate,1
+teachers,teachers,extracted,intermediate,1
+test_case_design,test case design,extracted,intermediate,1
+your_first_wordpress_plugin,your first wordpress plugin,extracted,intermediate,1
+a_wordpress_site,a wordpress site,extracted,intermediate,1
+genai_apps,genai apps,extracted,intermediate,1
+gemini_and_google_maps,gemini and google maps,extracted,intermediate,1
+transmission_line,transmission line,extracted,intermediate,1
+modelling,modelling,extracted,intermediate,1
+immediate_digital_employee_feedback,immediate digital employee feedback,extracted,intermediate,1
+cloud_spanner,cloud spanner,extracted,intermediate,1
+the_enterprise_systems_environment,the enterprise systems environment,extracted,intermediate,1
+vs_code,vs code,extracted,intermediate,1
+data_literacy,data literacy,extracted,intermediate,1
+supervised_learning_regression_classification,supervised learning regression classification,extracted,intermediate,1
+schedule_content,schedule content,extracted,intermediate,1
+social_media,social media,extracted,intermediate,1
+advanced_programme_delivery_framework,advanced programme delivery framework,extracted,intermediate,1
+quantum_physics,quantum physics,extracted,intermediate,1
+a_success_plan,a success plan,extracted,intermediate,1
+credit_research,credit research,extracted,intermediate,1
+ratings,ratings,extracted,intermediate,1
+networks_-_español,networks - español,extracted,intermediate,1
+experiments,experiments,extracted,intermediate,1
+product_leaders,product leaders,extracted,intermediate,1
+pitfalls,pitfalls,extracted,intermediate,1
+retool,retool,extracted,intermediate,1
+english_public,english public,extracted,intermediate,1
+astrobiology,astrobiology,extracted,intermediate,1
+other_worlds,other worlds,extracted,intermediate,1
+interpersonal_skills,interpersonal skills,extracted,intermediate,1
+bioclimatic_design,bioclimatic design,extracted,intermediate,1
+software-defined_branch_infrastructures,software-defined branch infrastructures,extracted,intermediate,1
+job-winning_ats,job-winning ats,extracted,intermediate,1
+frame-mode_mpls,frame-mode mpls,extracted,intermediate,1
+auditing_ii,auditing ii,extracted,intermediate,1
+the_practice,the practice,extracted,intermediate,1
+auditing,auditing,extracted,intermediate,1
+variance,variance,extracted,intermediate,1
+tailwind_css,tailwind css,extracted,intermediate,2
+scratch_-_learn,scratch - learn,extracted,intermediate,1
+github_actions,github actions,extracted,intermediate,1
+devops_ci/cd,devops ci/cd,extracted,intermediate,1
+the_user_experience,the user experience,extracted,intermediate,1
+your_appsheet_app,your appsheet app,extracted,intermediate,1
+multiple_approach,multiple approach,extracted,intermediate,1
+a_user_experience,a user experience,extracted,intermediate,1
+social_good,social good,extracted,intermediate,1
+accessibility_and_inclusive_design,accessibility and inclusive design,extracted,intermediate,1
+detailing,detailing,extracted,intermediate,1
+rcc_elements,rcc elements,extracted,intermediate,1
+taiga,taiga,extracted,intermediate,1
+a_data,a data,extracted,intermediate,1
+the_engineering_design_process,the engineering design process,extracted,intermediate,1
+digital_manufacturing,digital manufacturing,extracted,intermediate,2
+entrepreneurs,entrepreneurs,extracted,intermediate,1
+emerging_markets,emerging markets,extracted,intermediate,1
+the_blockchain_technology,the blockchain technology,extracted,intermediate,1
+a_serverless_app,a serverless app,extracted,intermediate,1
+cloud_run,cloud run,extracted,intermediate,1
+pdf_files,pdf files,extracted,intermediate,1
+an_interactive_syllabus,an interactive syllabus,extracted,intermediate,1
+a_wordwand_app,a wordwand app,extracted,intermediate,1
+.net_developers,.net developers,extracted,intermediate,1
+the_master_guide,the master guide,extracted,intermediate,1
+cost-optimization,cost-optimization,extracted,intermediate,1
+gke_virtual_machines,gke virtual machines,extracted,intermediate,1
+real-world_use,real-world use,extracted,intermediate,1
+a_data_ninja,a data ninja,extracted,intermediate,1
+dungeon_design_mastery,dungeon design mastery,extracted,intermediate,1
+advanced_unreal_engine_techniques,advanced unreal engine techniques,extracted,intermediate,1
+a_business_case_template,a business case template,extracted,intermediate,2
+aromatherapy,aromatherapy,extracted,intermediate,1
+clinical_use,clinical use,extracted,intermediate,1
+essential_oils,essential oils,extracted,intermediate,1
+sales_training,sales training,extracted,intermediate,1
+your_sales_career,your sales career,extracted,intermediate,1
+ar/vr/mr/xr_apps,ar/vr/mr/xr apps,extracted,intermediate,1
+ux:_interaction_design,ux: interaction design,extracted,intermediate,1
+global_warming_ii,global warming ii,extracted,intermediate,1
+your_own_models,your own models,extracted,intermediate,1
+master_svelte_framework,master svelte framework,extracted,intermediate,1
+the_complete_course,the complete course,extracted,intermediate,1
+3d_platformer,3d platformer,extracted,intermediate,1
+a_high-throughput_vpn,a high-throughput vpn,extracted,intermediate,1
+statistical_models,statistical models,extracted,intermediate,1
+color_gradients,color gradients,extracted,intermediate,1
+power_platform,power platform,extracted,intermediate,1
+custom_&_automated_solutions,custom & automated solutions,extracted,intermediate,1
+cinematic_storytelling,cinematic storytelling,extracted,intermediate,1
+powerful_dashboards,powerful dashboards,extracted,intermediate,1
+descriptive_statistics,descriptive statistics,extracted,intermediate,1
+security_concepts,security concepts,extracted,intermediate,1
+analytics,analytics,extracted,intermediate,1
+powerful_mental_tools,powerful mental tools,extracted,intermediate,1
+tough_subjects,tough subjects,extracted,intermediate,1
+ios_applications,ios applications,extracted,intermediate,1
+uikit,uikit,extracted,intermediate,1
+the_u.s._healthcare_landscape,the u.s. healthcare landscape,extracted,intermediate,1
+sap_data_foundation,sap data foundation,extracted,intermediate,1
+looker_dashboards,looker dashboards,extracted,intermediate,1
+advanced_rendering_effects,advanced rendering effects,extracted,intermediate,1
+master_problem,master problem,extracted,intermediate,1
+job_shop_scheduling,job shop scheduling,extracted,intermediate,1
+milp_optimization,milp optimization,extracted,intermediate,1
